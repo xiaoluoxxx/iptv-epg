@@ -1,0 +1,56 @@
+name: auto update
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+  # auto update at 1,7,12,18 o'clock Beijing time
+  # check at https://crontab.guru/
+  - cron: "0 1,4,6,10,12,16,17,18,19,20,21,22,23 * * *" 
+  
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - uses: actions/cache@v1
+        if: startsWith(runner.os, 'Linux')
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone 'Asia/Shanghai'
+      
+      - name: Update tv-guide
+        run: |
+          pwd
+          python get-epg.py
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions-bot@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "🚀 update(更新) tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
+      - name: Pull changes
+        run: git pull -r
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
