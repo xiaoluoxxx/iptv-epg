@@ -1179,11 +1179,14 @@
     <programme start="20230320090200" stop="20230320100000" channel="cctv4">
         <title lang="zh">中国舆论场-2023-10</title>
     </programme>
-    <programme start="20230320100000" stop="20230320110000" channel="cctv4">
+    <programme start="20230320100000" stop="20230320110500" channel="cctv4">
         <title lang="zh">2023年国新办发布会-19</title>
     </programme>
-    <programme start="20230320110000" stop="20230320113000" channel="cctv4">
-        <title lang="zh">记住乡愁2023-45</title>
+    <programme start="20230320110500" stop="20230320111500" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-95</title>
+    </programme>
+    <programme start="20230320111500" stop="20230320113000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-96</title>
     </programme>
     <programme start="20230320113000" stop="20230320120000" channel="cctv4">
         <title lang="zh">海峡两岸-2023-78</title>
@@ -1989,8 +1992,11 @@
     <programme start="20230322014800" stop="20230322031600" channel="cctv6">
         <title lang="zh">火云传奇</title>
     </programme>
-    <programme start="20230322031600" stop="20230322045700" channel="cctv6">
-        <title lang="zh">遗言</title>
+    <programme start="20230322031600" stop="20230322045200" channel="cctv6">
+        <title lang="zh">阿德龙大酒店3</title>
+    </programme>
+    <programme start="20230322045200" stop="20230322045700" channel="cctv6">
+        <title lang="zh">核心价值观主题微电影：D97</title>
     </programme>
     <programme start="20230322045700" stop="20230322064000" channel="cctv6">
         <title lang="zh">中国机长</title>
@@ -2262,8 +2268,11 @@
     <programme start="20230321233500" stop="20230321235900" channel="cctv7">
         <title lang="zh">军事纪实-2023-57</title>
     </programme>
-    <programme start="20230322001000" stop="20230322060300" channel="cctv7">
+    <programme start="20230322001000" stop="20230322004800" channel="cctv7">
         <title lang="zh">兵器面面观-2023-43</title>
+    </programme>
+    <programme start="20230322004800" stop="20230322060300" channel="cctv7">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20230322060300" stop="20230322063400" channel="cctv7">
         <title lang="zh">军事纪实-2023-57</title>
