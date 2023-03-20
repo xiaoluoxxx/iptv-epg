@@ -387,13 +387,13 @@
     <programme start="20230321144900" stop="20230321153700" channel="cctv1">
         <title lang="zh">我们的日子第23集</title>
     </programme>
-    <programme start="20230321153700" stop="20230321162400" channel="cctv1">
+    <programme start="20230321153700" stop="20230321162600" channel="cctv1">
         <title lang="zh">我们的日子第24集</title>
     </programme>
-    <programme start="20230321162400" stop="20230321171400" channel="cctv1">
+    <programme start="20230321162600" stop="20230321171600" channel="cctv1">
         <title lang="zh">我们的日子第25集</title>
     </programme>
-    <programme start="20230321171400" stop="20230321180300" channel="cctv1">
+    <programme start="20230321171600" stop="20230321180300" channel="cctv1">
         <title lang="zh">第一动画乐园-2023-141</title>
     </programme>
     <programme start="20230321180300" stop="20230321182500" channel="cctv1">
@@ -414,13 +414,13 @@
     <programme start="20230321200100" stop="20230321200600" channel="cctv1">
         <title lang="zh">前情提要- 《人生之路》第2集</title>
     </programme>
-    <programme start="20230321200600" stop="20230321205800" channel="cctv1">
+    <programme start="20230321200600" stop="20230321205600" channel="cctv1">
         <title lang="zh">人生之路第2集</title>
     </programme>
-    <programme start="20230321205800" stop="20230321210000" channel="cctv1">
+    <programme start="20230321205600" stop="20230321210100" channel="cctv1">
         <title lang="zh">前情提要- 《人生之路》第3集</title>
     </programme>
-    <programme start="20230321210000" stop="20230321220000" channel="cctv1">
+    <programme start="20230321210100" stop="20230321220000" channel="cctv1">
         <title lang="zh">人生之路第3集</title>
     </programme>
     <programme start="20230321220000" stop="20230321223300" channel="cctv1">
@@ -2605,13 +2605,13 @@
         <title lang="zh">本集提要-《心想事成》25/36</title>
     </programme>
     <programme start="20230321193000" stop="20230321202500" channel="cctv8">
-        <title lang="zh">心想事成25/36</title>
+        <title lang="zh">心想事成第25集</title>
     </programme>
     <programme start="20230321202500" stop="20230321203000" channel="cctv8">
         <title lang="zh">本集提要-《心想事成》26/36</title>
     </programme>
     <programme start="20230321203000" stop="20230321212400" channel="cctv8">
-        <title lang="zh">心想事成26/36</title>
+        <title lang="zh">心想事成第26集</title>
     </programme>
     <programme start="20230321212400" stop="20230321212900" channel="cctv8">
         <title lang="zh">本集提要- 《他是谁》第8集</title>
