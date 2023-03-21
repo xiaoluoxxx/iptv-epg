@@ -891,11 +891,11 @@
     <programme start="20230323215600" stop="20230323223300" channel="cctv2">
         <title lang="zh">2022精品财经纪录-又见三星堆4</title>
     </programme>
-    <programme start="20230323223300" stop="20230323230600" channel="cctv2">
-        <title lang="zh">经济半小时</title>
-    </programme>
-    <programme start="20230323230600" stop="20230323235900" channel="cctv2">
+    <programme start="20230323223300" stop="20230323233400" channel="cctv2">
         <title lang="zh">一槌定音-2023-10</title>
+    </programme>
+    <programme start="20230323233400" stop="20230323235900" channel="cctv2">
+        <title lang="zh">经济半小时</title>
     </programme>
     <programme start="20230321002300" stop="20230321010600" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-236 流金岁月 35/38</title>
@@ -2470,13 +2470,13 @@
         <title lang="zh">星推荐-2023年3月-21</title>
     </programme>
     <programme start="20230321192600" stop="20230321193000" channel="cctv8">
-        <title lang="zh">本集提要-《心想事成》25/36</title>
+        <title lang="zh">本集提要- 《心想事成》第25集</title>
     </programme>
     <programme start="20230321193000" stop="20230321202500" channel="cctv8">
         <title lang="zh">心想事成第25集</title>
     </programme>
     <programme start="20230321202500" stop="20230321203000" channel="cctv8">
-        <title lang="zh">本集提要-《心想事成》26/36</title>
+        <title lang="zh">本集提要- 《心想事成》第26集</title>
     </programme>
     <programme start="20230321203000" stop="20230321212400" channel="cctv8">
         <title lang="zh">心想事成第26集</title>
