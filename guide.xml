@@ -412,16 +412,16 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20230322200100" stop="20230322200600" channel="cctv1">
-        <title lang="zh">前情提要-《人生之路》4/37</title>
+        <title lang="zh">前情提要- 《人生之路》第4集</title>
     </programme>
     <programme start="20230322200600" stop="20230322205800" channel="cctv1">
-        <title lang="zh">人生之路4/37</title>
+        <title lang="zh">人生之路第4集</title>
     </programme>
     <programme start="20230322205800" stop="20230322210000" channel="cctv1">
-        <title lang="zh">前情提要-《人生之路》5/37</title>
+        <title lang="zh">前情提要- 《人生之路》第5集</title>
     </programme>
     <programme start="20230322210000" stop="20230322220000" channel="cctv1">
-        <title lang="zh">人生之路5/37</title>
+        <title lang="zh">人生之路第5集</title>
     </programme>
     <programme start="20230322220000" stop="20230322223300" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -640,7 +640,7 @@
         <title lang="zh">2023精品财经纪录-乡野有真味-8</title>
     </programme>
     <programme start="20230321183000" stop="20230321190000" channel="cctv2">
-        <title lang="zh">回家吃饭-2023-64</title>
+        <title lang="zh">回家吃饭-2023-73</title>
     </programme>
     <programme start="20230321190000" stop="20230321193000" channel="cctv2">
         <title lang="zh">生财有道-2023-3-21</title>
@@ -660,11 +660,11 @@
     <programme start="20230321215600" stop="20230321223300" channel="cctv2">
         <title lang="zh">2022精品财经纪录-又见三星堆2</title>
     </programme>
-    <programme start="20230321223300" stop="20230321230400" channel="cctv2">
-        <title lang="zh">经济半小时</title>
-    </programme>
-    <programme start="20230321230400" stop="20230321235400" channel="cctv2">
+    <programme start="20230321223300" stop="20230321232000" channel="cctv2">
         <title lang="zh">中国经济大讲堂-2023-11</title>
+    </programme>
+    <programme start="20230321232000" stop="20230321235400" channel="cctv2">
+        <title lang="zh">经济半小时</title>
     </programme>
     <programme start="20230321235400" stop="20230321235900" channel="cctv2">
         <title lang="zh">一槌定音-2023-10</title>
@@ -682,7 +682,7 @@
         <title lang="zh">职场健康课-2023-11</title>
     </programme>
     <programme start="20230322043200" stop="20230322050000" channel="cctv2">
-        <title lang="zh">回家吃饭-2023-64</title>
+        <title lang="zh">回家吃饭-2023-73</title>
     </programme>
     <programme start="20230322050000" stop="20230322053100" channel="cctv2">
         <title lang="zh">消费主张</title>
@@ -727,7 +727,7 @@
         <title lang="zh">周末特供2023-大美中国（春天系列）1</title>
     </programme>
     <programme start="20230322133100" stop="20230322140000" channel="cctv2">
-        <title lang="zh">回家吃饭-2023-64</title>
+        <title lang="zh">回家吃饭-2023-73</title>
     </programme>
     <programme start="20230322140000" stop="20230322143000" channel="cctv2">
         <title lang="zh">正点财经</title>
@@ -777,11 +777,11 @@
     <programme start="20230322215600" stop="20230322223300" channel="cctv2">
         <title lang="zh">2022精品财经纪录-又见三星堆3</title>
     </programme>
-    <programme start="20230322223300" stop="20230322230500" channel="cctv2">
-        <title lang="zh">经济半小时</title>
-    </programme>
-    <programme start="20230322230500" stop="20230322235900" channel="cctv2">
+    <programme start="20230322223300" stop="20230322233500" channel="cctv2">
         <title lang="zh">职场健康课-2023-11</title>
+    </programme>
+    <programme start="20230322233500" stop="20230322235900" channel="cctv2">
+        <title lang="zh">经济半小时</title>
     </programme>
     <programme start="20230323000900" stop="20230323005100" channel="cctv2">
         <title lang="zh">对话-2023-10</title>
