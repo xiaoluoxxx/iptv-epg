@@ -164,7 +164,7 @@ def getChannelTVsou(fhandle, channelID):
             fhandle.write('    </programme>\n')
 '''
 
-with open('guide.xml','w', encoding='utf-8') as fhandle: # 参数 w 表示覆盖，追加用 at (追加+文本)
+with open('EPG.xml','w', encoding='utf-8') as fhandle: # 参数 w 表示覆盖，追加用 at (追加+文本)
     fhandle.write('<?xml version="1.0" encoding="utf-8" ?>\n')
     fhandle.write('<tv generator-info-name="frankwuzp" generator-info-url="https://github.com/frankwuzp/iptv-cn">\n')
 #    getChannelTVsou(fhandle,cctv_channel_tvsou)
