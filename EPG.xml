@@ -426,19 +426,19 @@
     <programme start="20230323232800" stop="20230323235900" channel="cctv1">
         <title lang="zh">山水间的家-精编2</title>
     </programme>
-    <programme start="20230324011000" stop="20230324014400" channel="cctv1">
+    <programme start="20230324011000" stop="20230324014000" channel="cctv1">
         <title lang="zh">今日说法-2023-66</title>
     </programme>
-    <programme start="20230324014400" stop="20230324021300" channel="cctv1">
+    <programme start="20230324014000" stop="20230324020900" channel="cctv1">
         <title lang="zh">人与自然-2023-67</title>
     </programme>
-    <programme start="20230324021300" stop="20230324024300" channel="cctv1">
+    <programme start="20230324020900" stop="20230324023900" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20230324024300" stop="20230324025000" channel="cctv1">
-        <title lang="zh">精彩一刻-2023-6国宝4朝元图</title>
+    <programme start="20230324023900" stop="20230324025100" channel="cctv1">
+        <title lang="zh">精彩一刻-2023-30航拍4香港维多利亚港</title>
     </programme>
-    <programme start="20230324025000" stop="20230324025500" channel="cctv1">
+    <programme start="20230324025100" stop="20230324025500" channel="cctv1">
         <title lang="zh">泱泱中华-历史文化街区</title>
     </programme>
     <programme start="20230324025500" stop="20230324042900" channel="cctv1">
@@ -2278,7 +2278,7 @@
         <title lang="zh">兵器面面观-2023-45</title>
     </programme>
     <programme start="20230324103300" stop="20230324105800" channel="cctv7">
-        <title lang="zh">世界战史-2022-22</title>
+        <title lang="zh">世界战史-2023-14</title>
     </programme>
     <programme start="20230324105800" stop="20230324112800" channel="cctv7">
         <title lang="zh">国防故事-2022-213</title>
@@ -2458,13 +2458,13 @@
         <title lang="zh">本集提要- 《心想事成》第27集</title>
     </programme>
     <programme start="20230322193000" stop="20230322202500" channel="cctv8">
-        <title lang="zh">心想事成27/36</title>
+        <title lang="zh">心想事成第27集</title>
     </programme>
     <programme start="20230322202500" stop="20230322203000" channel="cctv8">
         <title lang="zh">本集提要- 《心想事成》第28集</title>
     </programme>
     <programme start="20230322203000" stop="20230322212400" channel="cctv8">
-        <title lang="zh">心想事成28/36</title>
+        <title lang="zh">心想事成第28集</title>
     </programme>
     <programme start="20230322212400" stop="20230322212900" channel="cctv8">
         <title lang="zh">本集提要- 《他是谁》第9集</title>
@@ -2590,7 +2590,7 @@
         <title lang="zh">心想事成30/36</title>
     </programme>
     <programme start="20230323212400" stop="20230323212900" channel="cctv8">
-        <title lang="zh">本集提要-《他是谁》10/24</title>
+        <title lang="zh">本集提要- 《他是谁》第10集</title>
     </programme>
     <programme start="20230323212900" stop="20230323222100" channel="cctv8">
         <title lang="zh">他是谁10/24</title>
