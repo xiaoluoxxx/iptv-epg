@@ -393,13 +393,13 @@
     <programme start="20230324200100" stop="20230324200600" channel="cctv1">
         <title lang="zh">前情提要- 《人生之路》第8集</title>
     </programme>
-    <programme start="20230324200600" stop="20230324205800" channel="cctv1">
+    <programme start="20230324200600" stop="20230324205600" channel="cctv1">
         <title lang="zh">人生之路第8集</title>
     </programme>
-    <programme start="20230324205800" stop="20230324210000" channel="cctv1">
+    <programme start="20230324205600" stop="20230324210100" channel="cctv1">
         <title lang="zh">前情提要- 《人生之路》第9集</title>
     </programme>
-    <programme start="20230324210000" stop="20230324220000" channel="cctv1">
+    <programme start="20230324210100" stop="20230324220000" channel="cctv1">
         <title lang="zh">人生之路第9集</title>
     </programme>
     <programme start="20230324220000" stop="20230324223300" channel="cctv1">
@@ -712,7 +712,7 @@
         <title lang="zh">正点财经</title>
     </programme>
     <programme start="20230324173100" stop="20230324174900" channel="cctv2">
-        <title lang="zh">周末特供2023-268</title>
+        <title lang="zh">周末特供2022-水果传1-18分版</title>
     </programme>
     <programme start="20230324174900" stop="20230324183000" channel="cctv2">
         <title lang="zh">2022精品财经纪录-老广的味道第七季-5</title>
@@ -2518,7 +2518,7 @@
         <title lang="zh">本集提要- 《他是谁》第11集</title>
     </programme>
     <programme start="20230324212900" stop="20230324222100" channel="cctv8">
-        <title lang="zh">他是谁11/24</title>
+        <title lang="zh">他是谁第11集</title>
     </programme>
     <programme start="20230324222100" stop="20230324231000" channel="cctv8">
         <title lang="zh">完美伴侣第24集</title>
