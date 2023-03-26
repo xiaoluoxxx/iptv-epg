@@ -8,7 +8,7 @@ on:
   schedule:
   # auto update at 1,7,12,18 o'clock Beijing time
   # check at https://crontab.guru/
-  - cron: "0 1,4,8,12,16,18,20,22,23 * * *" 
+  - cron: "0 0 * * *" 
 
 jobs:
   build:
