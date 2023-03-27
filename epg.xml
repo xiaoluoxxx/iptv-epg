@@ -9032,15 +9032,15 @@
 		<desc lang="zh">CCTV-1 综合</desc>
 	</programme>
 	<programme start="20230328092600" stop="20230328101600" channel="cctv1">
-		<title lang="zh">风雨送春归33/40</title>
+		<title lang="zh">风雨送春归第33集</title>
 		<desc lang="zh">CCTV-1 综合</desc>
 	</programme>
 	<programme start="20230328101600" stop="20230328110400" channel="cctv1">
-		<title lang="zh">风雨送春归34/40</title>
+		<title lang="zh">风雨送春归第34集</title>
 		<desc lang="zh">CCTV-1 综合</desc>
 	</programme>
 	<programme start="20230328110400" stop="20230328115100" channel="cctv1">
-		<title lang="zh">风雨送春归35/40</title>
+		<title lang="zh">风雨送春归第35集</title>
 		<desc lang="zh">CCTV-1 综合</desc>
 	</programme>
 	<programme start="20230328115100" stop="20230328115400" channel="cctv1">
@@ -9060,23 +9060,23 @@
 		<desc lang="zh">CCTV-1 综合</desc>
 	</programme>
 	<programme start="20230328131000" stop="20230328135800" channel="cctv1">
-		<title lang="zh">县委大院17/24</title>
+		<title lang="zh">县委大院第17集</title>
 		<desc lang="zh">CCTV-1 综合</desc>
 	</programme>
 	<programme start="20230328135800" stop="20230328144700" channel="cctv1">
-		<title lang="zh">县委大院18/24</title>
+		<title lang="zh">县委大院第18集</title>
 		<desc lang="zh">CCTV-1 综合</desc>
 	</programme>
 	<programme start="20230328144700" stop="20230328153400" channel="cctv1">
-		<title lang="zh">县委大院19/24</title>
+		<title lang="zh">县委大院第19集</title>
 		<desc lang="zh">CCTV-1 综合</desc>
 	</programme>
 	<programme start="20230328153400" stop="20230328162100" channel="cctv1">
-		<title lang="zh">县委大院20/24</title>
+		<title lang="zh">县委大院第20集</title>
 		<desc lang="zh">CCTV-1 综合</desc>
 	</programme>
 	<programme start="20230328162100" stop="20230328171200" channel="cctv1">
-		<title lang="zh">县委大院21/24</title>
+		<title lang="zh">县委大院第21集</title>
 		<desc lang="zh">CCTV-1 综合</desc>
 	</programme>
 	<programme start="20230328171200" stop="20230328175800" channel="cctv1">
@@ -9104,19 +9104,19 @@
 		<desc lang="zh">CCTV-1 综合</desc>
 	</programme>
 	<programme start="20230328200100" stop="20230328200600" channel="cctv1">
-		<title lang="zh">前情提要-《人生之路》12/37</title>
+		<title lang="zh">前情提要- 《人生之路》第12集</title>
 		<desc lang="zh">CCTV-1 综合</desc>
 	</programme>
-	<programme start="20230328200600" stop="20230328205800" channel="cctv1">
-		<title lang="zh">人生之路12/37</title>
+	<programme start="20230328200600" stop="20230328205600" channel="cctv1">
+		<title lang="zh">人生之路第12集</title>
 		<desc lang="zh">CCTV-1 综合</desc>
 	</programme>
-	<programme start="20230328205800" stop="20230328210200" channel="cctv1">
-		<title lang="zh">前情提要-《人生之路》13/37</title>
+	<programme start="20230328205600" stop="20230328210000" channel="cctv1">
+		<title lang="zh">前情提要- 《人生之路》第13集</title>
 		<desc lang="zh">CCTV-1 综合</desc>
 	</programme>
-	<programme start="20230328210200" stop="20230328220000" channel="cctv1">
-		<title lang="zh">人生之路13/37</title>
+	<programme start="20230328210000" stop="20230328220000" channel="cctv1">
+		<title lang="zh">人生之路第13集</title>
 		<desc lang="zh">CCTV-1 综合</desc>
 	</programme>
 	<programme start="20230328220000" stop="20230328223300" channel="cctv1">
@@ -9488,23 +9488,23 @@
 		<desc lang="zh">CCTV-4 (亚洲)</desc>
 	</programme>
 	<programme start="20230328131000" stop="20230328135800" channel="cctv4">
-		<title lang="zh">加油！妈妈25/40</title>
+		<title lang="zh">加油！妈妈第25集</title>
 		<desc lang="zh">CCTV-4 (亚洲)</desc>
 	</programme>
 	<programme start="20230328135800" stop="20230328144600" channel="cctv4">
-		<title lang="zh">加油！妈妈26/40</title>
+		<title lang="zh">加油！妈妈第26集</title>
 		<desc lang="zh">CCTV-4 (亚洲)</desc>
 	</programme>
 	<programme start="20230328144600" stop="20230328153300" channel="cctv4">
-		<title lang="zh">加油！妈妈27/40</title>
+		<title lang="zh">加油！妈妈第27集</title>
 		<desc lang="zh">CCTV-4 (亚洲)</desc>
 	</programme>
 	<programme start="20230328153300" stop="20230328162100" channel="cctv4">
-		<title lang="zh">加油！妈妈28/40</title>
+		<title lang="zh">加油！妈妈第28集</title>
 		<desc lang="zh">CCTV-4 (亚洲)</desc>
 	</programme>
 	<programme start="20230328162100" stop="20230328171300" channel="cctv4">
-		<title lang="zh">加油！妈妈29/40</title>
+		<title lang="zh">加油！妈妈第29集</title>
 		<desc lang="zh">CCTV-4 (亚洲)</desc>
 	</programme>
 	<programme start="20230328171300" stop="20230328171500" channel="cctv4">
@@ -9556,11 +9556,11 @@
 		<desc lang="zh">CCTV-4 (亚洲)</desc>
 	</programme>
 	<programme start="20230328230300" stop="20230328234900" channel="cctv4">
-		<title lang="zh">夺金33/38</title>
+		<title lang="zh">夺金第33集</title>
 		<desc lang="zh">CCTV-4 (亚洲)</desc>
 	</programme>
 	<programme start="20230328234900" stop="20230328235900" channel="cctv4">
-		<title lang="zh">夺金34/38</title>
+		<title lang="zh">夺金第34集</title>
 		<desc lang="zh">CCTV-4 (亚洲)</desc>
 	</programme>
 	<programme start="20230328003000" stop="20230328033500" channel="cctv5">
@@ -9968,19 +9968,19 @@
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328043000" stop="20230328051600" channel="cctv8">
-		<title lang="zh">远方的山楂树3/48</title>
+		<title lang="zh">远方的山楂树第3集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328051600" stop="20230328060200" channel="cctv8">
-		<title lang="zh">远方的山楂树4/48</title>
+		<title lang="zh">远方的山楂树第4集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328060200" stop="20230328065200" channel="cctv8">
-		<title lang="zh">远方的山楂树5/48</title>
+		<title lang="zh">远方的山楂树第5集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328065200" stop="20230328073800" channel="cctv8">
-		<title lang="zh">远方的山楂树6/48</title>
+		<title lang="zh">远方的山楂树第6集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328073800" stop="20230328074700" channel="cctv8">
@@ -9988,11 +9988,11 @@
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328074700" stop="20230328084200" channel="cctv8">
-		<title lang="zh">猎豺狼29/42</title>
+		<title lang="zh">猎豺狼第29集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328084200" stop="20230328093200" channel="cctv8">
-		<title lang="zh">猎豺狼30/42</title>
+		<title lang="zh">猎豺狼第30集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328093200" stop="20230328094300" channel="cctv8">
@@ -10000,15 +10000,15 @@
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328094300" stop="20230328104000" channel="cctv8">
-		<title lang="zh">猎豺狼31/42</title>
+		<title lang="zh">猎豺狼第31集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328104000" stop="20230328113600" channel="cctv8">
-		<title lang="zh">猎豺狼32/42</title>
+		<title lang="zh">猎豺狼第32集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328113600" stop="20230328122200" channel="cctv8">
-		<title lang="zh">猎豺狼33/42</title>
+		<title lang="zh">猎豺狼第33集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328122200" stop="20230328123700" channel="cctv8">
@@ -10016,19 +10016,19 @@
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328123700" stop="20230328133300" channel="cctv8">
-		<title lang="zh">向风而行13/39</title>
+		<title lang="zh">向风而行第13集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328133300" stop="20230328142900" channel="cctv8">
-		<title lang="zh">向风而行14/39</title>
+		<title lang="zh">向风而行第14集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328142900" stop="20230328152500" channel="cctv8">
-		<title lang="zh">向风而行15/39</title>
+		<title lang="zh">向风而行第15集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328152500" stop="20230328161100" channel="cctv8">
-		<title lang="zh">向风而行16/39</title>
+		<title lang="zh">向风而行第16集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328161100" stop="20230328162500" channel="cctv8">
@@ -10040,22 +10040,22 @@
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328162900" stop="20230328173100" channel="cctv8">
-		<title lang="zh">情满九道弯6/40</title>
+		<title lang="zh">情满九道弯第6集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328173100" stop="20230328182400" channel="cctv8">
-		<title lang="zh">情满九道弯7/40</title>
+		<title lang="zh">情满九道弯第7集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328182400" stop="20230328183100" channel="cctv8">
 		<title lang="zh">星推荐-2023年3月-27</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
-	<programme start="20230328183100" stop="20230328191900" channel="cctv8">
-		<title lang="zh">情满九道弯8/40</title>
+	<programme start="20230328183100" stop="20230328192000" channel="cctv8">
+		<title lang="zh">情满九道弯第8集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
-	<programme start="20230328191900" stop="20230328192600" channel="cctv8">
+	<programme start="20230328192000" stop="20230328192600" channel="cctv8">
 		<title lang="zh">星推荐-2023年3月-28</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
@@ -10076,22 +10076,22 @@
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328212400" stop="20230328212900" channel="cctv8">
-		<title lang="zh">本集提要-《他是谁》15/24</title>
+		<title lang="zh">本集提要- 《他是谁》第15集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230328212900" stop="20230328222200" channel="cctv8">
 		<title lang="zh">他是谁15/24</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
-	<programme start="20230328222200" stop="20230328231000" channel="cctv8">
-		<title lang="zh">完美伴侣28/40</title>
+	<programme start="20230328222200" stop="20230328231100" channel="cctv8">
+		<title lang="zh">完美伴侣第28集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
-	<programme start="20230328231000" stop="20230328235600" channel="cctv8">
-		<title lang="zh">完美伴侣29/40</title>
+	<programme start="20230328231100" stop="20230328235700" channel="cctv8">
+		<title lang="zh">完美伴侣第29集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
-	<programme start="20230328235600" stop="20230328235900" channel="cctv8">
+	<programme start="20230328235700" stop="20230328235900" channel="cctv8">
 		<title lang="zh">星推荐-2023年3月-28</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
@@ -10412,11 +10412,11 @@
 		<desc lang="zh">CCTV-11 戏曲</desc>
 	</programme>
 	<programme start="20230328114800" stop="20230328123900" channel="cctv11">
-		<title lang="zh">娘亲舅大9/51</title>
+		<title lang="zh">娘亲舅大第9集</title>
 		<desc lang="zh">CCTV-11 戏曲</desc>
 	</programme>
 	<programme start="20230328123900" stop="20230328132900" channel="cctv11">
-		<title lang="zh">娘亲舅大10/51</title>
+		<title lang="zh">娘亲舅大第10集</title>
 		<desc lang="zh">CCTV-11 戏曲</desc>
 	</programme>
 	<programme start="20230328132900" stop="20230328155200" channel="cctv11">
@@ -10432,11 +10432,11 @@
 		<desc lang="zh">CCTV-11 戏曲</desc>
 	</programme>
 	<programme start="20230328171300" stop="20230328180300" channel="cctv11">
-		<title lang="zh">雪中悍刀行27/38</title>
+		<title lang="zh">雪中悍刀行第27集</title>
 		<desc lang="zh">CCTV-11 戏曲</desc>
 	</programme>
 	<programme start="20230328180300" stop="20230328190000" channel="cctv11">
-		<title lang="zh">雪中悍刀行28/38</title>
+		<title lang="zh">雪中悍刀行第28集</title>
 		<desc lang="zh">CCTV-11 戏曲</desc>
 	</programme>
 	<programme start="20230328190000" stop="20230328193000" channel="cctv11">
@@ -10448,15 +10448,15 @@
 		<desc lang="zh">CCTV-11 戏曲</desc>
 	</programme>
 	<programme start="20230328220700" stop="20230328225700" channel="cctv11">
-		<title lang="zh">青年霍元甲之冲出江湖30/45</title>
+		<title lang="zh">青年霍元甲之冲出江湖第30集</title>
 		<desc lang="zh">CCTV-11 戏曲</desc>
 	</programme>
 	<programme start="20230328225700" stop="20230328234800" channel="cctv11">
-		<title lang="zh">青年霍元甲之冲出江湖31/45</title>
+		<title lang="zh">青年霍元甲之冲出江湖第31集</title>
 		<desc lang="zh">CCTV-11 戏曲</desc>
 	</programme>
 	<programme start="20230328234800" stop="20230328235900" channel="cctv11">
-		<title lang="zh">青年霍元甲之冲出江湖32/45</title>
+		<title lang="zh">青年霍元甲之冲出江湖第32集</title>
 		<desc lang="zh">CCTV-11 戏曲</desc>
 	</programme>
 	<programme start="20230328001100" stop="20230328010400" channel="cctv12">
@@ -10940,11 +10940,11 @@
 		<desc lang="zh">CCTV-17农业农村</desc>
 	</programme>
 	<programme start="20230328101700" stop="20230328110800" channel="cctv17">
-		<title lang="zh">岁岁年年柿柿红13/39</title>
+		<title lang="zh">岁岁年年柿柿红第13集</title>
 		<desc lang="zh">CCTV-17农业农村</desc>
 	</programme>
 	<programme start="20230328110800" stop="20230328120000" channel="cctv17">
-		<title lang="zh">岁岁年年柿柿红14/39</title>
+		<title lang="zh">岁岁年年柿柿红第14集</title>
 		<desc lang="zh">CCTV-17农业农村</desc>
 	</programme>
 	<programme start="20230328120000" stop="20230328122700" channel="cctv17">
@@ -10972,19 +10972,19 @@
 		<desc lang="zh">CCTV-17农业农村</desc>
 	</programme>
 	<programme start="20230328133800" stop="20230328142900" channel="cctv17">
-		<title lang="zh">我和我的三个姐姐27/38</title>
+		<title lang="zh">我和我的三个姐姐第27集</title>
 		<desc lang="zh">CCTV-17农业农村</desc>
 	</programme>
 	<programme start="20230328142900" stop="20230328152000" channel="cctv17">
-		<title lang="zh">我和我的三个姐姐28/38</title>
+		<title lang="zh">我和我的三个姐姐第28集</title>
 		<desc lang="zh">CCTV-17农业农村</desc>
 	</programme>
 	<programme start="20230328152000" stop="20230328161000" channel="cctv17">
-		<title lang="zh">我和我的三个姐姐29/38</title>
+		<title lang="zh">我和我的三个姐姐第29集</title>
 		<desc lang="zh">CCTV-17农业农村</desc>
 	</programme>
 	<programme start="20230328161000" stop="20230328170000" channel="cctv17">
-		<title lang="zh">我和我的三个姐姐30/38</title>
+		<title lang="zh">我和我的三个姐姐第30集</title>
 		<desc lang="zh">CCTV-17农业农村</desc>
 	</programme>
 	<programme start="20230328170000" stop="20230328173000" channel="cctv17">
@@ -11000,11 +11000,11 @@
 		<desc lang="zh">CCTV-17农业农村</desc>
 	</programme>
 	<programme start="20230328183200" stop="20230328192600" channel="cctv17">
-		<title lang="zh">岁岁年年柿柿红15/39</title>
+		<title lang="zh">岁岁年年柿柿红第15集</title>
 		<desc lang="zh">CCTV-17农业农村</desc>
 	</programme>
 	<programme start="20230328192600" stop="20230328201500" channel="cctv17">
-		<title lang="zh">岁岁年年柿柿红16/39</title>
+		<title lang="zh">岁岁年年柿柿红第16集</title>
 		<desc lang="zh">CCTV-17农业农村</desc>
 	</programme>
 	<programme start="20230328201500" stop="20230328204400" channel="cctv17">
@@ -11676,7 +11676,7 @@
 		<desc lang="zh">CCTV-3 综艺</desc>
 	</programme>
 	<programme start="20230329003500" stop="20230329012300" channel="cctv4">
-		<title lang="zh">夺金35/38</title>
+		<title lang="zh">夺金第35集</title>
 		<desc lang="zh">CCTV-4 (亚洲)</desc>
 	</programme>
 	<programme start="20230329012300" stop="20230329015300" channel="cctv4">
@@ -12079,8 +12079,12 @@
 		<title lang="zh">彼得一世</title>
 		<desc lang="zh">CCTV-6 电影</desc>
 	</programme>
-	<programme start="20230329000600" stop="20230329060300" channel="cctv7">
+	<programme start="20230329000600" stop="20230329004400" channel="cctv7">
 		<title lang="zh">兵器面面观-2023-47</title>
+		<desc lang="zh">CCTV-7 国防军事</desc>
+	</programme>
+	<programme start="20230329004400" stop="20230329060300" channel="cctv7">
+		<title lang="zh">再见</title>
 		<desc lang="zh">CCTV-7 国防军事</desc>
 	</programme>
 	<programme start="20230329060300" stop="20230329063400" channel="cctv7">
@@ -12228,7 +12232,7 @@
 		<desc lang="zh">CCTV-7 国防军事</desc>
 	</programme>
 	<programme start="20230329000600" stop="20230329005200" channel="cctv8">
-		<title lang="zh">亲爱的生命28/36</title>
+		<title lang="zh">亲爱的生命第28集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230329005200" stop="20230329005600" channel="cctv8">
@@ -12236,15 +12240,15 @@
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230329005600" stop="20230329014200" channel="cctv8">
-		<title lang="zh">亲爱的生命29/36</title>
+		<title lang="zh">亲爱的生命第29集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230329014200" stop="20230329022800" channel="cctv8">
-		<title lang="zh">亲爱的生命30/36</title>
+		<title lang="zh">亲爱的生命第30集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230329022800" stop="20230329031400" channel="cctv8">
-		<title lang="zh">亲爱的生命31/36</title>
+		<title lang="zh">亲爱的生命第31集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230329031400" stop="20230329031700" channel="cctv8">
@@ -12252,7 +12256,7 @@
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230329031700" stop="20230329040300" channel="cctv8">
-		<title lang="zh">亲爱的生命32/36</title>
+		<title lang="zh">亲爱的生命第32集</title>
 		<desc lang="zh">CCTV-8 电视剧</desc>
 	</programme>
 	<programme start="20230329040300" stop="20230329042300" channel="cctv8">
@@ -12519,8 +12523,12 @@
 		<title lang="zh">跟着书本去旅行-2023-62</title>
 		<desc lang="zh">CCTV-10 科教</desc>
 	</programme>
-	<programme start="20230329015500" stop="20230329060000" channel="cctv10">
+	<programme start="20230329015500" stop="20230329023500" channel="cctv10">
 		<title lang="zh">健康之路-2023-87</title>
+		<desc lang="zh">CCTV-10 科教</desc>
+	</programme>
+	<programme start="20230329023500" stop="20230329060000" channel="cctv10">
+		<title lang="zh">再见</title>
 		<desc lang="zh">CCTV-10 科教</desc>
 	</programme>
 	<programme start="20230329060000" stop="20230329061000" channel="cctv10">
@@ -12667,8 +12675,12 @@
 		<title lang="zh">自然传奇-2023-74</title>
 		<desc lang="zh">CCTV-10 科教</desc>
 	</programme>
-	<programme start="20230329003800" stop="20230329060600" channel="cctv11">
+	<programme start="20230329003800" stop="20230329024300" channel="cctv11">
 		<title lang="zh">CCTV空中剧院-2022-128 京剧《赤桑镇》《陈三两爬堂》《锁五龙》</title>
+		<desc lang="zh">CCTV-11 戏曲</desc>
+	</programme>
+	<programme start="20230329024300" stop="20230329060600" channel="cctv11">
+		<title lang="zh">再见</title>
 		<desc lang="zh">CCTV-11 戏曲</desc>
 	</programme>
 	<programme start="20230329060600" stop="20230329071700" channel="cctv11">
@@ -12751,8 +12763,12 @@
 		<title lang="zh">法律讲堂-2023-80</title>
 		<desc lang="zh">CCTV-12 社会与法</desc>
 	</programme>
-	<programme start="20230329013400" stop="20230329060300" channel="cctv12">
+	<programme start="20230329013400" stop="20230329015500" channel="cctv12">
 		<title lang="zh">生命线-2023-82</title>
+		<desc lang="zh">CCTV-12 社会与法</desc>
+	</programme>
+	<programme start="20230329015500" stop="20230329060300" channel="cctv12">
+		<title lang="zh">再见</title>
 		<desc lang="zh">CCTV-12 社会与法</desc>
 	</programme>
 	<programme start="20230329060300" stop="20230329063400" channel="cctv12">
@@ -12895,8 +12911,12 @@
 		<title lang="zh">风车剧场-2023-57</title>
 		<desc lang="zh">CCTV-14 少儿</desc>
 	</programme>
-	<programme start="20230329012600" stop="20230329060000" channel="cctvchild">
+	<programme start="20230329012600" stop="20230329020000" channel="cctvchild">
 		<title lang="zh">风车剧场-2023-58</title>
+		<desc lang="zh">CCTV-14 少儿</desc>
+	</programme>
+	<programme start="20230329020000" stop="20230329060000" channel="cctvchild">
+		<title lang="zh">再见</title>
 		<desc lang="zh">CCTV-14 少儿</desc>
 	</programme>
 	<programme start="20230329060000" stop="20230329063000" channel="cctvchild">
@@ -12959,8 +12979,12 @@
 		<title lang="zh">经典-2023-89</title>
 		<desc lang="zh">CCTV-15 音乐</desc>
 	</programme>
-	<programme start="20230329010600" stop="20230329060000" channel="cctv15">
+	<programme start="20230329010600" stop="20230329015300" channel="cctv15">
 		<title lang="zh">CCTV音乐厅-2023-86-名家名曲（79）</title>
+		<desc lang="zh">CCTV-15 音乐</desc>
+	</programme>
+	<programme start="20230329015300" stop="20230329060000" channel="cctv15">
+		<title lang="zh">再见</title>
 		<desc lang="zh">CCTV-15 音乐</desc>
 	</programme>
 	<programme start="20230329060000" stop="20230329063300" channel="cctv15">
@@ -13151,8 +13175,12 @@
 		<title lang="zh">我的美丽乡村-2023-53</title>
 		<desc lang="zh">CCTV-17农业农村</desc>
 	</programme>
-	<programme start="20230329012000" stop="20230329055500" channel="cctv17">
+	<programme start="20230329012000" stop="20230329015700" channel="cctv17">
 		<title lang="zh">我爱发明-2023-71</title>
+		<desc lang="zh">CCTV-17农业农村</desc>
+	</programme>
+	<programme start="20230329015700" stop="20230329055500" channel="cctv17">
+		<title lang="zh">再见</title>
 		<desc lang="zh">CCTV-17农业农村</desc>
 	</programme>
 	<programme start="20230329055500" stop="20230329060000" channel="cctv17">
@@ -13314,6 +13342,10 @@
 	<programme start="20230329234000" stop="20230329235900" channel="cctv17">
 		<title lang="zh">谁知盘中餐-2023-63</title>
 		<desc lang="zh">CCTV-17农业农村</desc>
+	</programme>
+	<programme start="20230329000000" stop="20230329060000" channel="cctv4k">
+		<title lang="zh">再见</title>
+		<desc lang="zh">CCTV-4K</desc>
 	</programme>
 	<programme start="20230329060000" stop="20230329060100" channel="cctv4k">
 		<title lang="zh">4K频道宣传片-标识演绎4</title>
