@@ -31,14 +31,12 @@ def getChannelCNTV(fhandle, channelID):
 def getChannelEPG(fhandle, channelID):
     date = '%Y%m%d'
     epgdate = [
-        (datetime.now(tz) + timedelta(days=-3)).strftime(date),
+        
         (datetime.now(tz) + timedelta(days=-2)).strftime(date),
         (datetime.now(tz) + timedelta(days=-1)).strftime(date),
         datetime.now(tz).strftime(date),
         (datetime.now(tz) + timedelta(days=1)).strftime(date),
         (datetime.now(tz) + timedelta(days=2)).strftime(date),
-        (datetime.now(tz) + timedelta(days=3)).strftime(date),
-
     ];
 
     cids = ''
@@ -57,9 +55,9 @@ def getChannelEPG(fhandle, channelID):
                 st = datetime.fromtimestamp(detail['st']).strftime('%Y%m%d%H%M') + '00'
                 et = datetime.fromtimestamp(detail['et']).strftime('%Y%m%d%H%M') + '00'
 
-                fhandle.write(f'\t<programme start="{st}" stop="{et}" channel="{channelID[n]}">\n')
+                fhandle.write(f'\t<programme start="{st} +0800" stop="{et} +0800" channel="{channelID[n]}">\n')
                 fhandle.write(f'\t\t<title lang="zh">{detail["t"]}</title>\n')
-                fhandle.write(f'\t\t<desc lang="zh">{name}</desc>\n')
+                fhandle.write(f'\t\t<desc lang="zh"></desc>\n')
                 fhandle.write('\t</programme>\n')
 
 def getsave():
