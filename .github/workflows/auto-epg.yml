@@ -41,6 +41,7 @@ jobs:
         run: |
           pwd
           python get-epg.py
+          python epg.py
       - name: Commit changes
         run: |
           git config --local user.email "github-actions-bot@users.noreply.github.com"
