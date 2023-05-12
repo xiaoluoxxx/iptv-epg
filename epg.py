@@ -12,7 +12,7 @@ import requests
 from lxml import html
 from datetime import datetime, timezone, timedelta
 
-import url
+# import url
 
 tz = pytz.timezone('Asia/Shanghai')
 date = '%Y%m%d'
