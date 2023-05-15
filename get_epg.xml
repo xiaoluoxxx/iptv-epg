@@ -2365,6 +2365,162 @@
 		<title lang="zh">音乐电影欣赏</title>
 		<desc lang="zh"></desc>
 	</programme>
+	<programme  channel="cctv6" start="20230516000400 +0800" stop="20230516002000 +0800">
+		<title lang="zh">今日影评2023-135</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516002000 +0800" stop="20230516015100 +0800">
+		<title lang="zh">暗夜较量</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516015100 +0800" stop="20230516031800 +0800">
+		<title lang="zh">极速江湖</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516031800 +0800" stop="20230516044700 +0800">
+		<title lang="zh">远去的牧歌</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516044700 +0800" stop="20230516055600 +0800">
+		<title lang="zh">长津湖之水门桥（上）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516055600 +0800" stop="20230516071200 +0800">
+		<title lang="zh">长津湖之水门桥（下）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516071200 +0800" stop="20230516085500 +0800">
+		<title lang="zh">铁血江桥</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516085500 +0800" stop="20230516104400 +0800">
+		<title lang="zh">广东十虎铁桥三之王者荣威</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516104400 +0800" stop="20230516122800 +0800">
+		<title lang="zh">广东十虎铁桥三之王者归来</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516122800 +0800" stop="20230516123700 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516123700 +0800" stop="20230516141200 +0800">
+		<title lang="zh">地雷战</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516141200 +0800" stop="20230516163000 +0800">
+		<title lang="zh">雷神3：诸神黄昏</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516163000 +0800" stop="20230516184300 +0800">
+		<title lang="zh">铁扇令</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516184300 +0800" stop="20230516201900 +0800">
+		<title lang="zh">乾坤八极</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516201900 +0800" stop="20230516203000 +0800">
+		<title lang="zh">今日影评2023-136</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516203000 +0800" stop="20230516220000 +0800">
+		<title lang="zh">幸运贩卖机</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516220000 +0800" stop="20230516222200 +0800">
+		<title lang="zh">中国电影报道2023-136</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516222200 +0800" stop="20230516230000 +0800">
+		<title lang="zh">陆小凤传奇之绣花大盗（上）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516230000 +0800" stop="20230516230300 +0800">
+		<title lang="zh">中国体育彩票阳光开奖2023-05-16</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516230300 +0800" stop="20230516235800 +0800">
+		<title lang="zh">陆小凤传奇之绣花大盗（下）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230516235800 +0800" stop="20230516235900 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517000300 +0800" stop="20230517001900 +0800">
+		<title lang="zh">今日影评2023-136</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517001900 +0800" stop="20230517014400 +0800">
+		<title lang="zh">可可西里</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517014400 +0800" stop="20230517031900 +0800">
+		<title lang="zh">光芒四射</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517031900 +0800" stop="20230517071000 +0800">
+		<title lang="zh">灿烂人生 （上）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517071000 +0800" stop="20230517085200 +0800">
+		<title lang="zh">黄金迷局</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517085200 +0800" stop="20230517103700 +0800">
+		<title lang="zh">广东十虎黄澄可之云起龙骧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517103700 +0800" stop="20230517122100 +0800">
+		<title lang="zh">广东十虎黄澄可之逢凶化吉</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517122100 +0800" stop="20230517122700 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517122700 +0800" stop="20230517140800 +0800">
+		<title lang="zh">铁道游击队</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517140800 +0800" stop="20230517161200 +0800">
+		<title lang="zh">小家伙</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517161200 +0800" stop="20230517181900 +0800">
+		<title lang="zh">我的上高</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517181900 +0800" stop="20230517200000 +0800">
+		<title lang="zh">侠捕</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517200000 +0800" stop="20230517201200 +0800">
+		<title lang="zh">今日影评2023-137</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517201200 +0800" stop="20230517220000 +0800">
+		<title lang="zh">剿匪龙虎山</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517220000 +0800" stop="20230517222200 +0800">
+		<title lang="zh">中国电影报道2023-137</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517222200 +0800" stop="20230517230000 +0800">
+		<title lang="zh">托米莉斯女王（上）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517230000 +0800" stop="20230517230300 +0800">
+		<title lang="zh">中国体育彩票阳光开奖2023-05-17</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230517230300 +0800" stop="20230517235900 +0800">
+		<title lang="zh">托米莉斯女王（下）</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<channel id="cctv7">
 		<display-name lang="cn">CCTV-7 国防军事</display-name>
 	</channel>
