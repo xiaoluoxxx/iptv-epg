@@ -1935,6 +1935,186 @@
 		<title lang="zh">欧冠开场哨</title>
 		<desc lang="zh"></desc>
 	</programme>
+	<programme  channel="cctv5" start="20230517000500 +0800" stop="20230517010500 +0800">
+		<title lang="zh">顶级赛事-围棋</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517010500 +0800" stop="20230517023500 +0800">
+		<title lang="zh">实况录像-2023年世界田联钻石联赛  多哈站</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517023500 +0800" stop="20230517025000 +0800">
+		<title lang="zh">实况录像-2022/2023赛季世界斯诺克锦标赛 威尔逊的147</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517025000 +0800" stop="20230517050700 +0800">
+		<title lang="zh">2022/2023欧洲冠军联赛-半决赛第二回合（国际米兰—米兰）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517050700 +0800" stop="20230517060000 +0800">
+		<title lang="zh">实况录像-2023年国际篮联三人篮球亚洲杯 1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517060000 +0800" stop="20230517073000 +0800">
+		<title lang="zh">实况录像-2022/2023赛季中国男子篮球职业联赛 季后赛 半决赛 1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517073000 +0800" stop="20230517080000 +0800">
+		<title lang="zh">健身动起来</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517080000 +0800" stop="20230517083000 +0800">
+		<title lang="zh">赛事集锦-2023年体操世界杯 开罗站 25分钟版1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517083000 +0800" stop="20230517113000 +0800">
+		<title lang="zh">2022/2023赛季美国职业篮球联赛-西部决赛湖人-掘金（1）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517113000 +0800" stop="20230517120000 +0800">
+		<title lang="zh">赛事集锦(高清体育)-2023-40-2023年体操世界杯 开罗站 25分钟版2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517120000 +0800" stop="20230517123500 +0800">
+		<title lang="zh">体坛快讯-2023.5.17</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517123500 +0800" stop="20230517125500 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517125500 +0800" stop="20230517132800 +0800">
+		<title lang="zh">实况录像-2023年射箭世界杯 安塔利亚站 1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517132800 +0800" stop="20230517143000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年全国举重锦标赛 女子71公斤级决赛（4K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517143000 +0800" stop="20230517160500 +0800">
+		<title lang="zh">2023年中国女子围棋甲级联赛-第3轮</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517160500 +0800" stop="20230517163000 +0800">
+		<title lang="zh">赛事集锦-2023年艺术体操世界杯 塔什干站 25分钟版1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517163000 +0800" stop="20230517173000 +0800">
+		<title lang="zh">实况录像-2023年皮划艇世界杯 匈牙利站2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517173000 +0800" stop="20230517180000 +0800">
+		<title lang="zh">体育新闻-2023.5.17</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517180000 +0800" stop="20230517213000 +0800">
+		<title lang="zh">2023年苏迪曼杯羽毛球赛-小组赛（法国队-英格兰队）D组</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517213000 +0800" stop="20230517220500 +0800">
+		<title lang="zh">体育世界-2023.5.17</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517220500 +0800" stop="20230517230000 +0800">
+		<title lang="zh">冠军欧洲-2023-15</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230517230000 +0800" stop="20230517235900 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年全国举重锦标赛 女子71公斤级决赛（4K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518000000 +0800" stop="20230518001500 +0800">
+		<title lang="zh">实况录像-2022/2023赛季世界斯诺克锦标赛 威尔逊的147</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518001500 +0800" stop="20230518011000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界泳联跳水世界杯 西安站 男子十米台决赛（4K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518011000 +0800" stop="20230518023500 +0800">
+		<title lang="zh">实况录像-2023年世界越野锦标赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518023500 +0800" stop="20230518025000 +0800">
+		<title lang="zh">实况录像-2022/2023赛季斯诺克威尔士公开赛 墨菲的147</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518025000 +0800" stop="20230518050700 +0800">
+		<title lang="zh">2022/2023欧洲冠军联赛-半决赛第二回合（曼彻斯特城—皇家马德里）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518050700 +0800" stop="20230518060000 +0800">
+		<title lang="zh">实况录像-2023年国际篮联三人篮球亚洲杯 2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518060000 +0800" stop="20230518073000 +0800">
+		<title lang="zh">实况录像-2022/2023赛季中国男子篮球职业联赛 季后赛 半决赛 2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518073000 +0800" stop="20230518080000 +0800">
+		<title lang="zh">健身动起来</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518080000 +0800" stop="20230518090000 +0800">
+		<title lang="zh">实况录像-2023年赛艇世界杯 萨格勒布站</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518090000 +0800" stop="20230518103000 +0800">
+		<title lang="zh">实况录像-2023年ATP1000男子网球大师赛 马德里站 决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518103000 +0800" stop="20230518120000 +0800">
+		<title lang="zh">实况录像-2023年世乒联大满贯赛 新加坡站 6</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518120000 +0800" stop="20230518123500 +0800">
+		<title lang="zh">体坛快讯</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518123500 +0800" stop="20230518125500 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518125500 +0800" stop="20230518132800 +0800">
+		<title lang="zh">实况录像-2023年射箭世界杯 安塔利亚站 2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518132800 +0800" stop="20230518143000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年全国举重锦标赛 女子81公斤级决赛（4K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518143000 +0800" stop="20230518160300 +0800">
+		<title lang="zh">2023年中国女子围棋甲级联赛-第4轮</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518160300 +0800" stop="20230518163000 +0800">
+		<title lang="zh">赛事集锦-2023年艺术体操世界杯 塔什干站 25分钟版2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518163000 +0800" stop="20230518170000 +0800">
+		<title lang="zh">体育新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518170000 +0800" stop="20230518210000 +0800">
+		<title lang="zh">2023年苏迪曼杯羽毛球赛- 小组赛 (中国队-丹麦队)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518210000 +0800" stop="20230518213000 +0800">
+		<title lang="zh">实况录像-2022/2023赛季中国男子篮球职业联赛 季后赛 总决赛5（录播）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518213000 +0800" stop="20230518220500 +0800">
+		<title lang="zh">体育世界</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518220500 +0800" stop="20230518230000 +0800">
+		<title lang="zh">冠军欧洲</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230518230000 +0800" stop="20230518235900 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年全国举重锦标赛 男子67公斤级决赛（4K）</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<channel id="cctv5plus">
 		<display-name lang="cn">CCTV-5+ 体育赛事</display-name>
 	</channel>
