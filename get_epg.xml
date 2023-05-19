@@ -1773,23 +1773,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230520135300 +0800" stop="20230520144300 +0800">
-		<title lang="zh">猎手38/40</title>
+		<title lang="zh">猎手第38集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230520144300 +0800" stop="20230520153100 +0800">
-		<title lang="zh">猎手39/40</title>
+		<title lang="zh">猎手第39集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230520153100 +0800" stop="20230520162000 +0800">
-		<title lang="zh">猎手40/40</title>
+		<title lang="zh">猎手第40集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230520162000 +0800" stop="20230520170800 +0800">
-		<title lang="zh">滹沱儿女1/28</title>
+		<title lang="zh">滹沱儿女第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230520170800 +0800" stop="20230520180000 +0800">
-		<title lang="zh">滹沱儿女2/28</title>
+		<title lang="zh">滹沱儿女第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230520180000 +0800" stop="20230520190000 +0800">
@@ -1829,11 +1829,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230520230200 +0800" stop="20230520234800 +0800">
-		<title lang="zh">女士的法则15/38</title>
+		<title lang="zh">女士的法则第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230520234800 +0800" stop="20230520235900 +0800">
-		<title lang="zh">女士的法则16/38</title>
+		<title lang="zh">女士的法则第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv5">
@@ -2187,7 +2187,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230519100000 +0800" stop="20230519130500 +0800">
-		<title lang="zh">2023年苏迪曼杯羽毛球赛-1/4决赛2</title>
+		<title lang="zh">2023年苏迪曼杯羽毛球赛-1/4决赛 泰国VS日本</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230519130500 +0800" stop="20230519150000 +0800">
@@ -4481,11 +4481,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230520120500 +0800" stop="20230520125600 +0800">
-		<title lang="zh">特赦195925/39</title>
+		<title lang="zh">特赦1959第25集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230520125600 +0800" stop="20230520134600 +0800">
-		<title lang="zh">特赦195926/39</title>
+		<title lang="zh">特赦1959第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230520134600 +0800" stop="20230520155200 +0800">
@@ -4497,11 +4497,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230520171300 +0800" stop="20230520180300 +0800">
-		<title lang="zh">大侠霍元甲45/45</title>
+		<title lang="zh">大侠霍元甲第45集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230520180300 +0800" stop="20230520190000 +0800">
-		<title lang="zh">风起陇西1/24</title>
+		<title lang="zh">风起陇西第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230520190000 +0800" stop="20230520193000 +0800">
@@ -4517,11 +4517,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230520222900 +0800" stop="20230520232000 +0800">
-		<title lang="zh">塞上风云记5/48</title>
+		<title lang="zh">塞上风云记－第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230520232000 +0800" stop="20230520235900 +0800">
-		<title lang="zh">塞上风云记6/48</title>
+		<title lang="zh">塞上风云记－第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv12">
@@ -5553,7 +5553,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv16" start="20230519100000 +0800" stop="20230519130500 +0800">
-		<title lang="zh">2023年苏迪曼杯羽毛球赛-1/4决赛 1</title>
+		<title lang="zh">2023年苏迪曼杯羽毛球赛-1/4决赛 中国台北VS韩国</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv16" start="20230519130500 +0800" stop="20230519132500 +0800">
@@ -5585,7 +5585,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv16" start="20230519170000 +0800" stop="20230519200500 +0800">
-		<title lang="zh">2023年苏迪曼杯羽毛球赛-1/4决赛 3</title>
+		<title lang="zh">2023年苏迪曼杯羽毛球赛-1/4决赛 中国VS印度尼西亚</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv16" start="20230519200500 +0800" stop="20230519210500 +0800">
