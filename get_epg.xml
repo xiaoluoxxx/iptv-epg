@@ -17173,6 +17173,386 @@
 	<channel id="tianjin">
 		<display-name lang="cn">天津卫视</display-name>
 	</channel>
+	<programme  channel="tianjin" start="20230522043800 +0800" stop="20230522052000 +0800">
+		<title lang="zh">电视剧(19)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522052000 +0800" stop="20230522062000 +0800">
+		<title lang="zh">电视剧(20)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522062000 +0800" stop="20230522063000 +0800">
+		<title lang="zh">拾遗保护</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522063000 +0800" stop="20230522070000 +0800">
+		<title lang="zh">纪录片</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522070000 +0800" stop="20230522072800 +0800">
+		<title lang="zh">津晨播报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522072800 +0800" stop="20230522073000 +0800">
+		<title lang="zh">津晨天气</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522073000 +0800" stop="20230522080000 +0800">
+		<title lang="zh">食来运转</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522080000 +0800" stop="20230522084800 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522084800 +0800" stop="20230522095300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522095300 +0800" stop="20230522105700 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522105700 +0800" stop="20230522120000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522120000 +0800" stop="20230522122500 +0800">
+		<title lang="zh">12点报道</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522122500 +0800" stop="20230522123000 +0800">
+		<title lang="zh">午间旅游气象</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522123000 +0800" stop="20230522132700 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522132700 +0800" stop="20230522143500 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522143500 +0800" stop="20230522152200 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522152200 +0800" stop="20230522162000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522162000 +0800" stop="20230522171800 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522171800 +0800" stop="20230522183000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522183000 +0800" stop="20230522185600 +0800">
+		<title lang="zh">天津新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522185600 +0800" stop="20230522190000 +0800">
+		<title lang="zh">天津天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522190000 +0800" stop="20230522193300 +0800">
+		<title lang="zh">新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522193300 +0800" stop="20230522202400 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522202400 +0800" stop="20230522211200 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522211200 +0800" stop="20230522221100 +0800">
+		<title lang="zh">非你莫属</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522221100 +0800" stop="20230522225400 +0800">
+		<title lang="zh">非你莫属</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522225400 +0800" stop="20230522233800 +0800">
+		<title lang="zh">跨时代战书</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230522233800 +0800" stop="20230522235900 +0800">
+		<title lang="zh">财经视界</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523000500 +0800" stop="20230523005800 +0800">
+		<title lang="zh">电视剧(21)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523005800 +0800" stop="20230523015000 +0800">
+		<title lang="zh">电视剧(22)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523015000 +0800" stop="20230523032400 +0800">
+		<title lang="zh">非你莫属</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523032400 +0800" stop="20230523035600 +0800">
+		<title lang="zh">群英会</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523035600 +0800" stop="20230523042600 +0800">
+		<title lang="zh">幸福来敲门</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523042600 +0800" stop="20230523051900 +0800">
+		<title lang="zh">电视剧(23)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523051900 +0800" stop="20230523061900 +0800">
+		<title lang="zh">电视剧(24)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523061900 +0800" stop="20230523063300 +0800">
+		<title lang="zh">拾遗保护</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523063300 +0800" stop="20230523070000 +0800">
+		<title lang="zh">纪录片</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523070000 +0800" stop="20230523072800 +0800">
+		<title lang="zh">津晨播报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523072800 +0800" stop="20230523073100 +0800">
+		<title lang="zh">津晨天气</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523073100 +0800" stop="20230523080000 +0800">
+		<title lang="zh">食来运转</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523080000 +0800" stop="20230523084000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523084000 +0800" stop="20230523095300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523095300 +0800" stop="20230523105700 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523105700 +0800" stop="20230523120000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523120000 +0800" stop="20230523122500 +0800">
+		<title lang="zh">12点报道</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523122500 +0800" stop="20230523123000 +0800">
+		<title lang="zh">午间旅游气象</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523123000 +0800" stop="20230523132700 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523132700 +0800" stop="20230523143500 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523143500 +0800" stop="20230523152200 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523152200 +0800" stop="20230523162000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523162000 +0800" stop="20230523171800 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523171800 +0800" stop="20230523180500 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523180500 +0800" stop="20230523183000 +0800">
+		<title lang="zh">大家说理</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523183000 +0800" stop="20230523185600 +0800">
+		<title lang="zh">天津新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523185600 +0800" stop="20230523190000 +0800">
+		<title lang="zh">天津天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523190000 +0800" stop="20230523193400 +0800">
+		<title lang="zh">新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523193400 +0800" stop="20230523203000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523203000 +0800" stop="20230523212400 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523212400 +0800" stop="20230523223600 +0800">
+		<title lang="zh">爱情保卫战</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523223600 +0800" stop="20230523230500 +0800">
+		<title lang="zh">非你莫属</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230523230500 +0800" stop="20230523235900 +0800">
+		<title lang="zh">爱情保卫战</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524001200 +0800" stop="20230524010400 +0800">
+		<title lang="zh">电视剧(25)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524010400 +0800" stop="20230524015600 +0800">
+		<title lang="zh">电视剧(26)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524015600 +0800" stop="20230524032400 +0800">
+		<title lang="zh">非你莫属</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524032400 +0800" stop="20230524035300 +0800">
+		<title lang="zh">群英会</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524035300 +0800" stop="20230524042500 +0800">
+		<title lang="zh">幸福来敲门</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524042500 +0800" stop="20230524051800 +0800">
+		<title lang="zh">电视剧(27)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524051800 +0800" stop="20230524061900 +0800">
+		<title lang="zh">电视剧(28)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524061900 +0800" stop="20230524063000 +0800">
+		<title lang="zh">拾遗保护</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524063000 +0800" stop="20230524070000 +0800">
+		<title lang="zh">纪录片</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524070000 +0800" stop="20230524072800 +0800">
+		<title lang="zh">津晨播报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524072800 +0800" stop="20230524073000 +0800">
+		<title lang="zh">津晨天气</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524073000 +0800" stop="20230524080000 +0800">
+		<title lang="zh">食来运转</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524080000 +0800" stop="20230524084800 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524084800 +0800" stop="20230524095300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524095300 +0800" stop="20230524105700 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524105700 +0800" stop="20230524120000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524120000 +0800" stop="20230524122500 +0800">
+		<title lang="zh">12点报道</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524122500 +0800" stop="20230524123000 +0800">
+		<title lang="zh">午间旅游气象</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524123000 +0800" stop="20230524132700 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524132700 +0800" stop="20230524143500 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524143500 +0800" stop="20230524152200 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524152200 +0800" stop="20230524162000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524162000 +0800" stop="20230524171800 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524171800 +0800" stop="20230524183000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524183000 +0800" stop="20230524185600 +0800">
+		<title lang="zh">天津新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524185600 +0800" stop="20230524190000 +0800">
+		<title lang="zh">天津天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524190000 +0800" stop="20230524193500 +0800">
+		<title lang="zh">新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524193500 +0800" stop="20230524203000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524203000 +0800" stop="20230524212000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524212000 +0800" stop="20230524220000 +0800">
+		<title lang="zh">群英会</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524220000 +0800" stop="20230524222500 +0800">
+		<title lang="zh">爱情保卫战</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524222500 +0800" stop="20230524223000 +0800">
+		<title lang="zh">天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524223000 +0800" stop="20230524233500 +0800">
+		<title lang="zh">你看谁来了</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="tianjin" start="20230524233500 +0800" stop="20230524235900 +0800">
+		<title lang="zh">电视剧(29)</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<channel id="guangxi">
 		<display-name lang="cn">广西卫视</display-name>
 	</channel>
@@ -17290,6 +17670,274 @@
 	</programme>
 	<programme  channel="guangxi" start="20230522232000 +0800" stop="20230522235900 +0800">
 		<title lang="zh">电视剧(31)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523003000 +0800" stop="20230523012400 +0800">
+		<title lang="zh">电视剧(32)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523012400 +0800" stop="20230523021800 +0800">
+		<title lang="zh">电视剧(33)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523021800 +0800" stop="20230523023000 +0800">
+		<title lang="zh">丝绸之路品牌万里行</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523023000 +0800" stop="20230523024500 +0800">
+		<title lang="zh">剧・精彩</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523024500 +0800" stop="20230523031700 +0800">
+		<title lang="zh">超级点子王</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523031700 +0800" stop="20230523033400 +0800">
+		<title lang="zh">时尚中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523033400 +0800" stop="20230523042400 +0800">
+		<title lang="zh">收藏马未都</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523042400 +0800" stop="20230523044700 +0800">
+		<title lang="zh">时尚中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523044700 +0800" stop="20230523054000 +0800">
+		<title lang="zh">超级点子王</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523054000 +0800" stop="20230523060500 +0800">
+		<title lang="zh">海丝路</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523060500 +0800" stop="20230523061500 +0800">
+		<title lang="zh">壮语新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523061500 +0800" stop="20230523064800 +0800">
+		<title lang="zh">广西新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523064800 +0800" stop="20230523065200 +0800">
+		<title lang="zh">广西旅游天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523065200 +0800" stop="20230523070000 +0800">
+		<title lang="zh">广西海洋预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523070000 +0800" stop="20230523070300 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523070300 +0800" stop="20230523073700 +0800">
+		<title lang="zh">纪录中国故事</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523073700 +0800" stop="20230523083900 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523083900 +0800" stop="20230523110300 +0800">
+		<title lang="zh">经典电影</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523110300 +0800" stop="20230523121100 +0800">
+		<title lang="zh">等着我</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523121100 +0800" stop="20230523131400 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523131400 +0800" stop="20230523140900 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523140900 +0800" stop="20230523150100 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523150100 +0800" stop="20230523155500 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523155500 +0800" stop="20230523165700 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523165700 +0800" stop="20230523180000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523180000 +0800" stop="20230523182500 +0800">
+		<title lang="zh">海丝路</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523182500 +0800" stop="20230523183000 +0800">
+		<title lang="zh">广西天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523183000 +0800" stop="20230523185700 +0800">
+		<title lang="zh">广西新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523185700 +0800" stop="20230523190000 +0800">
+		<title lang="zh">广西天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523190000 +0800" stop="20230523193200 +0800">
+		<title lang="zh">新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523193200 +0800" stop="20230523202700 +0800">
+		<title lang="zh">电视剧(13)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523202700 +0800" stop="20230523211800 +0800">
+		<title lang="zh">电视剧(14)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523211800 +0800" stop="20230523215200 +0800">
+		<title lang="zh">百寿探秘</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523215200 +0800" stop="20230523224000 +0800">
+		<title lang="zh">时尚中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523224000 +0800" stop="20230523234000 +0800">
+		<title lang="zh">电视剧(34)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230523234000 +0800" stop="20230523235900 +0800">
+		<title lang="zh">电视剧(35)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524001000 +0800" stop="20230524005300 +0800">
+		<title lang="zh">电视剧(36)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524005300 +0800" stop="20230524013700 +0800">
+		<title lang="zh">第1书记</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524013700 +0800" stop="20230524045300 +0800">
+		<title lang="zh">静屏</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524045300 +0800" stop="20230524054000 +0800">
+		<title lang="zh">百寿探秘</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524054000 +0800" stop="20230524060500 +0800">
+		<title lang="zh">海丝路</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524060500 +0800" stop="20230524061700 +0800">
+		<title lang="zh">壮语新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524061700 +0800" stop="20230524064800 +0800">
+		<title lang="zh">广西新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524064800 +0800" stop="20230524065200 +0800">
+		<title lang="zh">广西旅游天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524065200 +0800" stop="20230524070000 +0800">
+		<title lang="zh">广西海洋预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524070000 +0800" stop="20230524070300 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524070300 +0800" stop="20230524073700 +0800">
+		<title lang="zh">纪录中国故事</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524073700 +0800" stop="20230524083900 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524083900 +0800" stop="20230524110300 +0800">
+		<title lang="zh">经典电影</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524110300 +0800" stop="20230524121100 +0800">
+		<title lang="zh">等着我</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524121100 +0800" stop="20230524131400 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524131400 +0800" stop="20230524140900 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524140900 +0800" stop="20230524150100 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524150100 +0800" stop="20230524155500 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524155500 +0800" stop="20230524165700 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524165700 +0800" stop="20230524180000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524180000 +0800" stop="20230524182500 +0800">
+		<title lang="zh">海丝路</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524182500 +0800" stop="20230524183000 +0800">
+		<title lang="zh">广西天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524183000 +0800" stop="20230524185700 +0800">
+		<title lang="zh">广西新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524185700 +0800" stop="20230524190000 +0800">
+		<title lang="zh">广西天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524190000 +0800" stop="20230524193200 +0800">
+		<title lang="zh">新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524193200 +0800" stop="20230524202700 +0800">
+		<title lang="zh">电视剧(15)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524202700 +0800" stop="20230524211700 +0800">
+		<title lang="zh">电视剧(16)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524211700 +0800" stop="20230524215100 +0800">
+		<title lang="zh">民族文化</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524215100 +0800" stop="20230524224100 +0800">
+		<title lang="zh">时尚中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524224100 +0800" stop="20230524234000 +0800">
+		<title lang="zh">电视剧(37)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="guangxi" start="20230524234000 +0800" stop="20230524235900 +0800">
+		<title lang="zh">电视剧(38)</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="guizhou">
