@@ -8796,11 +8796,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230523101400 +0800" stop="20230523110500 +0800" channel="cctv17">
-		<title lang="zh">苦乐村官12/30</title>
+		<title lang="zh">苦乐村官第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230523110500 +0800" stop="20230523115400 +0800" channel="cctv17">
-		<title lang="zh">苦乐村官13/30</title>
+		<title lang="zh">苦乐村官第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230523115400 +0800" stop="20230523120000 +0800" channel="cctv17">
@@ -8828,19 +8828,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230523133500 +0800" stop="20230523142600 +0800" channel="cctv17">
-		<title lang="zh">亲爱的孩子们40/40</title>
+		<title lang="zh">亲爱的孩子们第40集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230523142600 +0800" stop="20230523151700 +0800" channel="cctv17">
-		<title lang="zh">小敏家1/40</title>
+		<title lang="zh">小敏家第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230523151700 +0800" stop="20230523160700 +0800" channel="cctv17">
-		<title lang="zh">小敏家2/40</title>
+		<title lang="zh">小敏家第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230523160700 +0800" stop="20230523165700 +0800" channel="cctv17">
-		<title lang="zh">小敏家3/40</title>
+		<title lang="zh">小敏家第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230523165700 +0800" stop="20230523170000 +0800" channel="cctv17">
@@ -8860,11 +8860,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230523183200 +0800" stop="20230523192600 +0800" channel="cctv17">
-		<title lang="zh">苦乐村官14/30</title>
+		<title lang="zh">苦乐村官第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230523192600 +0800" stop="20230523201500 +0800" channel="cctv17">
-		<title lang="zh">苦乐村官15/30</title>
+		<title lang="zh">苦乐村官第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230523201500 +0800" stop="20230523204400 +0800" channel="cctv17">
@@ -9032,7 +9032,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230523174900 +0800" stop="20230523175400 +0800" channel="cctv4k">
-		<title lang="zh">美丽中国自然-2022-110</title>
+		<title lang="zh">美丽中国自然-2022-47</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230523175400 +0800" stop="20230523175900 +0800" channel="cctv4k">
@@ -10623,8 +10623,12 @@
 		<title lang="zh">法律讲堂-2023-136</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230524013400 +0800" stop="20230524060300 +0800" channel="cctv12">
+	<programme start="20230524013400 +0800" stop="20230524015500 +0800" channel="cctv12">
 		<title lang="zh">生命线-2023-138</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230524015500 +0800" stop="20230524060300 +0800" channel="cctv12">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230524060300 +0800" stop="20230524063400 +0800" channel="cctv12">
@@ -11011,6 +11015,10 @@
 		<title lang="zh">实况录像（奥林匹克）-2023年世界泳联跳水世界杯 西安站 男子双人十米台决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
+	<programme start="20230524002600 +0800" stop="20230524055500 +0800" channel="cctv17">
+		<title lang="zh">再见</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<programme start="20230524055500 +0800" stop="20230524060000 +0800" channel="cctv17">
 		<title lang="zh">农业气象</title>
 		<desc lang="zh"></desc>
@@ -11165,6 +11173,10 @@
 	</programme>
 	<programme start="20230524235000 +0800" stop="20230524235900 +0800" channel="cctv17">
 		<title lang="zh">我爱发明-2023-110</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230524000000 +0800" stop="20230524060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230524060000 +0800" stop="20230524060100 +0800" channel="cctv4k">
