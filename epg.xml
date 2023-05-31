@@ -5183,16 +5183,12 @@
 		<title lang="zh">中国文艺-2023-107</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230531100000 +0800" stop="20230531103100 +0800" channel="cctv4">
+	<programme start="20230531100000 +0800" stop="20230531104500 +0800" channel="cctv4">
 		<title lang="zh">2023年国台办发布会-8</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230531103100 +0800" stop="20230531111600 +0800" channel="cctv4">
+	<programme start="20230531104500 +0800" stop="20230531113000 +0800" channel="cctv4">
 		<title lang="zh">远方的家2023-60(4K)</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20230531111600 +0800" stop="20230531113000 +0800" channel="cctv4">
-		<title lang="zh">记住乡愁2018片段展播-22</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230531113000 +0800" stop="20230531120000 +0800" channel="cctv4">
@@ -5780,7 +5776,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230531202500 +0800" stop="20230531203000 +0800" channel="cctv8">
-		<title lang="zh">本集提要-《一代匠师》31/32</title>
+		<title lang="zh">本集提要- 《一代匠师》第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230531203000 +0800" stop="20230531212500 +0800" channel="cctv8">
@@ -5788,7 +5784,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230531212500 +0800" stop="20230531212900 +0800" channel="cctv8">
-		<title lang="zh">本集提要-《一代匠师》32/32</title>
+		<title lang="zh">本集提要- 《一代匠师》第32集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230531212900 +0800" stop="20230531222100 +0800" channel="cctv8">
@@ -7079,11 +7075,11 @@
 		<title lang="zh">第一动画乐园-2023-293</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230601184700 +0800" stop="20230601185200 +0800" channel="cctv1">
+	<programme start="20230601184700 +0800" stop="20230601185100 +0800" channel="cctv1">
 		<title lang="zh">第一动画乐园-2022-720</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230601185200 +0800" stop="20230601190000 +0800" channel="cctv1">
+	<programme start="20230601185100 +0800" stop="20230601190000 +0800" channel="cctv1">
 		<title lang="zh">2023秘境之眼-130</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -8064,19 +8060,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230601192500 +0800" stop="20230601193000 +0800" channel="cctv8">
-		<title lang="zh">本集提要-备播（高清文件）</title>
+		<title lang="zh">本集提要- 《梦中的那片海》第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230601193000 +0800" stop="20230601202500 +0800" channel="cctv8">
-		<title lang="zh">电视剧-（高清文件）</title>
+		<title lang="zh">梦中的那片海第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230601202500 +0800" stop="20230601203000 +0800" channel="cctv8">
-		<title lang="zh">本集提要-备播（高清文件）</title>
+		<title lang="zh">本集提要- 《梦中的那片海》第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230601203000 +0800" stop="20230601212500 +0800" channel="cctv8">
-		<title lang="zh">电视剧-（高清文件）</title>
+		<title lang="zh">梦中的那片海2/38</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230601212500 +0800" stop="20230601212900 +0800" channel="cctv8">
@@ -9399,11 +9395,11 @@
 		<title lang="zh">第一动画乐园-2023-296</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230602184700 +0800" stop="20230602185200 +0800" channel="cctv1">
+	<programme start="20230602184700 +0800" stop="20230602185100 +0800" channel="cctv1">
 		<title lang="zh">第一动画乐园-2022-720</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230602185200 +0800" stop="20230602190000 +0800" channel="cctv1">
+	<programme start="20230602185100 +0800" stop="20230602190000 +0800" channel="cctv1">
 		<title lang="zh">2023秘境之眼-131</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -10388,19 +10384,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230602192500 +0800" stop="20230602193000 +0800" channel="cctv8">
-		<title lang="zh">本集提要-备播（高清文件）</title>
+		<title lang="zh">本集提要-《梦中的那片海》3/38</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230602193000 +0800" stop="20230602202500 +0800" channel="cctv8">
-		<title lang="zh">电视剧-（高清文件）</title>
+		<title lang="zh">梦中的那片海3/38</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230602202500 +0800" stop="20230602203000 +0800" channel="cctv8">
-		<title lang="zh">本集提要-备播（高清文件）</title>
+		<title lang="zh">本集提要-《梦中的那片海》4/38</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230602203000 +0800" stop="20230602212500 +0800" channel="cctv8">
-		<title lang="zh">电视剧-（高清文件）</title>
+		<title lang="zh">梦中的那片海4/38</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230602212500 +0800" stop="20230602212900 +0800" channel="cctv8">
