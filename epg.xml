@@ -8348,11 +8348,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604110800 +0800" stop="20230604115800 +0800" channel="cctv11">
-		<title lang="zh">对手16/37</title>
+		<title lang="zh">对手第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604115800 +0800" stop="20230604124900 +0800" channel="cctv11">
-		<title lang="zh">对手17/37</title>
+		<title lang="zh">对手第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604124900 +0800" stop="20230604155200 +0800" channel="cctv11">
@@ -8364,11 +8364,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604171300 +0800" stop="20230604180300 +0800" channel="cctv11">
-		<title lang="zh">山海情6/23</title>
+		<title lang="zh">山海情第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604180300 +0800" stop="20230604190000 +0800" channel="cctv11">
-		<title lang="zh">山海情7/23</title>
+		<title lang="zh">山海情第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604190000 +0800" stop="20230604193000 +0800" channel="cctv11">
@@ -8388,11 +8388,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604225300 +0800" stop="20230604234300 +0800" channel="cctv11">
-		<title lang="zh">老闺蜜2/48</title>
+		<title lang="zh">老闺蜜第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604234300 +0800" stop="20230604235900 +0800" channel="cctv11">
-		<title lang="zh">老闺蜜3/48</title>
+		<title lang="zh">老闺蜜第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604004100 +0800" stop="20230604013400 +0800" channel="cctv12">
@@ -8856,11 +8856,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604100800 +0800" stop="20230604105900 +0800" channel="cctv17">
-		<title lang="zh">娘亲舅大7/51</title>
+		<title lang="zh">娘亲舅大第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604105900 +0800" stop="20230604114800 +0800" channel="cctv17">
-		<title lang="zh">娘亲舅大8/51</title>
+		<title lang="zh">娘亲舅大第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604114800 +0800" stop="20230604115300 +0800" channel="cctv17">
@@ -8892,19 +8892,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604133500 +0800" stop="20230604142600 +0800" channel="cctv17">
-		<title lang="zh">破冰行动8/43</title>
+		<title lang="zh">破冰行动第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604142600 +0800" stop="20230604151700 +0800" channel="cctv17">
-		<title lang="zh">破冰行动9/43</title>
+		<title lang="zh">破冰行动第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604151700 +0800" stop="20230604160700 +0800" channel="cctv17">
-		<title lang="zh">破冰行动10/43</title>
+		<title lang="zh">破冰行动第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604160700 +0800" stop="20230604165700 +0800" channel="cctv17">
-		<title lang="zh">破冰行动11/43</title>
+		<title lang="zh">破冰行动第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604165700 +0800" stop="20230604170000 +0800" channel="cctv17">
@@ -8924,11 +8924,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604183200 +0800" stop="20230604192600 +0800" channel="cctv17">
-		<title lang="zh">娘亲舅大9/51</title>
+		<title lang="zh">娘亲舅大第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604192600 +0800" stop="20230604201500 +0800" channel="cctv17">
-		<title lang="zh">娘亲舅大10/51</title>
+		<title lang="zh">娘亲舅大第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230604201500 +0800" stop="20230604204400 +0800" channel="cctv17">
@@ -10299,8 +10299,12 @@
 		<title lang="zh">考古公开课-2023-23</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230605020500 +0800" stop="20230605060000 +0800" channel="cctv10">
+	<programme start="20230605020500 +0800" stop="20230605024500 +0800" channel="cctv10">
 		<title lang="zh">健康之路-2023-155</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230605024500 +0800" stop="20230605060000 +0800" channel="cctv10">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230605060000 +0800" stop="20230605061000 +0800" channel="cctv10">
@@ -10451,8 +10455,12 @@
 		<title lang="zh">探索·发现-2023-165</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230605003400 +0800" stop="20230605060800 +0800" channel="cctv11">
-		<title lang="zh">老闺蜜4/48</title>
+	<programme start="20230605003400 +0800" stop="20230605013000 +0800" channel="cctv11">
+		<title lang="zh">老闺蜜第4集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230605013000 +0800" stop="20230605060800 +0800" channel="cctv11">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230605060800 +0800" stop="20230605070900 +0800" channel="cctv11">
@@ -10903,6 +10911,10 @@
 		<title lang="zh">实况录像（奥林匹克）-2023年世界泳联跳水世界杯 西安站 男子双人十米台决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
+	<programme start="20230605002100 +0800" stop="20230605055500 +0800" channel="cctv17">
+		<title lang="zh">再见</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<programme start="20230605055500 +0800" stop="20230605060000 +0800" channel="cctv17">
 		<title lang="zh">农业气象</title>
 		<desc lang="zh"></desc>
@@ -11057,6 +11069,10 @@
 	</programme>
 	<programme start="20230605234500 +0800" stop="20230605235900 +0800" channel="cctv17">
 		<title lang="zh">三农群英汇-2023-197</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230605000000 +0800" stop="20230605060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230605060000 +0800" stop="20230605060100 +0800" channel="cctv4k">
