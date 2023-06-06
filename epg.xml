@@ -10663,8 +10663,12 @@
 		<title lang="zh">法律讲堂-2023-151</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230608013400 +0800" stop="20230608060300 +0800" channel="cctv12">
+	<programme start="20230608013400 +0800" stop="20230608015500 +0800" channel="cctv12">
 		<title lang="zh">生命线-2023-153</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230608015500 +0800" stop="20230608060300 +0800" channel="cctv12">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230608060300 +0800" stop="20230608063400 +0800" channel="cctv12">
@@ -10807,8 +10811,12 @@
 		<title lang="zh">风车剧场-2023-172</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230608012600 +0800" stop="20230608060000 +0800" channel="cctvchild">
+	<programme start="20230608012600 +0800" stop="20230608020000 +0800" channel="cctvchild">
 		<title lang="zh">风车剧场-2023-173</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230608020000 +0800" stop="20230608060000 +0800" channel="cctvchild">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230608060000 +0800" stop="20230608063000 +0800" channel="cctvchild">
@@ -11209,6 +11217,10 @@
 	</programme>
 	<programme start="20230608234500 +0800" stop="20230608235900 +0800" channel="cctv17">
 		<title lang="zh">三农群英汇-2023-71</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230608000000 +0800" stop="20230608060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230608060000 +0800" stop="20230608060100 +0800" channel="cctv4k">
