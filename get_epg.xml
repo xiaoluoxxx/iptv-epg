@@ -452,7 +452,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230608200600 +0800" stop="20230608205700 +0800">
-		<title lang="zh">熟年18/39</title>
+		<title lang="zh">熟年第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230608205700 +0800" stop="20230608210000 +0800">
@@ -460,7 +460,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230608210000 +0800" stop="20230608220000 +0800">
-		<title lang="zh">熟年19/39</title>
+		<title lang="zh">熟年第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230608220000 +0800" stop="20230608223400 +0800">
@@ -2043,8 +2043,12 @@
 		<title lang="zh">2023年世界男排联赛-日本站（塞尔维亚队-中国队）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230608160000 +0800" stop="20230608180000 +0800">
-		<title lang="zh">2023年中国足协超级联赛-第12轮（长春亚泰—深圳队）</title>
+	<programme  channel="cctv5" start="20230608160000 +0800" stop="20230608163000 +0800">
+		<title lang="zh">录像-2023年世界田联钻石联赛  佛罗伦萨站 25分钟版</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230608163000 +0800" stop="20230608180000 +0800">
+		<title lang="zh">实况录像-2023年世界女排联赛  日本站 中国队—荷兰队</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230608180000 +0800" stop="20230608183500 +0800">
@@ -3412,19 +3416,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230608193000 +0800" stop="20230608202500 +0800">
-		<title lang="zh">梦中的那片海15/38</title>
+		<title lang="zh">梦中的那片海第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230608202500 +0800" stop="20230608203000 +0800">
-		<title lang="zh">本集提要-《梦中的那片海》16/38</title>
+		<title lang="zh">本集提要- 《梦中的那片海》第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230608203000 +0800" stop="20230608212400 +0800">
-		<title lang="zh">梦中的那片海16/38</title>
+		<title lang="zh">梦中的那片海第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230608212400 +0800" stop="20230608212900 +0800">
-		<title lang="zh">本集提要-《张卫国的夏天》2/18</title>
+		<title lang="zh">本集提要- 《张卫国的夏天》第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230608212900 +0800" stop="20230608221900 +0800">
@@ -3432,7 +3436,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230608221900 +0800" stop="20230608222200 +0800">
-		<title lang="zh">本集提要-《张卫国的夏天》3/18</title>
+		<title lang="zh">本集提要- 《张卫国的夏天》第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230608222200 +0800" stop="20230608231100 +0800">
