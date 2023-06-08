@@ -360,15 +360,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230609092700 +0800" stop="20230609101700 +0800">
-		<title lang="zh">装台6/33</title>
+		<title lang="zh">装台第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230609101700 +0800" stop="20230609110500 +0800">
-		<title lang="zh">装台7/33</title>
+		<title lang="zh">装台第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230609110500 +0800" stop="20230609115300 +0800">
-		<title lang="zh">装台8/33</title>
+		<title lang="zh">装台第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230609115300 +0800" stop="20230609115500 +0800">
@@ -388,23 +388,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230609131000 +0800" stop="20230609135800 +0800">
-		<title lang="zh">无名卫士12/42</title>
+		<title lang="zh">无名卫士第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230609135800 +0800" stop="20230609144900 +0800">
-		<title lang="zh">无名卫士13/42</title>
+		<title lang="zh">无名卫士第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230609144900 +0800" stop="20230609153700 +0800">
-		<title lang="zh">无名卫士14/42</title>
+		<title lang="zh">无名卫士第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230609153700 +0800" stop="20230609162400 +0800">
-		<title lang="zh">无名卫士15/42</title>
+		<title lang="zh">无名卫士第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230609162400 +0800" stop="20230609171400 +0800">
-		<title lang="zh">无名卫士16/42</title>
+		<title lang="zh">无名卫士第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230609171400 +0800" stop="20230609175400 +0800">
@@ -435,8 +435,12 @@
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230609200600 +0800" stop="20230609220000 +0800">
-		<title lang="zh">中国书法大会-2</title>
+	<programme  channel="cctv1" start="20230609200600 +0800" stop="20230609214800 +0800">
+		<title lang="zh">中国书法大会-（第二集）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv1" start="20230609214800 +0800" stop="20230609220000 +0800">
+		<title lang="zh">寻古中国-33宣传片-1</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230609220000 +0800" stop="20230609223400 +0800">
@@ -1548,12 +1552,12 @@
 		<title lang="zh">中国文艺-2023-113</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230608100000 +0800" stop="20230608110000 +0800">
+	<programme  channel="cctv4" start="20230608100000 +0800" stop="20230608112000 +0800">
 		<title lang="zh">2023年国新办发布会-30</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230608110000 +0800" stop="20230608113000 +0800">
-		<title lang="zh">国家记忆-2023-53</title>
+	<programme  channel="cctv4" start="20230608112000 +0800" stop="20230608113000 +0800">
+		<title lang="zh">记住乡愁2018片段展播-29</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230608113000 +0800" stop="20230608120000 +0800">
@@ -3107,6 +3111,334 @@
 		<title lang="zh">星推荐-2023年6月-7</title>
 		<desc lang="zh"></desc>
 	</programme>
+	<programme  channel="cctv8" start="20230608000600 +0800" stop="20230608005200 +0800">
+		<title lang="zh">大侠霍元甲第26集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608005200 +0800" stop="20230608005700 +0800">
+		<title lang="zh">星推荐-2023年6月-7</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608005700 +0800" stop="20230608014300 +0800">
+		<title lang="zh">大侠霍元甲第27集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608014300 +0800" stop="20230608022900 +0800">
+		<title lang="zh">大侠霍元甲第28集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608022900 +0800" stop="20230608031500 +0800">
+		<title lang="zh">大侠霍元甲第29集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608031500 +0800" stop="20230608040100 +0800">
+		<title lang="zh">大侠霍元甲第30集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608040100 +0800" stop="20230608042000 +0800">
+		<title lang="zh">插花-2022-3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608042000 +0800" stop="20230608042700 +0800">
+		<title lang="zh">星推荐-2023年6月-7</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608042700 +0800" stop="20230608051300 +0800">
+		<title lang="zh">鲜花盛开的山村第8集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608051300 +0800" stop="20230608055900 +0800">
+		<title lang="zh">鲜花盛开的山村第9集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608055900 +0800" stop="20230608064900 +0800">
+		<title lang="zh">鲜花盛开的山村第10集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608064900 +0800" stop="20230608073500 +0800">
+		<title lang="zh">鲜花盛开的山村第11集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608073500 +0800" stop="20230608074400 +0800">
+		<title lang="zh">星推荐-2023年6月-7</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608074400 +0800" stop="20230608083900 +0800">
+		<title lang="zh">破晓东方第6集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608083900 +0800" stop="20230608092900 +0800">
+		<title lang="zh">破晓东方第7集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608092900 +0800" stop="20230608094000 +0800">
+		<title lang="zh">星推荐-2023年6月-7</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608094000 +0800" stop="20230608103700 +0800">
+		<title lang="zh">破晓东方第8集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608103700 +0800" stop="20230608113400 +0800">
+		<title lang="zh">破晓东方第9集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608113400 +0800" stop="20230608122000 +0800">
+		<title lang="zh">破晓东方第10集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608122000 +0800" stop="20230608123500 +0800">
+		<title lang="zh">星推荐-2023年6月-7</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608123500 +0800" stop="20230608133200 +0800">
+		<title lang="zh">心想事成第32集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608133200 +0800" stop="20230608142800 +0800">
+		<title lang="zh">心想事成第33集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608142800 +0800" stop="20230608152500 +0800">
+		<title lang="zh">心想事成第34集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608152500 +0800" stop="20230608161100 +0800">
+		<title lang="zh">心想事成第35集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608161100 +0800" stop="20230608162500 +0800">
+		<title lang="zh">星推荐-2023年6月-7</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608162500 +0800" stop="20230608162900 +0800">
+		<title lang="zh">插花-2015-3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608162900 +0800" stop="20230608173200 +0800">
+		<title lang="zh">大山的女儿第20集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608173200 +0800" stop="20230608182400 +0800">
+		<title lang="zh">大山的女儿第21集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608182400 +0800" stop="20230608183000 +0800">
+		<title lang="zh">星推荐-2023年6月-7</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608183000 +0800" stop="20230608191900 +0800">
+		<title lang="zh">大山的女儿第22集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608191900 +0800" stop="20230608192600 +0800">
+		<title lang="zh">星推荐-2023年6月-8</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608192600 +0800" stop="20230608193000 +0800">
+		<title lang="zh">本集提要- 《梦中的那片海》第15集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608193000 +0800" stop="20230608202500 +0800">
+		<title lang="zh">梦中的那片海第15集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608202500 +0800" stop="20230608203000 +0800">
+		<title lang="zh">本集提要- 《梦中的那片海》第16集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608203000 +0800" stop="20230608212400 +0800">
+		<title lang="zh">梦中的那片海第16集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608212400 +0800" stop="20230608212900 +0800">
+		<title lang="zh">本集提要- 《张卫国的夏天》第2集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608212900 +0800" stop="20230608221900 +0800">
+		<title lang="zh">张卫国的夏天第2集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608221900 +0800" stop="20230608222200 +0800">
+		<title lang="zh">本集提要- 《张卫国的夏天》第3集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608222200 +0800" stop="20230608231100 +0800">
+		<title lang="zh">张卫国的夏天第3集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608231100 +0800" stop="20230608235700 +0800">
+		<title lang="zh">大侠霍元甲第31集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230608235700 +0800" stop="20230608235900 +0800">
+		<title lang="zh">星推荐-2023年6月-8</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609000600 +0800" stop="20230609005200 +0800">
+		<title lang="zh">大侠霍元甲第32集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609005200 +0800" stop="20230609005700 +0800">
+		<title lang="zh">星推荐-2023年6月-8</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609005700 +0800" stop="20230609014300 +0800">
+		<title lang="zh">大侠霍元甲第33集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609014300 +0800" stop="20230609022900 +0800">
+		<title lang="zh">大侠霍元甲第34集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609022900 +0800" stop="20230609031500 +0800">
+		<title lang="zh">大侠霍元甲第35集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609031500 +0800" stop="20230609040100 +0800">
+		<title lang="zh">大侠霍元甲第36集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609040100 +0800" stop="20230609042000 +0800">
+		<title lang="zh">插花-2022-3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609042000 +0800" stop="20230609042700 +0800">
+		<title lang="zh">星推荐-2023年6月-8</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609042700 +0800" stop="20230609051300 +0800">
+		<title lang="zh">鲜花盛开的山村第12集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609051300 +0800" stop="20230609055900 +0800">
+		<title lang="zh">鲜花盛开的山村第13集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609055900 +0800" stop="20230609064900 +0800">
+		<title lang="zh">鲜花盛开的山村第14集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609064900 +0800" stop="20230609073500 +0800">
+		<title lang="zh">鲜花盛开的山村第15集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609073500 +0800" stop="20230609074400 +0800">
+		<title lang="zh">星推荐-2023年6月-8</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609074400 +0800" stop="20230609083900 +0800">
+		<title lang="zh">破晓东方第11集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609083900 +0800" stop="20230609092900 +0800">
+		<title lang="zh">破晓东方第12集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609092900 +0800" stop="20230609094000 +0800">
+		<title lang="zh">星推荐-2023年6月-8</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609094000 +0800" stop="20230609103700 +0800">
+		<title lang="zh">破晓东方第13集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609103700 +0800" stop="20230609113400 +0800">
+		<title lang="zh">破晓东方第14集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609113400 +0800" stop="20230609122000 +0800">
+		<title lang="zh">破晓东方第15集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609122000 +0800" stop="20230609123500 +0800">
+		<title lang="zh">星推荐-2023年6月-8</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609123500 +0800" stop="20230609133200 +0800">
+		<title lang="zh">心想事成第36集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609133200 +0800" stop="20230609142800 +0800">
+		<title lang="zh">平凡之路第1集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609142800 +0800" stop="20230609152500 +0800">
+		<title lang="zh">平凡之路第2集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609152500 +0800" stop="20230609161100 +0800">
+		<title lang="zh">平凡之路第3集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609161100 +0800" stop="20230609162500 +0800">
+		<title lang="zh">星推荐-2023年6月-8</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609162500 +0800" stop="20230609162900 +0800">
+		<title lang="zh">插花-2015-3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609162900 +0800" stop="20230609173200 +0800">
+		<title lang="zh">大山的女儿第23集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609173200 +0800" stop="20230609182400 +0800">
+		<title lang="zh">大山的女儿第24集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609182400 +0800" stop="20230609183000 +0800">
+		<title lang="zh">星推荐-2023年6月-8</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609183000 +0800" stop="20230609191900 +0800">
+		<title lang="zh">大山的女儿第25集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609191900 +0800" stop="20230609192600 +0800">
+		<title lang="zh">星推荐-2023年6月-9</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609192600 +0800" stop="20230609193000 +0800">
+		<title lang="zh">本集提要- 《梦中的那片海》第17集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609193000 +0800" stop="20230609202500 +0800">
+		<title lang="zh">梦中的那片海第17集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609202500 +0800" stop="20230609203000 +0800">
+		<title lang="zh">本集提要- 《梦中的那片海》第18集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609203000 +0800" stop="20230609212400 +0800">
+		<title lang="zh">梦中的那片海第18集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609212400 +0800" stop="20230609212900 +0800">
+		<title lang="zh">本集提要- 《张卫国的夏天》第4集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609212900 +0800" stop="20230609221900 +0800">
+		<title lang="zh">张卫国的夏天4/18</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609221900 +0800" stop="20230609222200 +0800">
+		<title lang="zh">本集提要- 《张卫国的夏天》第5集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609222200 +0800" stop="20230609231100 +0800">
+		<title lang="zh">张卫国的夏天5/18</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609231100 +0800" stop="20230609235700 +0800">
+		<title lang="zh">大侠霍元甲第37集</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv8" start="20230609235700 +0800" stop="20230609235900 +0800">
+		<title lang="zh">星推荐-2023年6月-9</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<channel id="cctvjilu">
 		<display-name lang="cn">CCTV-9 纪录</display-name>
 	</channel>
@@ -4560,11 +4892,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv12" start="20230609132800 +0800" stop="20230609141300 +0800">
-		<title lang="zh">社会与法频道电视剧精选（2019）-岁岁年年柿柿红-2/39</title>
+		<title lang="zh">2023社会与法电视剧精选-岁岁年年柿柿红-2/39</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv12" start="20230609141300 +0800" stop="20230609150000 +0800">
-		<title lang="zh">社会与法频道电视剧精选（2019）-岁岁年年柿柿红-3/39</title>
+		<title lang="zh">2023社会与法电视剧精选-岁岁年年柿柿红-3/39</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv12" start="20230609150000 +0800" stop="20230609153000 +0800">
