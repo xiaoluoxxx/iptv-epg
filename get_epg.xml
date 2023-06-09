@@ -419,11 +419,11 @@
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230610200600 +0800" stop="20230610215500 +0800">
+	<programme  channel="cctv1" start="20230610200600 +0800" stop="20230610215200 +0800">
 		<title lang="zh">非遗里的中国-6</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230610215500 +0800" stop="20230610220000 +0800">
+	<programme  channel="cctv1" start="20230610215200 +0800" stop="20230610220000 +0800">
 		<title lang="zh">寻古中国-33宣传片-1</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -707,11 +707,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv2" start="20230609183000 +0800" stop="20230609190000 +0800">
-		<title lang="zh">回家吃饭-2023-135</title>
+		<title lang="zh">回家吃饭-2023-125</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv2" start="20230609190000 +0800" stop="20230609193000 +0800">
-		<title lang="zh">生财有道-2023-6-9</title>
+		<title lang="zh">生财有道-2023-6-10</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv2" start="20230609193000 +0800" stop="20230609200000 +0800">
@@ -771,7 +771,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv2" start="20230610043500 +0800" stop="20230610050300 +0800">
-		<title lang="zh">回家吃饭-2023-135</title>
+		<title lang="zh">回家吃饭-2023-125</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv2" start="20230610050300 +0800" stop="20230610053400 +0800">
@@ -779,7 +779,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv2" start="20230610053400 +0800" stop="20230610055900 +0800">
-		<title lang="zh">生财有道-2023-6-9</title>
+		<title lang="zh">生财有道-2023-6-10</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv2" start="20230610055900 +0800" stop="20230610070000 +0800">
@@ -1741,7 +1741,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230610200000 +0800" stop="20230610203000 +0800">
-		<title lang="zh">深度国际-2023年6月-2</title>
+		<title lang="zh">中国脊梁-1</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230610203000 +0800" stop="20230610210000 +0800">
@@ -1757,7 +1757,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230610220000 +0800" stop="20230610223000 +0800">
-		<title lang="zh">走遍中国-2023-52</title>
+		<title lang="zh">深度国际-2023年6月-2</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230610223000 +0800" stop="20230610230100 +0800">
@@ -1899,20 +1899,20 @@
 		<title lang="zh">实况录像-2023年世界田联钻石联赛  拉巴特站</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230609160500 +0800" stop="20230609180000 +0800">
-		<title lang="zh">实况录像-2023年世界男排联赛  日本站  中国队—法国队 （录播）</title>
+	<programme  channel="cctv5" start="20230609160500 +0800" stop="20230609170500 +0800">
+		<title lang="zh">赛事集锦(高清体育)-2023-47-2023年世界跆拳道锦标赛1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230609170500 +0800" stop="20230609180000 +0800">
+		<title lang="zh">篮球公园</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230609180000 +0800" stop="20230609183500 +0800">
 		<title lang="zh">体育新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230609183500 +0800" stop="20230609193000 +0800">
-		<title lang="zh">篮球公园</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme  channel="cctv5" start="20230609193000 +0800" stop="20230609203000 +0800">
-		<title lang="zh">实况录像-2023年世界乒乓球锦标赛 男单决赛</title>
+	<programme  channel="cctv5" start="20230609183500 +0800" stop="20230609203000 +0800">
+		<title lang="zh">2023年法国网球公开赛-女双半决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230609203000 +0800" stop="20230609210000 +0800">
@@ -2127,7 +2127,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230609233500 +0800" stop="20230609235900 +0800">
-		<title lang="zh">实况录像-2023年世界男排联赛  日本站  塞尔维亚队—中国队</title>
+		<title lang="zh">实况录像-2023年世界田联钻石联赛  佛罗伦萨站</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230610010600 +0800" stop="20230610023600 +0800">
@@ -3188,7 +3188,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230609212900 +0800" stop="20230609221900 +0800">
-		<title lang="zh">张卫国的夏天4/18</title>
+		<title lang="zh">张卫国的夏天第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230609221900 +0800" stop="20230609222200 +0800">
@@ -3196,7 +3196,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230609222200 +0800" stop="20230609231100 +0800">
-		<title lang="zh">张卫国的夏天5/18</title>
+		<title lang="zh">张卫国的夏天第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230609231100 +0800" stop="20230609235700 +0800">
@@ -3336,7 +3336,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230610193000 +0800" stop="20230610202500 +0800">
-		<title lang="zh">梦中的那片海19/38</title>
+		<title lang="zh">梦中的那片海第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230610202500 +0800" stop="20230610203000 +0800">
@@ -3344,23 +3344,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230610203000 +0800" stop="20230610212400 +0800">
-		<title lang="zh">梦中的那片海20/38</title>
+		<title lang="zh">梦中的那片海第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230610212400 +0800" stop="20230610212900 +0800">
-		<title lang="zh">本集提要-《张卫国的夏天》6/18</title>
+		<title lang="zh">本集提要- 《张卫国的夏天》第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230610212900 +0800" stop="20230610221900 +0800">
-		<title lang="zh">张卫国的夏天6/18</title>
+		<title lang="zh">张卫国的夏天第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230610221900 +0800" stop="20230610222200 +0800">
-		<title lang="zh">本集提要-《张卫国的夏天》7/18</title>
+		<title lang="zh">本集提要- 《张卫国的夏天》第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230610222200 +0800" stop="20230610231100 +0800">
-		<title lang="zh">张卫国的夏天7/18</title>
+		<title lang="zh">张卫国的夏天第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230610231100 +0800" stop="20230610235700 +0800">
