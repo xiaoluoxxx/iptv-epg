@@ -8480,11 +8480,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230617115400 +0800" stop="20230617124500 +0800" channel="cctv11">
-		<title lang="zh">小敏家5/40</title>
+		<title lang="zh">小敏家第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230617124500 +0800" stop="20230617133500 +0800" channel="cctv11">
-		<title lang="zh">小敏家6/40</title>
+		<title lang="zh">小敏家第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230617133500 +0800" stop="20230617145400 +0800" channel="cctv11">
@@ -8496,11 +8496,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230617171300 +0800" stop="20230617180300 +0800" channel="cctv11">
-		<title lang="zh">绝代双骄9/44</title>
+		<title lang="zh">绝代双骄第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230617180300 +0800" stop="20230617190000 +0800" channel="cctv11">
-		<title lang="zh">绝代双骄10/44</title>
+		<title lang="zh">绝代双骄第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230617190000 +0800" stop="20230617193000 +0800" channel="cctv11">
@@ -8516,11 +8516,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230617225800 +0800" stop="20230617234800 +0800" channel="cctv11">
-		<title lang="zh">老闺蜜41/48</title>
+		<title lang="zh">老闺蜜第41集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230617234800 +0800" stop="20230617235900 +0800" channel="cctv11">
-		<title lang="zh">老闺蜜42/48</title>
+		<title lang="zh">老闺蜜第42集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230617001100 +0800" stop="20230617010400 +0800" channel="cctv12">
@@ -10455,8 +10455,12 @@
 		<title lang="zh">百家讲坛-2023-168</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230618015800 +0800" stop="20230618060000 +0800" channel="cctv10">
+	<programme start="20230618015800 +0800" stop="20230618023800 +0800" channel="cctv10">
 		<title lang="zh">健康之路-2023-168</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230618023800 +0800" stop="20230618060000 +0800" channel="cctv10">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230618060000 +0800" stop="20230618061000 +0800" channel="cctv10">
@@ -10596,11 +10600,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230618003900 +0800" stop="20230618012900 +0800" channel="cctv11">
-		<title lang="zh">老闺蜜43/48</title>
+		<title lang="zh">老闺蜜第43集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230618012900 +0800" stop="20230618060800 +0800" channel="cctv11">
+	<programme start="20230618012900 +0800" stop="20230618025100 +0800" channel="cctv11">
 		<title lang="zh">中国京剧像音像集萃-2020-35京剧《路遥知马力》</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230618025100 +0800" stop="20230618060800 +0800" channel="cctv11">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230618060800 +0800" stop="20230618070900 +0800" channel="cctv11">
@@ -10819,8 +10827,12 @@
 		<title lang="zh">风车剧场-2023-205</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230618012600 +0800" stop="20230618060000 +0800" channel="cctvchild">
+	<programme start="20230618012600 +0800" stop="20230618020000 +0800" channel="cctvchild">
 		<title lang="zh">风车剧场-2023-206</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230618020000 +0800" stop="20230618060000 +0800" channel="cctvchild">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230618060000 +0800" stop="20230618070000 +0800" channel="cctvchild">
@@ -11173,6 +11185,10 @@
 	</programme>
 	<programme start="20230618225000 +0800" stop="20230618235900 +0800" channel="cctv17">
 		<title lang="zh">乡村大舞台-2023-17</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230618000000 +0800" stop="20230618060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230618060000 +0800" stop="20230618060100 +0800" channel="cctv4k">

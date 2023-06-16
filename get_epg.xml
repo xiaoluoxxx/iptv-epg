@@ -4425,11 +4425,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230617115400 +0800" stop="20230617124500 +0800">
-		<title lang="zh">小敏家5/40</title>
+		<title lang="zh">小敏家第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230617124500 +0800" stop="20230617133500 +0800">
-		<title lang="zh">小敏家6/40</title>
+		<title lang="zh">小敏家第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230617133500 +0800" stop="20230617145400 +0800">
@@ -4441,11 +4441,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230617171300 +0800" stop="20230617180300 +0800">
-		<title lang="zh">绝代双骄9/44</title>
+		<title lang="zh">绝代双骄第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230617180300 +0800" stop="20230617190000 +0800">
-		<title lang="zh">绝代双骄10/44</title>
+		<title lang="zh">绝代双骄第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230617190000 +0800" stop="20230617193000 +0800">
@@ -4461,11 +4461,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230617225800 +0800" stop="20230617234800 +0800">
-		<title lang="zh">老闺蜜41/48</title>
+		<title lang="zh">老闺蜜第41集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230617234800 +0800" stop="20230617235900 +0800">
-		<title lang="zh">老闺蜜42/48</title>
+		<title lang="zh">老闺蜜第42集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv12">
