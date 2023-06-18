@@ -1613,23 +1613,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230619131400 +0800" stop="20230619140200 +0800">
-		<title lang="zh">浴血十四年3/40</title>
+		<title lang="zh">浴血十四年第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230619140200 +0800" stop="20230619145000 +0800">
-		<title lang="zh">浴血十四年4/40</title>
+		<title lang="zh">浴血十四年第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230619145000 +0800" stop="20230619153700 +0800">
-		<title lang="zh">浴血十四年5/40</title>
+		<title lang="zh">浴血十四年第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230619153700 +0800" stop="20230619162500 +0800">
-		<title lang="zh">浴血十四年6/40</title>
+		<title lang="zh">浴血十四年第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230619162500 +0800" stop="20230619171500 +0800">
-		<title lang="zh">浴血十四年7/40</title>
+		<title lang="zh">浴血十四年第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230619171500 +0800" stop="20230619180000 +0800">
@@ -1677,11 +1677,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230619230300 +0800" stop="20230619234900 +0800">
-		<title lang="zh">加油！妈妈23/40</title>
+		<title lang="zh">加油！妈妈第23集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230619234900 +0800" stop="20230619235900 +0800">
-		<title lang="zh">加油！妈妈24/40</title>
+		<title lang="zh">加油！妈妈第24集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv5">
@@ -14637,8 +14637,100 @@
 		<title lang="zh">宇宙护卫队之钢甲霸王龙（闽）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="xiamen" start="20230619034000 +0800" stop="20230619235900 +0800">
+	<programme  channel="xiamen" start="20230619034000 +0800" stop="20230619060000 +0800">
 		<title lang="zh">两岸秘密档案（闽）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619060000 +0800" stop="20230619070000 +0800">
+		<title lang="zh">斗阵来看戏（17日）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619070000 +0800" stop="20230619070100 +0800">
+		<title lang="zh">国歌</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619070100 +0800" stop="20230619073500 +0800">
+		<title lang="zh">两岸新新闻（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619073500 +0800" stop="20230619080000 +0800">
+		<title lang="zh">军情全球眼（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619080000 +0800" stop="20230619081000 +0800">
+		<title lang="zh">缤纷生灵4</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619081000 +0800" stop="20230619084500 +0800">
+		<title lang="zh">玲听两岸（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619084500 +0800" stop="20230619092000 +0800">
+		<title lang="zh">印象中国之行走山水间（闽）34</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619092000 +0800" stop="20230619120000 +0800">
+		<title lang="zh">爱的创可贴（闽）10-12</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619120000 +0800" stop="20230619125500 +0800">
+		<title lang="zh">斗阵来看戏（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619125500 +0800" stop="20230619132500 +0800">
+		<title lang="zh">斗阵来讲古（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619132500 +0800" stop="20230619150000 +0800">
+		<title lang="zh">双城生活（闽）28-29</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619150000 +0800" stop="20230619173500 +0800">
+		<title lang="zh">远方的山楂树5-7</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619173500 +0800" stop="20230619180000 +0800">
+		<title lang="zh">《小海豚》日常版《上课啦》（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619180000 +0800" stop="20230619183000 +0800">
+		<title lang="zh">新闻斗阵讲（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619183000 +0800" stop="20230619190000 +0800">
+		<title lang="zh">厦视新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619190000 +0800" stop="20230619204000 +0800">
+		<title lang="zh">温州两家人4-5</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619204000 +0800" stop="20230619212000 +0800">
+		<title lang="zh">两岸秘密档案</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619212000 +0800" stop="20230619213000 +0800">
+		<title lang="zh">缤纷生灵3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619213000 +0800" stop="20230619220000 +0800">
+		<title lang="zh">两岸新新闻（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619220000 +0800" stop="20230619223000 +0800">
+		<title lang="zh">两岸直航（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619223000 +0800" stop="20230619223500 +0800">
+		<title lang="zh">绽放吧非遗第二季 闽风盆韵</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619223500 +0800" stop="20230619224000 +0800">
+		<title lang="zh">航拍闽西南 大地上的脚印</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="xiamen" start="20230619224000 +0800" stop="20230619235900 +0800">
+		<title lang="zh">海峡两岸青少年新媒体论坛之武术论坛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="yunnan">
