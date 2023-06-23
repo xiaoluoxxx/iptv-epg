@@ -308,7 +308,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230624090900 +0800" stop="20230624100000 +0800">
-		<title lang="zh">梦中的那片海20/38</title>
+		<title lang="zh">梦中的那片海第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230624100000 +0800" stop="20230624110100 +0800">
@@ -316,7 +316,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230624110100 +0800" stop="20230624115400 +0800">
-		<title lang="zh">梦中的那片海21/38</title>
+		<title lang="zh">梦中的那片海第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230624115400 +0800" stop="20230624115600 +0800">
@@ -336,23 +336,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230624131100 +0800" stop="20230624140400 +0800">
-		<title lang="zh">海之谣3/36</title>
+		<title lang="zh">海之谣第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230624140400 +0800" stop="20230624145400 +0800">
-		<title lang="zh">海之谣4/36</title>
+		<title lang="zh">海之谣第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230624145400 +0800" stop="20230624154100 +0800">
-		<title lang="zh">海之谣5/36</title>
+		<title lang="zh">海之谣第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230624154100 +0800" stop="20230624162800 +0800">
-		<title lang="zh">海之谣6/36</title>
+		<title lang="zh">海之谣第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230624162800 +0800" stop="20230624171500 +0800">
-		<title lang="zh">海之谣7/36</title>
+		<title lang="zh">海之谣第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230624171500 +0800" stop="20230624173100 +0800">
@@ -375,11 +375,11 @@
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230624200600 +0800" stop="20230624215400 +0800">
+	<programme  channel="cctv1" start="20230624200600 +0800" stop="20230624215100 +0800">
 		<title lang="zh">非遗里的中国-8</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230624215400 +0800" stop="20230624220000 +0800">
+	<programme  channel="cctv1" start="20230624215100 +0800" stop="20230624220000 +0800">
 		<title lang="zh">寻古中国-33宣传片-1</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -1074,7 +1074,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv3" start="20230623205200 +0800" stop="20230623222800 +0800">
-		<title lang="zh">碧水长歌颂端阳-2023总台端午特别节目</title>
+		<title lang="zh">碧水长歌颂端阳-1</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv3" start="20230623222800 +0800" stop="20230623223800 +0800">
@@ -1166,7 +1166,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv3" start="20230624114100 +0800" stop="20230624132100 +0800">
-		<title lang="zh">碧水长歌颂端阳-2023总台端午特别节目</title>
+		<title lang="zh">碧水长歌颂端阳-1</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv3" start="20230624132100 +0800" stop="20230624132400 +0800">
@@ -1661,23 +1661,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230624135700 +0800" stop="20230624144700 +0800">
-		<title lang="zh">浴血十四年28/40</title>
+		<title lang="zh">浴血十四年第28集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230624144700 +0800" stop="20230624153500 +0800">
-		<title lang="zh">浴血十四年29/40</title>
+		<title lang="zh">浴血十四年第29集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230624153500 +0800" stop="20230624162100 +0800">
-		<title lang="zh">浴血十四年30/40</title>
+		<title lang="zh">浴血十四年第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230624162100 +0800" stop="20230624170900 +0800">
-		<title lang="zh">浴血十四年31/40</title>
+		<title lang="zh">浴血十四年第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230624170900 +0800" stop="20230624180000 +0800">
-		<title lang="zh">浴血十四年32/40</title>
+		<title lang="zh">浴血十四年第32集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230624180000 +0800" stop="20230624190000 +0800">
@@ -1717,11 +1717,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230624230300 +0800" stop="20230624234900 +0800">
-		<title lang="zh">加油！妈妈38/40</title>
+		<title lang="zh">加油！妈妈第38集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230624234900 +0800" stop="20230624235900 +0800">
-		<title lang="zh">加油！妈妈39/40</title>
+		<title lang="zh">加油！妈妈第39集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv5">
@@ -1936,7 +1936,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230624125800 +0800" stop="20230624143000 +0800">
-		<title lang="zh">实况录像-2023年世界男排联赛   荷兰站  中国队—意大利队</title>
+		<title lang="zh">实况录像-2023年世界田联钻石联赛  巴黎站</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230624143000 +0800" stop="20230624153300 +0800">
@@ -2091,7 +2091,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230623153000 +0800" stop="20230623170000 +0800">
-		<title lang="zh">实况录像-2023年世界男排联赛   荷兰站  荷兰队—中国队</title>
+		<title lang="zh">实况录像-2023年世界女排联赛  中国香港站  波兰队—荷兰队</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230623170000 +0800" stop="20230623180000 +0800">
@@ -2099,7 +2099,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230623180000 +0800" stop="20230623193000 +0800">
-		<title lang="zh">实况录像-2023年世界女排联赛  中国香港站 中国队—波兰队</title>
+		<title lang="zh">实况录像-2023年世界田联钻石联赛 奥斯陆站</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230623193000 +0800" stop="20230623210000 +0800">
@@ -2107,7 +2107,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230623210000 +0800" stop="20230623223000 +0800">
-		<title lang="zh">实况录像-2023年世界男排联赛   荷兰站  中国队—意大利队</title>
+		<title lang="zh">实况录像-2023年世界女排联赛  中国香港站  意大利队—保加利亚队</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230623223000 +0800" stop="20230623235900 +0800">
@@ -2159,7 +2159,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230624153000 +0800" stop="20230624170000 +0800">
-		<title lang="zh">实况录像-2023年世界男排联赛   荷兰站  美国队—中国队</title>
+		<title lang="zh">实况录像-2023年世界男排联赛  日本站  保加利亚队—中国队</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230624170000 +0800" stop="20230624173000 +0800">
@@ -2167,7 +2167,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230624173000 +0800" stop="20230624190000 +0800">
-		<title lang="zh">实况录像-2023年世界女排联赛  中国香港站  意大利队—中国队</title>
+		<title lang="zh">实况录像-2023年世界女排联赛  中国香港站  荷兰队—土耳其队</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230624190000 +0800" stop="20230624210500 +0800">
@@ -5278,7 +5278,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv15" start="20230624100200 +0800" stop="20230624114800 +0800">
-		<title lang="zh">碧水长歌颂端阳-2023总台端午特别节目</title>
+		<title lang="zh">碧水长歌颂端阳-1</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv15" start="20230624114800 +0800" stop="20230624130200 +0800">
