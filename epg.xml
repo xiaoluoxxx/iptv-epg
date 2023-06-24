@@ -7007,7 +7007,11 @@
 		<title lang="zh">晚间新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230625223400 +0800" stop="20230625235900 +0800" channel="cctv1">
+	<programme start="20230625223400 +0800" stop="20230625235700 +0800" channel="cctv1">
+		<title lang="zh">星光大道-2023-27</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230625235700 +0800" stop="20230625235900 +0800" channel="cctv1">
 		<title lang="zh">非遗里的中国-8</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -9041,10 +9045,6 @@
 	</programme>
 	<programme start="20230625235900 +0800" stop="20230625235900 +0800" channel="cctv4k">
 		<title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20230626001000 +0800" stop="20230626013600 +0800" channel="cctv1">
-		<title lang="zh">星光大道-2023-27</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230626013600 +0800" stop="20230626020400 +0800" channel="cctv1">
