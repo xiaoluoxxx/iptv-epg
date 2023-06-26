@@ -10443,8 +10443,12 @@
 		<title lang="zh">跟着书本去旅行-2023-127</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230628014500 +0800" stop="20230628060000 +0800" channel="cctv10">
+	<programme start="20230628014500 +0800" stop="20230628022500 +0800" channel="cctv10">
 		<title lang="zh">健康之路-2023-178</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230628022500 +0800" stop="20230628060000 +0800" channel="cctv10">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230628060000 +0800" stop="20230628061000 +0800" channel="cctv10">
@@ -10811,8 +10815,12 @@
 		<title lang="zh">风车剧场-2023-238</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230628012600 +0800" stop="20230628060000 +0800" channel="cctvchild">
+	<programme start="20230628012600 +0800" stop="20230628020000 +0800" channel="cctvchild">
 		<title lang="zh">风车剧场-2023-239</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230628020000 +0800" stop="20230628060000 +0800" channel="cctvchild">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230628060000 +0800" stop="20230628063000 +0800" channel="cctvchild">
