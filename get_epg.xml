@@ -1098,7 +1098,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv3" start="20230701131200 +0800" stop="20230701131500 +0800">
-		<title lang="zh">中国文艺报道-2023-302</title>
+		<title lang="zh">中国文艺报道-2023-301</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv3" start="20230701131500 +0800" stop="20230701143800 +0800">
@@ -1884,7 +1884,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230701150000 +0800" stop="20230701163500 +0800">
-		<title lang="zh">2023年国际篮联女篮亚洲杯-半决赛 1</title>
+		<title lang="zh">2023年国际篮联女篮亚洲杯-半决赛（日本VS新西兰）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230701163500 +0800" stop="20230701173000 +0800">
@@ -1892,7 +1892,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230701173000 +0800" stop="20230701190000 +0800">
-		<title lang="zh">2023年国际篮联女篮亚洲杯-半决赛 2</title>
+		<title lang="zh">2023年国际篮联女篮亚洲杯-半决赛（中国VS澳大利亚）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230701190000 +0800" stop="20230701193000 +0800">
@@ -2083,7 +2083,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230701120000 +0800" stop="20230701133000 +0800">
-		<title lang="zh">实况录像-2023年世界女排联赛  韩国站  中国队—多米尼加队</title>
+		<title lang="zh">实况录像-2023年世界女排联赛  中国香港站  保加利亚队—中国队</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230701133000 +0800" stop="20230701140000 +0800">
