@@ -451,16 +451,16 @@
 		<title lang="zh">前情提要- 《追光的日子》第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230706200600 +0800" stop="20230706205700 +0800">
+	<programme  channel="cctv1" start="20230706200600 +0800" stop="20230706205800 +0800">
 		<title lang="zh">追光的日子8/30</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230706205700 +0800" stop="20230706210000 +0800">
+	<programme  channel="cctv1" start="20230706205800 +0800" stop="20230706210100 +0800">
 		<title lang="zh">前情提要-《追光的日子》9/30</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230706210000 +0800" stop="20230706220000 +0800">
-		<title lang="zh">追光的日子9/30</title>
+	<programme  channel="cctv1" start="20230706210100 +0800" stop="20230706220000 +0800">
+		<title lang="zh">追光的日子第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230706220000 +0800" stop="20230706223400 +0800">
@@ -1488,12 +1488,16 @@
 		<title lang="zh">中国文艺-2023-132</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230705100000 +0800" stop="20230705110000 +0800">
+	<programme  channel="cctv4" start="20230705100000 +0800" stop="20230705111000 +0800">
 		<title lang="zh">2023年国新办发布会-33</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230705110000 +0800" stop="20230705113000 +0800">
-		<title lang="zh">国家记忆-2023-72</title>
+	<programme  channel="cctv4" start="20230705111000 +0800" stop="20230705112000 +0800">
+		<title lang="zh">记住乡愁2018片段展播-78</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv4" start="20230705112000 +0800" stop="20230705113000 +0800">
+		<title lang="zh">记住乡愁2018片段展播-79</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230705113000 +0800" stop="20230705120000 +0800">
@@ -1673,23 +1677,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230706131400 +0800" stop="20230706140200 +0800">
-		<title lang="zh">过界10/38</title>
+		<title lang="zh">过界第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230706140200 +0800" stop="20230706145000 +0800">
-		<title lang="zh">过界11/38</title>
+		<title lang="zh">过界第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230706145000 +0800" stop="20230706153700 +0800">
-		<title lang="zh">过界12/38</title>
+		<title lang="zh">过界第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230706153700 +0800" stop="20230706162500 +0800">
-		<title lang="zh">过界13/38</title>
+		<title lang="zh">过界第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230706162500 +0800" stop="20230706171500 +0800">
-		<title lang="zh">过界14/38</title>
+		<title lang="zh">过界第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230706171500 +0800" stop="20230706180000 +0800">
@@ -1737,11 +1741,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230706230100 +0800" stop="20230706234700 +0800">
-		<title lang="zh">我和我的儿女们34/35</title>
+		<title lang="zh">我和我的儿女们第34集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230706234700 +0800" stop="20230706235900 +0800">
-		<title lang="zh">我和我的儿女们35/35</title>
+		<title lang="zh">我和我的儿女们第35集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv5">
@@ -2163,7 +2167,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230706220500 +0800" stop="20230706233500 +0800">
-		<title lang="zh">实况录像-2023年世界男排联赛   菲律宾站  日本队—中国队</title>
+		<title lang="zh">实况录像-2023年世界女排联赛  泰国站  巴西队—加拿大队</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230706233500 +0800" stop="20230706235900 +0800">
@@ -3332,19 +3336,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230706192500 +0800" stop="20230706193000 +0800">
-		<title lang="zh">本集提要-《南洋女儿情》33/40</title>
+		<title lang="zh">本集提要- 《南洋女儿情》第33集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230706193000 +0800" stop="20230706202500 +0800">
-		<title lang="zh">南洋女儿情33/40</title>
+		<title lang="zh">南洋女儿情第33集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230706202500 +0800" stop="20230706203000 +0800">
-		<title lang="zh">本集提要-《南洋女儿情》34/40</title>
+		<title lang="zh">本集提要- 《南洋女儿情》第34集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230706203000 +0800" stop="20230706212300 +0800">
-		<title lang="zh">南洋女儿情34/40</title>
+		<title lang="zh">南洋女儿情第34集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230706212300 +0800" stop="20230706212800 +0800">
@@ -3356,11 +3360,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230706221900 +0800" stop="20230706222200 +0800">
-		<title lang="zh">本集提要-《长风渡》21/38</title>
+		<title lang="zh">本集提要- 《长风渡》第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230706222200 +0800" stop="20230706231100 +0800">
-		<title lang="zh">长风渡21/38</title>
+		<title lang="zh">长风渡第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230706231100 +0800" stop="20230706235700 +0800">
