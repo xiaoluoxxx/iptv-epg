@@ -4397,11 +4397,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230707114800 +0800" stop="20230707123900 +0800">
-		<title lang="zh">芝麻胡同5/51</title>
+		<title lang="zh">芝麻胡同第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230707123900 +0800" stop="20230707132900 +0800">
-		<title lang="zh">芝麻胡同6/51</title>
+		<title lang="zh">芝麻胡同第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230707132900 +0800" stop="20230707144800 +0800">
@@ -4413,11 +4413,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230707171300 +0800" stop="20230707180300 +0800">
-		<title lang="zh">青年霍元甲之冲出江湖5/45</title>
+		<title lang="zh">青年霍元甲之冲出江湖第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230707180300 +0800" stop="20230707190000 +0800">
-		<title lang="zh">青年霍元甲之冲出江湖6/45</title>
+		<title lang="zh">青年霍元甲之冲出江湖第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230707190000 +0800" stop="20230707193000 +0800">
@@ -4433,15 +4433,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230707215400 +0800" stop="20230707224500 +0800">
-		<title lang="zh">武当一剑3/39</title>
+		<title lang="zh">武当一剑第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230707224500 +0800" stop="20230707233500 +0800">
-		<title lang="zh">武当一剑4/39</title>
+		<title lang="zh">武当一剑第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230707233500 +0800" stop="20230707235900 +0800">
-		<title lang="zh">武当一剑5/39</title>
+		<title lang="zh">武当一剑第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv12">
@@ -6040,11 +6040,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230707101700 +0800" stop="20230707110800 +0800">
-		<title lang="zh">山河锦绣25/33</title>
+		<title lang="zh">山河锦绣第25集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230707110800 +0800" stop="20230707120000 +0800">
-		<title lang="zh">山河锦绣26/33</title>
+		<title lang="zh">山河锦绣第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230707120000 +0800" stop="20230707122700 +0800">
@@ -6068,19 +6068,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230707133500 +0800" stop="20230707142600 +0800">
-		<title lang="zh">妈妈在等你19/47</title>
+		<title lang="zh">妈妈在等你第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230707142600 +0800" stop="20230707151700 +0800">
-		<title lang="zh">妈妈在等你20/47</title>
+		<title lang="zh">妈妈在等你第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230707151700 +0800" stop="20230707160700 +0800">
-		<title lang="zh">妈妈在等你21/47</title>
+		<title lang="zh">妈妈在等你第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230707160700 +0800" stop="20230707170000 +0800">
-		<title lang="zh">妈妈在等你22/47</title>
+		<title lang="zh">妈妈在等你第22集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230707170000 +0800" stop="20230707173000 +0800">
@@ -6096,15 +6096,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230707183200 +0800" stop="20230707192600 +0800">
-		<title lang="zh">山河锦绣27/33</title>
+		<title lang="zh">山河锦绣第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230707192600 +0800" stop="20230707201800 +0800">
-		<title lang="zh">山河锦绣28/33</title>
+		<title lang="zh">山河锦绣第28集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230707201800 +0800" stop="20230707210700 +0800">
-		<title lang="zh">山河锦绣29/33</title>
+		<title lang="zh">山河锦绣第29集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230707210700 +0800" stop="20230707213600 +0800">
