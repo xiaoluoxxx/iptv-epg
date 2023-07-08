@@ -1110,30 +1110,30 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv3" start="20230709082200 +0800" stop="20230709092000 +0800">
-		<title lang="zh">黄金100秒-2023-23</title>
+		<title lang="zh">幸福账单-2023-23</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv3" start="20230709092000 +0800" stop="20230709102700 +0800">
-		<title lang="zh">非常6+1-2023-23</title>
+	<programme  channel="cctv3" start="20230709092000 +0800" stop="20230709103200 +0800">
+		<title lang="zh">黄金100秒-2023-27</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv3" start="20230709102700 +0800" stop="20230709115200 +0800">
+	<programme  channel="cctv3" start="20230709103200 +0800" stop="20230709115700 +0800">
 		<title lang="zh">越战越勇-2023-19</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv3" start="20230709115200 +0800" stop="20230709132000 +0800">
+	<programme  channel="cctv3" start="20230709115700 +0800" stop="20230709132500 +0800">
 		<title lang="zh">星光大道-2023-29</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv3" start="20230709132000 +0800" stop="20230709144300 +0800">
+	<programme  channel="cctv3" start="20230709132500 +0800" stop="20230709144800 +0800">
 		<title lang="zh">开门大吉-2023-22</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv3" start="20230709144300 +0800" stop="20230709160800 +0800">
+	<programme  channel="cctv3" start="20230709144800 +0800" stop="20230709161300 +0800">
 		<title lang="zh">向幸福出发-2023-23</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv3" start="20230709160800 +0800" stop="20230709173200 +0800">
+	<programme  channel="cctv3" start="20230709161300 +0800" stop="20230709173200 +0800">
 		<title lang="zh">夏日星光夜第一季-1</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -1764,7 +1764,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230708083000 +0800" stop="20230708100000 +0800">
-		<title lang="zh">实况录像-2023年世界女排联赛  韩国站  中国队—多米尼加队</title>
+		<title lang="zh">实况录像-2023年世界女排联赛  韩国站  韩国队—中国队</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230708100000 +0800" stop="20230708110000 +0800">
@@ -5808,11 +5808,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230709101700 +0800" stop="20230709110800 +0800">
-		<title lang="zh">山河锦绣30/33</title>
+		<title lang="zh">山河锦绣第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230709110800 +0800" stop="20230709120000 +0800">
-		<title lang="zh">山河锦绣31/33</title>
+		<title lang="zh">山河锦绣第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230709120000 +0800" stop="20230709122700 +0800">
@@ -5836,19 +5836,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230709133500 +0800" stop="20230709142600 +0800">
-		<title lang="zh">妈妈在等你27/47</title>
+		<title lang="zh">妈妈在等你第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230709142600 +0800" stop="20230709151700 +0800">
-		<title lang="zh">妈妈在等你28/47</title>
+		<title lang="zh">妈妈在等你第28集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230709151700 +0800" stop="20230709160700 +0800">
-		<title lang="zh">妈妈在等你29/47</title>
+		<title lang="zh">妈妈在等你第29集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230709160700 +0800" stop="20230709170000 +0800">
-		<title lang="zh">妈妈在等你30/47</title>
+		<title lang="zh">妈妈在等你第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230709170000 +0800" stop="20230709173000 +0800">
@@ -5864,11 +5864,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230709183200 +0800" stop="20230709192600 +0800">
-		<title lang="zh">山河锦绣32/33</title>
+		<title lang="zh">山河锦绣第32集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230709192600 +0800" stop="20230709201500 +0800">
-		<title lang="zh">山河锦绣33/33</title>
+		<title lang="zh">山河锦绣第33集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230709201500 +0800" stop="20230709204700 +0800">
