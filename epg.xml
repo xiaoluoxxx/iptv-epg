@@ -9735,8 +9735,12 @@
 		<title lang="zh">音乐电影欣赏</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230711001000 +0800" stop="20230711060300 +0800" channel="cctv7">
+	<programme start="20230711001000 +0800" stop="20230711004800 +0800" channel="cctv7">
 		<title lang="zh">兵器面面观-2023-120</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711004800 +0800" stop="20230711060300 +0800" channel="cctv7">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230711060300 +0800" stop="20230711063400 +0800" channel="cctv7">
@@ -29415,8 +29419,84 @@
 		<title lang="zh">毛毛镇（闽）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230710034000 +0800" stop="20230710235900 +0800" channel="xiamen">
+	<programme start="20230710034000 +0800" stop="20230710060000 +0800" channel="xiamen">
 		<title lang="zh">两岸秘密档案（闽）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710060000 +0800" stop="20230710070000 +0800" channel="xiamen">
+		<title lang="zh">斗阵来看戏（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710070000 +0800" stop="20230710070100 +0800" channel="xiamen">
+		<title lang="zh">国歌</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710070100 +0800" stop="20230710073500 +0800" channel="xiamen">
+		<title lang="zh">两岸新新闻（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710073500 +0800" stop="20230710080000 +0800" channel="xiamen">
+		<title lang="zh">闽南通（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710080000 +0800" stop="20230710084500 +0800" channel="xiamen">
+		<title lang="zh">玲听两岸（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710084500 +0800" stop="20230710092000 +0800" channel="xiamen">
+		<title lang="zh">印象中国之行走山水间（闽）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710092000 +0800" stop="20230710120000 +0800" channel="xiamen">
+		<title lang="zh">我的老爸是奇葩（闽）37-39</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710120000 +0800" stop="20230710125500 +0800" channel="xiamen">
+		<title lang="zh">斗阵来看戏（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710125500 +0800" stop="20230710132500 +0800" channel="xiamen">
+		<title lang="zh">斗阵来讲古（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710132500 +0800" stop="20230710150000 +0800" channel="xiamen">
+		<title lang="zh">最美是你（闽）38-39</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710150000 +0800" stop="20230710173500 +0800" channel="xiamen">
+		<title lang="zh">无敌铁桥三20-22</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710173500 +0800" stop="20230710180000 +0800" channel="xiamen">
+		<title lang="zh">《小海豚》日常版《上课啦》（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710180000 +0800" stop="20230710183000 +0800" channel="xiamen">
+		<title lang="zh">新闻斗阵讲（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710183000 +0800" stop="20230710190000 +0800" channel="xiamen">
+		<title lang="zh">厦视新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710190000 +0800" stop="20230710204000 +0800" channel="xiamen">
+		<title lang="zh">在远方10-11</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710204000 +0800" stop="20230710213000 +0800" channel="xiamen">
+		<title lang="zh">两岸秘密档案</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710213000 +0800" stop="20230710220000 +0800" channel="xiamen">
+		<title lang="zh">两岸新新闻（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710220000 +0800" stop="20230710223500 +0800" channel="xiamen">
+		<title lang="zh">两岸直航（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230710223500 +0800" stop="20230710235900 +0800" channel="xiamen">
+		<title lang="zh">独狼2-3</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230710044600 +0800" stop="20230710052200 +0800" channel="yunnan">
@@ -34301,6 +34381,122 @@
 	</programme>
 	<programme start="20230711232100 +0800" stop="20230711235900 +0800" channel="qinghai">
 		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711001500 +0800" stop="20230711004500 +0800" channel="xiamen">
+		<title lang="zh">印象中国之行走山水间（闽）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711004500 +0800" stop="20230711013000 +0800" channel="xiamen">
+		<title lang="zh">两岸秘密档案（闽）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711013000 +0800" stop="20230711020000 +0800" channel="xiamen">
+		<title lang="zh">新闻斗阵讲（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711020000 +0800" stop="20230711023000 +0800" channel="xiamen">
+		<title lang="zh">斗阵来讲古（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711023000 +0800" stop="20230711032000 +0800" channel="xiamen">
+		<title lang="zh">斗阵来看戏（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711032000 +0800" stop="20230711034500 +0800" channel="xiamen">
+		<title lang="zh">毛毛镇（闽）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711034500 +0800" stop="20230711043000 +0800" channel="xiamen">
+		<title lang="zh">两岸秘密档案（闽）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711043000 +0800" stop="20230711051000 +0800" channel="xiamen">
+		<title lang="zh">印象中国之行走山水间（闽）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711051000 +0800" stop="20230711054000 +0800" channel="xiamen">
+		<title lang="zh">斗阵来讲古（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711054000 +0800" stop="20230711060000 +0800" channel="xiamen">
+		<title lang="zh">新闻斗阵讲（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711060000 +0800" stop="20230711070000 +0800" channel="xiamen">
+		<title lang="zh">斗阵来看戏（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711070000 +0800" stop="20230711070100 +0800" channel="xiamen">
+		<title lang="zh">国歌</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711070100 +0800" stop="20230711073500 +0800" channel="xiamen">
+		<title lang="zh">两岸新新闻（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711073500 +0800" stop="20230711080000 +0800" channel="xiamen">
+		<title lang="zh">两岸直航（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711080000 +0800" stop="20230711084500 +0800" channel="xiamen">
+		<title lang="zh">新闻斗阵讲（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711084500 +0800" stop="20230711092000 +0800" channel="xiamen">
+		<title lang="zh">斗阵来讲古（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711092000 +0800" stop="20230711120000 +0800" channel="xiamen">
+		<title lang="zh">我的老爸是奇葩（闽）40-42</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711120000 +0800" stop="20230711125500 +0800" channel="xiamen">
+		<title lang="zh">斗阵来看戏（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711125500 +0800" stop="20230711132500 +0800" channel="xiamen">
+		<title lang="zh">斗阵来讲古（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711132500 +0800" stop="20230711150000 +0800" channel="xiamen">
+		<title lang="zh">最美是你（闽）40-41</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711150000 +0800" stop="20230711173500 +0800" channel="xiamen">
+		<title lang="zh">无敌铁桥三23-25</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711173500 +0800" stop="20230711180000 +0800" channel="xiamen">
+		<title lang="zh">《小海豚》日常版《上课啦》（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711180000 +0800" stop="20230711183000 +0800" channel="xiamen">
+		<title lang="zh">新闻斗阵讲（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711183000 +0800" stop="20230711190000 +0800" channel="xiamen">
+		<title lang="zh">厦视新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711190000 +0800" stop="20230711204000 +0800" channel="xiamen">
+		<title lang="zh">在远方12-13</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711204000 +0800" stop="20230711213000 +0800" channel="xiamen">
+		<title lang="zh">两岸秘密档案</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711213000 +0800" stop="20230711220000 +0800" channel="xiamen">
+		<title lang="zh">两岸新新闻（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711220000 +0800" stop="20230711223500 +0800" channel="xiamen">
+		<title lang="zh">两岸直航（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230711223500 +0800" stop="20230711235900 +0800" channel="xiamen">
+		<title lang="zh">独狼4-5</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230711003300 +0800" stop="20230711012700 +0800" channel="yunnan">
