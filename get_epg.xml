@@ -364,15 +364,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230719092700 +0800" stop="20230719101700 +0800">
-		<title lang="zh">玫瑰之战22/40</title>
+		<title lang="zh">玫瑰之战第22集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230719101700 +0800" stop="20230719110500 +0800">
-		<title lang="zh">玫瑰之战23/40</title>
+		<title lang="zh">玫瑰之战第23集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230719110500 +0800" stop="20230719115100 +0800">
-		<title lang="zh">玫瑰之战24/40</title>
+		<title lang="zh">玫瑰之战第24集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230719115100 +0800" stop="20230719115500 +0800">
@@ -392,23 +392,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230719130900 +0800" stop="20230719135600 +0800">
-		<title lang="zh">有你才有家45/50</title>
+		<title lang="zh">有你才有家第45集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230719135600 +0800" stop="20230719144600 +0800">
-		<title lang="zh">有你才有家46/50</title>
+		<title lang="zh">有你才有家第46集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230719144600 +0800" stop="20230719153300 +0800">
-		<title lang="zh">有你才有家47/50</title>
+		<title lang="zh">有你才有家第47集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230719153300 +0800" stop="20230719162000 +0800">
-		<title lang="zh">有你才有家48/50</title>
+		<title lang="zh">有你才有家第48集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230719162000 +0800" stop="20230719171100 +0800">
-		<title lang="zh">有你才有家49/50</title>
+		<title lang="zh">有你才有家第49集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230719171100 +0800" stop="20230719174200 +0800">
@@ -440,19 +440,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230719200100 +0800" stop="20230719200600 +0800">
-		<title lang="zh">前情提要-《追光的日子》26/30</title>
+		<title lang="zh">前情提要- 《追光的日子》第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230719200600 +0800" stop="20230719205700 +0800">
-		<title lang="zh">追光的日子26/30</title>
+	<programme  channel="cctv1" start="20230719200600 +0800" stop="20230719205600 +0800">
+		<title lang="zh">追光的日子第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230719205700 +0800" stop="20230719210000 +0800">
-		<title lang="zh">前情提要-《追光的日子》27/30</title>
+	<programme  channel="cctv1" start="20230719205600 +0800" stop="20230719205800 +0800">
+		<title lang="zh">前情提要- 《追光的日子》第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230719210000 +0800" stop="20230719220000 +0800">
-		<title lang="zh">追光的日子27/30</title>
+	<programme  channel="cctv1" start="20230719205800 +0800" stop="20230719220000 +0800">
+		<title lang="zh">追光的日子第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230719220000 +0800" stop="20230719223400 +0800">
@@ -1649,23 +1649,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230719131100 +0800" stop="20230719135900 +0800">
-		<title lang="zh">老虎队37/45</title>
+		<title lang="zh">老虎队第37集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230719135900 +0800" stop="20230719144700 +0800">
-		<title lang="zh">老虎队38/45</title>
+		<title lang="zh">老虎队第38集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230719144700 +0800" stop="20230719153400 +0800">
-		<title lang="zh">老虎队39/45</title>
+		<title lang="zh">老虎队第39集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230719153400 +0800" stop="20230719162200 +0800">
-		<title lang="zh">老虎队40/45</title>
+		<title lang="zh">老虎队第40集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230719162200 +0800" stop="20230719171000 +0800">
-		<title lang="zh">老虎队41/45</title>
+		<title lang="zh">老虎队第41集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230719171000 +0800" stop="20230719171500 +0800">
@@ -1717,11 +1717,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230719230100 +0800" stop="20230719234700 +0800">
-		<title lang="zh">灿烂的季节3/40</title>
+		<title lang="zh">灿烂的季节第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230719234700 +0800" stop="20230719235900 +0800">
-		<title lang="zh">灿烂的季节4/40</title>
+		<title lang="zh">灿烂的季节第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv5">
@@ -3180,7 +3180,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230718192500 +0800" stop="20230718193000 +0800">
-		<title lang="zh">本集提要-《曾少年》17/35</title>
+		<title lang="zh">本集提要- 《曾少年》第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230718193000 +0800" stop="20230718202500 +0800">
@@ -3188,7 +3188,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230718202500 +0800" stop="20230718203000 +0800">
-		<title lang="zh">本集提要-《曾少年》18/35</title>
+		<title lang="zh">本集提要- 《曾少年》第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230718203000 +0800" stop="20230718212300 +0800">
@@ -3196,7 +3196,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230718212300 +0800" stop="20230718212800 +0800">
-		<title lang="zh">本集提要-《父亲的草原母亲的河》4/36</title>
+		<title lang="zh">本集提要- 《父亲的草原母亲的河》第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230718212800 +0800" stop="20230718221900 +0800">
@@ -3204,7 +3204,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230718221900 +0800" stop="20230718222100 +0800">
-		<title lang="zh">本集提要-《父亲的草原母亲的河》5/36</title>
+		<title lang="zh">本集提要- 《父亲的草原母亲的河》第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230718222100 +0800" stop="20230718231000 +0800">
@@ -3344,15 +3344,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230719192500 +0800" stop="20230719193000 +0800">
-		<title lang="zh">本集提要-《曾少年》19/35</title>
+		<title lang="zh">本集提要- 《曾少年》第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230719193000 +0800" stop="20230719202500 +0800">
-		<title lang="zh">曾少年19/35</title>
+		<title lang="zh">曾少年第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230719202500 +0800" stop="20230719203000 +0800">
-		<title lang="zh">本集提要-《曾少年》20/35</title>
+		<title lang="zh">本集提要- 《曾少年》第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230719203000 +0800" stop="20230719212300 +0800">
@@ -3364,7 +3364,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230719212800 +0800" stop="20230719221900 +0800">
-		<title lang="zh">父亲的草原母亲的河6/36</title>
+		<title lang="zh">父亲的草原母亲的河第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230719221900 +0800" stop="20230719222100 +0800">
@@ -3372,7 +3372,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230719222100 +0800" stop="20230719231000 +0800">
-		<title lang="zh">父亲的草原母亲的河7/36</title>
+		<title lang="zh">父亲的草原母亲的河第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230719231000 +0800" stop="20230719235600 +0800">
