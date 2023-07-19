@@ -432,19 +432,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230720200100 +0800" stop="20230720200600 +0800">
-		<title lang="zh">前情提要-《追光的日子》28/30</title>
+		<title lang="zh">前情提要- 《追光的日子》第28集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230720200600 +0800" stop="20230720205700 +0800">
-		<title lang="zh">追光的日子28/30</title>
+	<programme  channel="cctv1" start="20230720200600 +0800" stop="20230720205800 +0800">
+		<title lang="zh">追光的日子第28集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230720205700 +0800" stop="20230720210000 +0800">
-		<title lang="zh">前情提要-《追光的日子》29/30</title>
+	<programme  channel="cctv1" start="20230720205800 +0800" stop="20230720210200 +0800">
+		<title lang="zh">前情提要- 《追光的日子》第29集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230720210000 +0800" stop="20230720220000 +0800">
-		<title lang="zh">追光的日子29/30</title>
+	<programme  channel="cctv1" start="20230720210200 +0800" stop="20230720220000 +0800">
+		<title lang="zh">追光的日子第29集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230720220000 +0800" stop="20230720223400 +0800">
@@ -2401,56 +2401,68 @@
 		<title lang="zh">杨雄与石秀</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv6" start="20230720033200 +0800" stop="20230720070700 +0800">
+	<programme  channel="cctv6" start="20230720033200 +0800" stop="20230720050200 +0800">
 		<title lang="zh">雪狼</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv6" start="20230720070700 +0800" stop="20230720084900 +0800">
+	<programme  channel="cctv6" start="20230720050200 +0800" stop="20230720065700 +0800">
+		<title lang="zh">血战湘江</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230720065700 +0800" stop="20230720084100 +0800">
 		<title lang="zh">王平开辟根据地</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv6" start="20230720084900 +0800" stop="20230720103400 +0800">
+	<programme  channel="cctv6" start="20230720084100 +0800" stop="20230720102700 +0800">
 		<title lang="zh">狙击时刻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv6" start="20230720103400 +0800" stop="20230720123300 +0800">
+	<programme  channel="cctv6" start="20230720102700 +0800" stop="20230720123000 +0800">
 		<title lang="zh">长津湖（上）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv6" start="20230720123300 +0800" stop="20230720123900 +0800">
+	<programme  channel="cctv6" start="20230720123000 +0800" stop="20230720123800 +0800">
 		<title lang="zh">音乐电影欣赏</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv6" start="20230720123900 +0800" stop="20230720135600 +0800">
+	<programme  channel="cctv6" start="20230720123800 +0800" stop="20230720135800 +0800">
 		<title lang="zh">长津湖（下）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv6" start="20230720135600 +0800" stop="20230720162200 +0800">
+	<programme  channel="cctv6" start="20230720135800 +0800" stop="20230720162400 +0800">
 		<title lang="zh">波西米亚狂想曲</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv6" start="20230720162200 +0800" stop="20230720181400 +0800">
+	<programme  channel="cctv6" start="20230720162400 +0800" stop="20230720182800 +0800">
 		<title lang="zh">举起手来！</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv6" start="20230720181400 +0800" stop="20230720200200 +0800">
+	<programme  channel="cctv6" start="20230720182800 +0800" stop="20230720201000 +0800">
 		<title lang="zh">举起手来之二追击阿多丸</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv6" start="20230720200200 +0800" stop="20230720201400 +0800">
+	<programme  channel="cctv6" start="20230720201000 +0800" stop="20230720202100 +0800">
 		<title lang="zh">今日影评2023-201</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv6" start="20230720201400 +0800" stop="20230720220000 +0800">
+	<programme  channel="cctv6" start="20230720202100 +0800" stop="20230720220000 +0800">
 		<title lang="zh">六小时</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv6" start="20230720220000 +0800" stop="20230720222200 +0800">
+	<programme  channel="cctv6" start="20230720220000 +0800" stop="20230720222300 +0800">
 		<title lang="zh">中国电影报道2023-201</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv6" start="20230720222200 +0800" stop="20230720235900 +0800">
-		<title lang="zh">极盗者</title>
+	<programme  channel="cctv6" start="20230720222300 +0800" stop="20230720230000 +0800">
+		<title lang="zh">极盗者（上）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230720230000 +0800" stop="20230720230200 +0800">
+		<title lang="zh">中国体育彩票阳光开奖2023-07-20</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv6" start="20230720230200 +0800" stop="20230720235900 +0800">
+		<title lang="zh">极盗者（下）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv7">
@@ -3200,7 +3212,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230719212300 +0800" stop="20230719212800 +0800">
-		<title lang="zh">本集提要-《父亲的草原母亲的河》6/36</title>
+		<title lang="zh">本集提要- 《父亲的草原母亲的河》第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230719212800 +0800" stop="20230719221900 +0800">
@@ -3208,7 +3220,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230719221900 +0800" stop="20230719222100 +0800">
-		<title lang="zh">本集提要-《父亲的草原母亲的河》7/36</title>
+		<title lang="zh">本集提要- 《父亲的草原母亲的河》第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230719222100 +0800" stop="20230719231000 +0800">
@@ -3348,35 +3360,35 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230720192500 +0800" stop="20230720193000 +0800">
-		<title lang="zh">本集提要-《曾少年》21/35</title>
+		<title lang="zh">本集提要- 《曾少年》第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230720193000 +0800" stop="20230720202500 +0800">
-		<title lang="zh">曾少年21/35</title>
+		<title lang="zh">曾少年第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230720202500 +0800" stop="20230720203000 +0800">
-		<title lang="zh">本集提要-《曾少年》22/35</title>
+		<title lang="zh">本集提要- 《曾少年》第22集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230720203000 +0800" stop="20230720212300 +0800">
-		<title lang="zh">曾少年22/35</title>
+		<title lang="zh">曾少年第22集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230720212300 +0800" stop="20230720212800 +0800">
-		<title lang="zh">本集提要-《父亲的草原母亲的河》8/36</title>
+		<title lang="zh">本集提要- 《父亲的草原母亲的河》第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230720212800 +0800" stop="20230720221900 +0800">
-		<title lang="zh">父亲的草原母亲的河8/36</title>
+		<title lang="zh">父亲的草原母亲的河第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230720221900 +0800" stop="20230720222100 +0800">
-		<title lang="zh">本集提要-《父亲的草原母亲的河》9/36</title>
+		<title lang="zh">本集提要- 《父亲的草原母亲的河》第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230720222100 +0800" stop="20230720231000 +0800">
-		<title lang="zh">父亲的草原母亲的河9/36</title>
+		<title lang="zh">父亲的草原母亲的河第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230720231000 +0800" stop="20230720235600 +0800">
@@ -4361,11 +4373,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230720113100 +0800" stop="20230720122100 +0800">
-		<title lang="zh">芝麻胡同31/51</title>
+		<title lang="zh">芝麻胡同第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230720122100 +0800" stop="20230720131200 +0800">
-		<title lang="zh">芝麻胡同32/51</title>
+		<title lang="zh">芝麻胡同第32集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230720131200 +0800" stop="20230720143100 +0800">
@@ -4377,11 +4389,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230720171300 +0800" stop="20230720180300 +0800">
-		<title lang="zh">青年霍元甲之冲出江湖31/45</title>
+		<title lang="zh">青年霍元甲之冲出江湖第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230720180300 +0800" stop="20230720190000 +0800">
-		<title lang="zh">青年霍元甲之冲出江湖32/45</title>
+		<title lang="zh">青年霍元甲之冲出江湖第32集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230720190000 +0800" stop="20230720193000 +0800">
@@ -4393,15 +4405,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230720221500 +0800" stop="20230720230600 +0800">
-		<title lang="zh">装台3/33</title>
+		<title lang="zh">装台第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230720230600 +0800" stop="20230720235600 +0800">
-		<title lang="zh">装台4/33</title>
+		<title lang="zh">装台第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230720235600 +0800" stop="20230720235900 +0800">
-		<title lang="zh">装台5/33</title>
+		<title lang="zh">装台第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv12">
@@ -4763,28 +4775,28 @@
 		<title lang="zh">2023社会与法电视剧精选-幸福院-36/42</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv12" start="20230720150000 +0800" stop="20230720153000 +0800">
-		<title lang="zh">天网-2023-142</title>
+	<programme  channel="cctv12" start="20230720150000 +0800" stop="20230720152000 +0800">
+		<title lang="zh">生命线-2023-196</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv12" start="20230720153000 +0800" stop="20230720160200 +0800">
+	<programme  channel="cctv12" start="20230720152000 +0800" stop="20230720155200 +0800">
 		<title lang="zh">热线12-2023-136</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv12" start="20230720160200 +0800" stop="20230720163500 +0800">
+	<programme  channel="cctv12" start="20230720155200 +0800" stop="20230720162500 +0800">
 		<title lang="zh">法律讲堂-2023-193</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv12" start="20230720163500 +0800" stop="20230720170900 +0800">
+	<programme  channel="cctv12" start="20230720162500 +0800" stop="20230720165900 +0800">
 		<title lang="zh">夕阳红-2023-201</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv12" start="20230720170900 +0800" stop="20230720174900 +0800">
-		<title lang="zh">一线-2023-143</title>
+	<programme  channel="cctv12" start="20230720165900 +0800" stop="20230720172900 +0800">
+		<title lang="zh">天网-2023-142</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv12" start="20230720174900 +0800" stop="20230720182000 +0800">
-		<title lang="zh">天网-2023-142</title>
+	<programme  channel="cctv12" start="20230720172900 +0800" stop="20230720182000 +0800">
+		<title lang="zh">方圆剧阵2023-201</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv12" start="20230720182000 +0800" stop="20230720185000 +0800">
@@ -4803,28 +4815,24 @@
 		<title lang="zh">天网-2023-143</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv12" start="20230720203700 +0800" stop="20230720205700 +0800">
+	<programme  channel="cctv12" start="20230720203700 +0800" stop="20230720220700 +0800">
+		<title lang="zh">闪亮的名字2022-最美科技工作者发布仪式</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv12" start="20230720220700 +0800" stop="20230720223000 +0800">
 		<title lang="zh">道德观察(日播版)-2023-201</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv12" start="20230720205700 +0800" stop="20230720215000 +0800">
-		<title lang="zh">方圆剧阵2023-201</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme  channel="cctv12" start="20230720215000 +0800" stop="20230720222500 +0800">
+	<programme  channel="cctv12" start="20230720223000 +0800" stop="20230720230500 +0800">
 		<title lang="zh">法律讲堂（文史版）-2023-139</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv12" start="20230720222500 +0800" stop="20230720225500 +0800">
+	<programme  channel="cctv12" start="20230720230500 +0800" stop="20230720233500 +0800">
 		<title lang="zh">热线12-2023-137</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv12" start="20230720225500 +0800" stop="20230720232800 +0800">
+	<programme  channel="cctv12" start="20230720233500 +0800" stop="20230720235900 +0800">
 		<title lang="zh">天网-2023-143</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme  channel="cctv12" start="20230720232800 +0800" stop="20230720235900 +0800">
-		<title lang="zh">一线-2023-144</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctvchild">
