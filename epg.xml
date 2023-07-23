@@ -6835,15 +6835,15 @@
 		<title lang="zh">前情提要- 《富春山居》第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230724200600 +0800" stop="20230724205700 +0800" channel="cctv1">
+	<programme start="20230724200600 +0800" stop="20230724205800 +0800" channel="cctv1">
 		<title lang="zh">富春山居第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230724205700 +0800" stop="20230724205900 +0800" channel="cctv1">
+	<programme start="20230724205800 +0800" stop="20230724210100 +0800" channel="cctv1">
 		<title lang="zh">前情提要- 《富春山居》第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230724205900 +0800" stop="20230724220000 +0800" channel="cctv1">
+	<programme start="20230724210100 +0800" stop="20230724220000 +0800" channel="cctv1">
 		<title lang="zh">富春山居第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -7184,23 +7184,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230724131400 +0800" stop="20230724140200 +0800" channel="cctv4">
-		<title lang="zh">我的父亲我的兵17/43</title>
+		<title lang="zh">我的父亲我的兵第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230724140200 +0800" stop="20230724145000 +0800" channel="cctv4">
-		<title lang="zh">我的父亲我的兵18/43</title>
+		<title lang="zh">我的父亲我的兵第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230724145000 +0800" stop="20230724153700 +0800" channel="cctv4">
-		<title lang="zh">我的父亲我的兵19/43</title>
+		<title lang="zh">我的父亲我的兵第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230724153700 +0800" stop="20230724162500 +0800" channel="cctv4">
-		<title lang="zh">我的父亲我的兵20/43</title>
+		<title lang="zh">我的父亲我的兵第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230724162500 +0800" stop="20230724171500 +0800" channel="cctv4">
-		<title lang="zh">我的父亲我的兵21/43</title>
+		<title lang="zh">我的父亲我的兵第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230724171500 +0800" stop="20230724180000 +0800" channel="cctv4">
@@ -7248,11 +7248,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230724230100 +0800" stop="20230724234700 +0800" channel="cctv4">
-		<title lang="zh">灿烂的季节18/40</title>
+		<title lang="zh">灿烂的季节第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230724234700 +0800" stop="20230724235900 +0800" channel="cctv4">
-		<title lang="zh">灿烂的季节19/40</title>
+		<title lang="zh">灿烂的季节第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230724010500 +0800" stop="20230724023500 +0800" channel="cctv5">
@@ -7364,7 +7364,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230724103000 +0800" stop="20230724120000 +0800" channel="cctv5plus">
-		<title lang="zh">2023年女足世界杯- 小组赛D组（丹麦队—中国队）</title>
+		<title lang="zh">实况录像-2023年世界田联钻石联赛 摩纳哥站</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230724120000 +0800" stop="20230724130000 +0800" channel="cctv5plus">
@@ -7387,11 +7387,11 @@
 		<title lang="zh">实况录像-2023年世界职业拳王争霸赛 9</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230724172500 +0800" stop="20230724185500 +0800" channel="cctv5plus">
+	<programme start="20230724172500 +0800" stop="20230724185000 +0800" channel="cctv5plus">
 		<title lang="zh">实况录像-2023年世界女排联赛总决赛 1/4决赛 波兰队-德国队</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230724185500 +0800" stop="20230724210500 +0800" channel="cctv5plus">
+	<programme start="20230724185000 +0800" stop="20230724210500 +0800" channel="cctv5plus">
 		<title lang="zh">2023年女足世界杯-小组赛F组（巴西队—巴拿马队）</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -9320,7 +9320,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230725003300 +0800" stop="20230725012000 +0800" channel="cctv4">
-		<title lang="zh">灿烂的季节20/40</title>
+		<title lang="zh">灿烂的季节第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230725012000 +0800" stop="20230725015000 +0800" channel="cctv4">
@@ -9719,8 +9719,12 @@
 		<title lang="zh">少林五祖（下）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230725002600 +0800" stop="20230725060300 +0800" channel="cctv7">
+	<programme start="20230725002600 +0800" stop="20230725010400 +0800" channel="cctv7">
 		<title lang="zh">兵器面面观-2023-130</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230725010400 +0800" stop="20230725060300 +0800" channel="cctv7">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230725060300 +0800" stop="20230725063400 +0800" channel="cctv7">
@@ -10367,8 +10371,12 @@
 		<title lang="zh">法律讲堂-2023-198</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230725013400 +0800" stop="20230725060300 +0800" channel="cctv12">
+	<programme start="20230725013400 +0800" stop="20230725015500 +0800" channel="cctv12">
 		<title lang="zh">生命线-2023-200</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230725015500 +0800" stop="20230725060300 +0800" channel="cctv12">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230725060300 +0800" stop="20230725063400 +0800" channel="cctv12">
@@ -10571,8 +10579,12 @@
 		<title lang="zh">绝境铸剑-1/36</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230725010000 +0800" stop="20230725060000 +0800" channel="cctv15">
+	<programme start="20230725010000 +0800" stop="20230725013200 +0800" channel="cctv15">
 		<title lang="zh">风华国乐-2023-207</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230725013200 +0800" stop="20230725060000 +0800" channel="cctv15">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230725060000 +0800" stop="20230725063300 +0800" channel="cctv15">
