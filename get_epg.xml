@@ -288,7 +288,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230725200600 +0800" stop="20230725205700 +0800">
-		<title lang="zh">富春山居6/32</title>
+		<title lang="zh">富春山居第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230725205700 +0800" stop="20230725210100 +0800">
@@ -296,7 +296,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230725210100 +0800" stop="20230725220000 +0800">
-		<title lang="zh">富春山居7/32</title>
+		<title lang="zh">富春山居第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230725220000 +0800" stop="20230725223500 +0800">
@@ -443,15 +443,15 @@
 		<title lang="zh">前情提要- 《富春山居》第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230726200600 +0800" stop="20230726205600 +0800">
+	<programme  channel="cctv1" start="20230726200600 +0800" stop="20230726205800 +0800">
 		<title lang="zh">富春山居8/32</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230726205600 +0800" stop="20230726205800 +0800">
+	<programme  channel="cctv1" start="20230726205800 +0800" stop="20230726210100 +0800">
 		<title lang="zh">前情提要- 《富春山居》第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230726205800 +0800" stop="20230726220000 +0800">
+	<programme  channel="cctv1" start="20230726210100 +0800" stop="20230726220000 +0800">
 		<title lang="zh">富春山居9/32</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -831,7 +831,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv2" start="20230726105600 +0800" stop="20230726110000 +0800">
-		<title lang="zh">周末特供2023-奇妙中国6-3分30版</title>
+		<title lang="zh">周末特供2021-航拍中国第二季5-3分钟版</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv2" start="20230726110000 +0800" stop="20230726113000 +0800">
@@ -1632,27 +1632,27 @@
 		<title lang="zh">中国新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230726130300 +0800" stop="20230726131500 +0800">
+	<programme  channel="cctv4" start="20230726130300 +0800" stop="20230726131400 +0800">
 		<title lang="zh">记住乡愁2018片段展播-77</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230726131500 +0800" stop="20230726140300 +0800">
+	<programme  channel="cctv4" start="20230726131400 +0800" stop="20230726140200 +0800">
 		<title lang="zh">我的父亲我的兵第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230726140300 +0800" stop="20230726145100 +0800">
+	<programme  channel="cctv4" start="20230726140200 +0800" stop="20230726145100 +0800">
 		<title lang="zh">我的父亲我的兵第28集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230726145100 +0800" stop="20230726153800 +0800">
+	<programme  channel="cctv4" start="20230726145100 +0800" stop="20230726153700 +0800">
 		<title lang="zh">我的父亲我的兵第29集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230726153800 +0800" stop="20230726162600 +0800">
+	<programme  channel="cctv4" start="20230726153700 +0800" stop="20230726162500 +0800">
 		<title lang="zh">我的父亲我的兵第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230726162600 +0800" stop="20230726171500 +0800">
+	<programme  channel="cctv4" start="20230726162500 +0800" stop="20230726171500 +0800">
 		<title lang="zh">我的父亲我的兵第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -1947,12 +1947,12 @@
 		<title lang="zh">实况录像-2023年世界泳联锦标赛 游泳 预赛（录播）3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230726190000 +0800" stop="20230726205500 +0800">
-		<title lang="zh">2023年世界泳联世锦赛 游泳-男子800米自由泳决赛等</title>
+	<programme  channel="cctv5" start="20230726190000 +0800" stop="20230726210500 +0800">
+		<title lang="zh">直播：2023年世界泳联世锦赛 游泳-男子800米自由泳决赛等</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230726205500 +0800" stop="20230726213000 +0800">
-		<title lang="zh">实况录像-2023年世界泳联锦标赛 游泳 决赛（录播）5</title>
+	<programme  channel="cctv5" start="20230726210500 +0800" stop="20230726213000 +0800">
+		<title lang="zh">五环纪事-从北京到巴黎-专访法国驻华大使白玉堂</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230726213000 +0800" stop="20230726220500 +0800">
@@ -2768,24 +2768,20 @@
 		<title lang="zh">军事纪录-2023-145</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv7" start="20230726120000 +0800" stop="20230726123300 +0800">
+	<programme  channel="cctv7" start="20230726120000 +0800" stop="20230726124800 +0800">
 		<title lang="zh">正午国防军事</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv7" start="20230726123300 +0800" stop="20230726130700 +0800">
+	<programme  channel="cctv7" start="20230726124800 +0800" stop="20230726132200 +0800">
 		<title lang="zh">防务新观察-2023-147</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv7" start="20230726130700 +0800" stop="20230726134200 +0800">
+	<programme  channel="cctv7" start="20230726132200 +0800" stop="20230726135700 +0800">
 		<title lang="zh">军武零距离-2023-30(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv7" start="20230726134200 +0800" stop="20230726140700 +0800">
+	<programme  channel="cctv7" start="20230726135700 +0800" stop="20230726143500 +0800">
 		<title lang="zh">兵器面面观-2023-131</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme  channel="cctv7" start="20230726140700 +0800" stop="20230726143500 +0800">
-		<title lang="zh">军事纪录-2023-145</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv7" start="20230726143500 +0800" stop="20230726152300 +0800">
@@ -3284,7 +3280,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230726152200 +0800" stop="20230726160800 +0800">
-		<title lang="zh">欢乐颂49/37</title>
+		<title lang="zh">欢乐颂4第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230726160800 +0800" stop="20230726162300 +0800">
@@ -3316,31 +3312,31 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230726192500 +0800" stop="20230726193000 +0800">
-		<title lang="zh">本集提要-《曾少年》33/35</title>
+		<title lang="zh">本集提要- 《曾少年》第33集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230726193000 +0800" stop="20230726202500 +0800">
-		<title lang="zh">曾少年33/35</title>
+		<title lang="zh">曾少年第33集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230726202500 +0800" stop="20230726203000 +0800">
-		<title lang="zh">本集提要-《曾少年》34/35</title>
+		<title lang="zh">本集提要- 《曾少年》第34集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230726203000 +0800" stop="20230726212300 +0800">
-		<title lang="zh">曾少年34/35</title>
+		<title lang="zh">曾少年第34集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230726212300 +0800" stop="20230726212800 +0800">
-		<title lang="zh">本集提要-《曾少年》35/35</title>
+		<title lang="zh">本集提要- 《曾少年》第35集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230726212800 +0800" stop="20230726221900 +0800">
-		<title lang="zh">曾少年35/35</title>
+		<title lang="zh">曾少年第35集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230726221900 +0800" stop="20230726222100 +0800">
-		<title lang="zh">本集提要-《父亲的草原母亲的河》18/36</title>
+		<title lang="zh">本集提要- 《父亲的草原母亲的河》第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230726222100 +0800" stop="20230726231000 +0800">
@@ -5580,12 +5576,24 @@
 		<title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 花样游泳 双人技术自选 决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv16" start="20230726212500 +0800" stop="20230726225500 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2023年女足世界杯小组赛G组 意大利队-阿根廷队</title>
+	<programme  channel="cctv16" start="20230726212500 +0800" stop="20230726215000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界田联钻石联赛 斯德哥尔摩站 25分钟版（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv16" start="20230726225500 +0800" stop="20230726235900 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2023年世界女排联赛总决赛 三四名决赛</title>
+	<programme  channel="cctv16" start="20230726215000 +0800" stop="20230726220000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 花样游泳 10分钟版2（4K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230726220000 +0800" stop="20230726222500 +0800">
+		<title lang="zh">五环纪事-从北京到巴黎-专访法国驻华大使白玉堂</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230726222500 +0800" stop="20230726235500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年女足世界杯小组赛G组 意大利队-阿根廷队（4K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230726235500 +0800" stop="20230726235900 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界女排联赛总决赛 三四名决赛（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv17">
@@ -6607,7 +6615,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230726144600 +0800" stop="20230726153200 +0800">
-		<title lang="zh">谯国夫人-4K-31/35</title>
+		<title lang="zh">谯国夫人-（4K）-31/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230726153200 +0800" stop="20230726153200 +0800">
