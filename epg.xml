@@ -7515,72 +7515,72 @@
 		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230801060800 +0800" stop="20230801072200 +0800" channel="cctv11">
+	<programme start="20230801060800 +0800" stop="20230801072300 +0800" channel="cctv11">
 		<title lang="zh">九州大戏台-2023-20好戏连连看 黄梅戏《党的女儿》选场</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230801072200 +0800" stop="20230801083500 +0800" channel="cctv11">
+	<programme start="20230801072300 +0800" stop="20230801083600 +0800" channel="cctv11">
 		<title lang="zh">角儿来了-2023-34古淮清音（一）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230801083500 +0800" stop="20230801091900 +0800" channel="cctv11">
+	<programme start="20230801083600 +0800" stop="20230801092000 +0800" channel="cctv11">
 		<title lang="zh">名家书场-2023-126扬州曲艺专场4</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230801091900 +0800" stop="20230801113800 +0800" channel="cctv11">
+	<programme start="20230801092000 +0800" stop="20230801113800 +0800" channel="cctv11">
 		<title lang="zh">九州大戏台-2022-14评剧《革命家庭》</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230801113800 +0800" stop="20230801115500 +0800" channel="cctv11">
+	<programme start="20230801113800 +0800" stop="20230801115600 +0800" channel="cctv11">
 		<title lang="zh">众生戏-零卡餐厅</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230801115500 +0800" stop="20230801124600 +0800" channel="cctv11">
-		<title lang="zh">流金岁月4/38</title>
+	<programme start="20230801115600 +0800" stop="20230801124600 +0800" channel="cctv11">
+		<title lang="zh">流金岁月第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230801124600 +0800" stop="20230801133600 +0800" channel="cctv11">
-		<title lang="zh">流金岁月5/38</title>
+	<programme start="20230801124600 +0800" stop="20230801133700 +0800" channel="cctv11">
+		<title lang="zh">流金岁月第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230801133600 +0800" stop="20230801141000 +0800" channel="cctv11">
+	<programme start="20230801133700 +0800" stop="20230801141100 +0800" channel="cctv11">
 		<title lang="zh">梨园周刊-2023-34</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230801141000 +0800" stop="20230801145500 +0800" channel="cctv11">
+	<programme start="20230801141100 +0800" stop="20230801145600 +0800" channel="cctv11">
 		<title lang="zh">戏曲青年说-2023-9</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230801145500 +0800" stop="20230801171300 +0800" channel="cctv11">
+	<programme start="20230801145600 +0800" stop="20230801171300 +0800" channel="cctv11">
 		<title lang="zh">现代京剧电影《智取威虎山》</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230801171300 +0800" stop="20230801180300 +0800" channel="cctv11">
-		<title lang="zh">雪中悍刀行10/38</title>
+		<title lang="zh">雪中悍刀行第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230801180300 +0800" stop="20230801190000 +0800" channel="cctv11">
-		<title lang="zh">雪中悍刀行11/38</title>
+		<title lang="zh">雪中悍刀行第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230801190000 +0800" stop="20230801193000 +0800" channel="cctv11">
 		<title lang="zh">典藏-2023-105</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230801193000 +0800" stop="20230801214500 +0800" channel="cctv11">
+	<programme start="20230801193000 +0800" stop="20230801214600 +0800" channel="cctv11">
 		<title lang="zh">现代京剧电影《沙家浜》</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230801214500 +0800" stop="20230801222900 +0800" channel="cctv11">
+	<programme start="20230801214600 +0800" stop="20230801223000 +0800" channel="cctv11">
 		<title lang="zh">戏曲青年说-2023-10</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230801222900 +0800" stop="20230801232000 +0800" channel="cctv11">
-		<title lang="zh">诚忠堂6/40</title>
+	<programme start="20230801223000 +0800" stop="20230801232000 +0800" channel="cctv11">
+		<title lang="zh">诚忠堂第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230801232000 +0800" stop="20230801235900 +0800" channel="cctv11">
-		<title lang="zh">诚忠堂7/40</title>
+		<title lang="zh">诚忠堂第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230801003800 +0800" stop="20230801013100 +0800" channel="cctv12">
@@ -9523,12 +9523,16 @@
 		<title lang="zh">科学动物园-2023-31</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230802001000 +0800" stop="20230802010100 +0800" channel="cctv11">
-		<title lang="zh">诚忠堂8/40</title>
+	<programme start="20230802001100 +0800" stop="20230802010100 +0800" channel="cctv11">
+		<title lang="zh">诚忠堂第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230802010100 +0800" stop="20230802060800 +0800" channel="cctv11">
+	<programme start="20230802010100 +0800" stop="20230802014700 +0800" channel="cctv11">
 		<title lang="zh">中国京剧音配像精粹-2023-15京剧《芦荡火种》（修复版）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230802014700 +0800" stop="20230802060800 +0800" channel="cctv11">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230802060800 +0800" stop="20230802072000 +0800" channel="cctv11">
@@ -9743,8 +9747,12 @@
 		<title lang="zh">风车剧场-2023-137</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230802012600 +0800" stop="20230802060000 +0800" channel="cctvchild">
+	<programme start="20230802012600 +0800" stop="20230802020000 +0800" channel="cctvchild">
 		<title lang="zh">风车剧场-2023-138</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230802020000 +0800" stop="20230802060000 +0800" channel="cctvchild">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230802060000 +0800" stop="20230802063000 +0800" channel="cctvchild">
