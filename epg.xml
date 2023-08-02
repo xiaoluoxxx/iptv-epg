@@ -5199,8 +5199,12 @@
 		<title lang="zh">世界战史-2023-3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230803172800 +0800" stop="20230803180000 +0800" channel="cctv7">
+	<programme start="20230803172800 +0800" stop="20230803175300 +0800" channel="cctv7">
 		<title lang="zh">军事纪录-2023-152</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230803175300 +0800" stop="20230803180000 +0800" channel="cctv7">
+		<title lang="zh">国防微视频-军歌嘹亮-爱在南海+海军</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803180000 +0800" stop="20230803182500 +0800" channel="cctv7">
@@ -5376,7 +5380,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803192500 +0800" stop="20230803193000 +0800" channel="cctv8">
-		<title lang="zh">本集提要- 《潜行者》第15集</title>
+		<title lang="zh">本集提要-《潜行者》15/37</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803193000 +0800" stop="20230803202500 +0800" channel="cctv8">
@@ -5384,7 +5388,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803202500 +0800" stop="20230803203000 +0800" channel="cctv8">
-		<title lang="zh">本集提要- 《潜行者》第16集</title>
+		<title lang="zh">本集提要-《潜行者》16/37</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803203000 +0800" stop="20230803212400 +0800" channel="cctv8">
@@ -5392,7 +5396,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803212400 +0800" stop="20230803212800 +0800" channel="cctv8">
-		<title lang="zh">本集提要- 《父亲的草原母亲的河》第32集</title>
+		<title lang="zh">本集提要-《父亲的草原母亲的河》32/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803212800 +0800" stop="20230803221900 +0800" channel="cctv8">
@@ -5400,7 +5404,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803221900 +0800" stop="20230803222100 +0800" channel="cctv8">
-		<title lang="zh">本集提要- 《父亲的草原母亲的河》第33集</title>
+		<title lang="zh">本集提要-《父亲的草原母亲的河》33/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803222100 +0800" stop="20230803231000 +0800" channel="cctv8">
