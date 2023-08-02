@@ -7700,11 +7700,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803115800 +0800" stop="20230803124900 +0800" channel="cctv11">
-		<title lang="zh">流金岁月8/38</title>
+		<title lang="zh">流金岁月第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803124900 +0800" stop="20230803133900 +0800" channel="cctv11">
-		<title lang="zh">流金岁月9/38</title>
+		<title lang="zh">流金岁月第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803133900 +0800" stop="20230803140900 +0800" channel="cctv11">
@@ -7720,11 +7720,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803171900 +0800" stop="20230803180900 +0800" channel="cctv11">
-		<title lang="zh">雪中悍刀行14/38</title>
+		<title lang="zh">雪中悍刀行第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803180900 +0800" stop="20230803190000 +0800" channel="cctv11">
-		<title lang="zh">雪中悍刀行15/38</title>
+		<title lang="zh">雪中悍刀行第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803190000 +0800" stop="20230803193000 +0800" channel="cctv11">
@@ -7736,11 +7736,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803222500 +0800" stop="20230803231600 +0800" channel="cctv11">
-		<title lang="zh">诚忠堂12/40</title>
+		<title lang="zh">诚忠堂第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803231600 +0800" stop="20230803235900 +0800" channel="cctv11">
-		<title lang="zh">诚忠堂13/40</title>
+		<title lang="zh">诚忠堂第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803001100 +0800" stop="20230803010400 +0800" channel="cctv12">
@@ -8160,11 +8160,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803101700 +0800" stop="20230803110800 +0800" channel="cctv17">
-		<title lang="zh">远方的山楂树15/48</title>
+		<title lang="zh">远方的山楂树第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803110800 +0800" stop="20230803120000 +0800" channel="cctv17">
-		<title lang="zh">远方的山楂树16/48</title>
+		<title lang="zh">远方的山楂树第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803120000 +0800" stop="20230803122700 +0800" channel="cctv17">
@@ -8188,19 +8188,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803133500 +0800" stop="20230803142600 +0800" channel="cctv17">
-		<title lang="zh">绝代双骄35/44</title>
+		<title lang="zh">绝代双骄第35集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803142600 +0800" stop="20230803151700 +0800" channel="cctv17">
-		<title lang="zh">绝代双骄36/44</title>
+		<title lang="zh">绝代双骄第36集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803151700 +0800" stop="20230803160700 +0800" channel="cctv17">
-		<title lang="zh">绝代双骄37/44</title>
+		<title lang="zh">绝代双骄第37集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803160700 +0800" stop="20230803170000 +0800" channel="cctv17">
-		<title lang="zh">绝代双骄38/44</title>
+		<title lang="zh">绝代双骄第38集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803170000 +0800" stop="20230803173000 +0800" channel="cctv17">
@@ -8216,11 +8216,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803183200 +0800" stop="20230803192600 +0800" channel="cctv17">
-		<title lang="zh">远方的山楂树17/48</title>
+		<title lang="zh">远方的山楂树第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803192600 +0800" stop="20230803201500 +0800" channel="cctv17">
-		<title lang="zh">远方的山楂树18/48</title>
+		<title lang="zh">远方的山楂树第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230803201500 +0800" stop="20230803204700 +0800" channel="cctv17">
@@ -9631,8 +9631,12 @@
 		<title lang="zh">地理·中国-2023-215</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230804022400 +0800" stop="20230804060000 +0800" channel="cctv10">
+	<programme start="20230804022400 +0800" stop="20230804030400 +0800" channel="cctv10">
 		<title lang="zh">健康之路-2023-215</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230804030400 +0800" stop="20230804060000 +0800" channel="cctv10">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230804060000 +0800" stop="20230804061000 +0800" channel="cctv10">
@@ -9760,11 +9764,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230804000600 +0800" stop="20230804005700 +0800" channel="cctv11">
-		<title lang="zh">诚忠堂14/40</title>
+		<title lang="zh">诚忠堂第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230804005700 +0800" stop="20230804060800 +0800" channel="cctv11">
+	<programme start="20230804005700 +0800" stop="20230804022800 +0800" channel="cctv11">
 		<title lang="zh">九州大戏台-2022-32黄梅折子戏专场</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230804022800 +0800" stop="20230804060800 +0800" channel="cctv11">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230804060800 +0800" stop="20230804070900 +0800" channel="cctv11">
@@ -9987,8 +9995,12 @@
 		<title lang="zh">风车剧场-2023-143</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230804012600 +0800" stop="20230804060000 +0800" channel="cctvchild">
+	<programme start="20230804012600 +0800" stop="20230804020000 +0800" channel="cctvchild">
 		<title lang="zh">风车剧场-2023-144</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230804020000 +0800" stop="20230804060000 +0800" channel="cctvchild">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230804060000 +0800" stop="20230804063000 +0800" channel="cctvchild">
@@ -10185,6 +10197,10 @@
 	</programme>
 	<programme start="20230804224500 +0800" stop="20230804235900 +0800" channel="cctv16">
 		<title lang="zh">实况录像（奥林匹克）-2023年女足世界杯小组赛D组 中国队-英格兰队</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230804002600 +0800" stop="20230804055500 +0800" channel="cctv17">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230804055500 +0800" stop="20230804060000 +0800" channel="cctv17">
