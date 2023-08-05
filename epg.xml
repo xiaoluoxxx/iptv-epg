@@ -5032,7 +5032,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230805155000 +0800" stop="20230805180000 +0800" channel="cctv5">
-		<title lang="zh">2023年女足世界杯-1/8决赛（C1—A2）</title>
+		<title lang="zh">2023年女足世界杯-1/8决赛 日本女足VS挪威女足</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230805180000 +0800" stop="20230805182000 +0800" channel="cctv5">
@@ -5100,7 +5100,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230805125000 +0800" stop="20230805150000 +0800" channel="cctv5plus">
-		<title lang="zh">2023年女足世界杯-1/8决赛1</title>
+		<title lang="zh">2023年女足世界杯-1/8决赛 瑞士女足VS西班牙女足</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230805150000 +0800" stop="20230805170000 +0800" channel="cctv5plus">
@@ -9939,8 +9939,12 @@
 		<title lang="zh">法律讲堂-2023-211</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230807020400 +0800" stop="20230807060300 +0800" channel="cctv12">
+	<programme start="20230807020400 +0800" stop="20230807022500 +0800" channel="cctv12">
 		<title lang="zh">生命线-2023-213</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230807022500 +0800" stop="20230807060300 +0800" channel="cctv12">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230807060300 +0800" stop="20230807063400 +0800" channel="cctv12">
@@ -10075,8 +10079,12 @@
 		<title lang="zh">风车剧场-2023-152</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230807012600 +0800" stop="20230807060000 +0800" channel="cctvchild">
+	<programme start="20230807012600 +0800" stop="20230807020000 +0800" channel="cctvchild">
 		<title lang="zh">风车剧场-2023-153</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230807020000 +0800" stop="20230807060000 +0800" channel="cctvchild">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230807060000 +0800" stop="20230807063000 +0800" channel="cctvchild">
