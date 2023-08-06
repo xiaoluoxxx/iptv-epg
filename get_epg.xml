@@ -5220,6 +5220,206 @@
 	<channel id="cctv16">
 		<display-name lang="cn">CCTV-16奥林匹克</display-name>
 	</channel>
+	<programme  channel="cctv16" start="20230806010000 +0800" stop="20230806023000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年国际篮联女篮亚洲杯 半决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806023000 +0800" stop="20230806033000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界乒乓球锦标赛 女单决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806033000 +0800" stop="20230806040000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界田联钻石联赛 西里西亚站 25分钟版</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806040000 +0800" stop="20230806053000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2022/2023赛季中国男子篮球职业联赛 季后赛 半决赛2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806053000 +0800" stop="20230806055600 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年射箭世界杯 上海站2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806055600 +0800" stop="20230806061100 +0800">
+		<title lang="zh">艺术里的奥林匹克-2023-62</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806061100 +0800" stop="20230806062500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 花样游泳 10分钟版2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806062500 +0800" stop="20230806075500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界田联钻石联赛 斯德哥尔摩站</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806075500 +0800" stop="20230806085500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 跳水 女子十米台 决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806085500 +0800" stop="20230806140500 +0800">
+		<title lang="zh">成都第31届世界大学生夏季运动会-赛事报道 9-1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806140500 +0800" stop="20230806153500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界女排联赛总决赛 1/4决赛 巴西队-中国队</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806153500 +0800" stop="20230806163000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 游泳比赛4</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806163000 +0800" stop="20230806170000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界田联钻石联赛 伦敦站 25分钟版</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806170000 +0800" stop="20230806220500 +0800">
+		<title lang="zh">成都第31届世界大学生夏季运动会-赛事报道 9-2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806220500 +0800" stop="20230806222500 +0800">
+		<title lang="zh">艺术里的奥林匹克-2023-63</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806222500 +0800" stop="20230806232500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界击剑锦标赛3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230806232500 +0800" stop="20230806235900 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年女足世界杯小组赛H组 韩国队-德国队</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230807005500 +0800" stop="20230807025000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年温布尔登网球赛  男单决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230807025000 +0800" stop="20230807035000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年国际篮联女篮亚洲杯小组赛 中国队-韩国队</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230807035000 +0800" stop="20230807040000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 花样游泳 10分钟版3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230807040000 +0800" stop="20230807053000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年女足世界杯小组赛F组 法国队-巴西队</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230807053000 +0800" stop="20230807055600 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界田联钻石联赛 巴黎站 25分钟版</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230807055600 +0800" stop="20230807061100 +0800">
+		<title lang="zh">艺术里的奥林匹克-2023-63</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230807061100 +0800" stop="20230807062500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 花样游泳 10分钟版2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230807062500 +0800" stop="20230807072500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界乒乓球锦标赛 女单决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230807072500 +0800" stop="20230807085500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界男排联赛总决赛 1/4决赛1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230807085500 +0800" stop="20230807140500 +0800">
+		<title lang="zh">成都第31届世界大学生夏季运动会-赛事报道 10-1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230807140500 +0800" stop="20230807150500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界击剑锦标赛1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230807150500 +0800" stop="20230807160500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年蹦床世界杯 科英布拉站1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230807160500 +0800" stop="20230807165500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 游泳比赛1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230807165500 +0800" stop="20230807230500 +0800">
+		<title lang="zh">成都第31届世界大学生夏季运动会-赛事报道 10-2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230807230500 +0800" stop="20230807235900 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年女足世界杯 1/8决赛1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808003500 +0800" stop="20230808020500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界田联钻石联赛 奥斯陆站</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808020500 +0800" stop="20230808040000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年苏迪曼杯羽毛球赛 小组赛 中国队-新加坡队</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808040000 +0800" stop="20230808053000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年女足世界杯小组赛G组 瑞典队-意大利队</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808053000 +0800" stop="20230808055600 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界田联钻石联赛 伦敦站 25分钟版</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808055600 +0800" stop="20230808060100 +0800">
+		<title lang="zh">奥林匹克人-2021-6</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808060100 +0800" stop="20230808073000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界乒乓球锦标赛 1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808073000 +0800" stop="20230808085500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界男排联赛总决赛 1/4决赛2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808085500 +0800" stop="20230808102500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年全国田径锦标赛 1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808102500 +0800" stop="20230808115500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界女排联赛总决赛 1/4决赛 波兰队-德国队</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808115500 +0800" stop="20230808140500 +0800">
+		<title lang="zh">成都第31届世界大学生夏季运动会-赛事报道 11</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808140500 +0800" stop="20230808150500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界击剑锦标赛2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808150500 +0800" stop="20230808160500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年蹦床世界杯 科英布拉站2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808160500 +0800" stop="20230808170000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 游泳比赛2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808170000 +0800" stop="20230808180000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年国际篮联女篮亚洲杯小组赛 中国队-韩国队</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808180000 +0800" stop="20230808195500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-成都第31届世界大学生夏季运动会  录播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808195500 +0800" stop="20230808220500 +0800">
+		<title lang="zh">成都第31届世界大学生夏季运动会-闭幕式</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808220500 +0800" stop="20230808230500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 跳水 女子双人十米台 决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230808230500 +0800" stop="20230808235900 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2023年女足世界杯 1/8决赛2</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<channel id="cctv17">
 		<display-name lang="cn">CCTV-17农业农村</display-name>
 	</channel>
