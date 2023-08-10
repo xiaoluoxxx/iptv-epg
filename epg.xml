@@ -7440,7 +7440,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811085000 +0800" stop="20230811110000 +0800" channel="cctv5">
-		<title lang="zh">2023年女足世界杯-1/4决赛1</title>
+		<title lang="zh">2023年女足世界杯-1/4决赛 西班牙VS荷兰</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811110000 +0800" stop="20230811120000 +0800" channel="cctv5">
@@ -7464,7 +7464,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811152000 +0800" stop="20230811173000 +0800" channel="cctv5">
-		<title lang="zh">2023年女足世界杯-1/4决赛2</title>
+		<title lang="zh">2023年女足世界杯-1/4决赛 日本VS瑞典</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811173000 +0800" stop="20230811180000 +0800" channel="cctv5">
@@ -8860,7 +8860,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811064100 +0800" stop="20230811072300 +0800" channel="cctv4k">
-		<title lang="zh">远方的家2023-70(4K)</title>
+		<title lang="zh">远方的家2023-36(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811072300 +0800" stop="20230811072500 +0800" channel="cctv4k">
@@ -8872,7 +8872,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811072500 +0800" stop="20230811075500 +0800" channel="cctv4k">
-		<title lang="zh">味道-2023-9(4K)</title>
+		<title lang="zh">味道-2022-71(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811075500 +0800" stop="20230811084300 +0800" channel="cctv4k">
@@ -8892,7 +8892,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811094900 +0800" stop="20230811103500 +0800" channel="cctv4k">
-		<title lang="zh">青春之城-4K-31/33</title>
+		<title lang="zh">青春之城-（4K）-31/33</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811103500 +0800" stop="20230811103500 +0800" channel="cctv4k">
@@ -8932,11 +8932,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811115900 +0800" stop="20230811122900 +0800" channel="cctv4k">
-		<title lang="zh">味道-2023-9(4K)</title>
+		<title lang="zh">味道-2022-71(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811122900 +0800" stop="20230811131000 +0800" channel="cctv4k">
-		<title lang="zh">远方的家2023-70(4K)</title>
+		<title lang="zh">远方的家2023-36(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811131000 +0800" stop="20230811131100 +0800" channel="cctv4k">
@@ -8971,20 +8971,32 @@
 		<title lang="zh">艺术里的奥林匹克-2023-50</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230811170100 +0800" stop="20230811170200 +0800" channel="cctv4k">
-		<title lang="zh">4K频道宣传片-标识演绎3</title>
+	<programme start="20230811170100 +0800" stop="20230811170400 +0800" channel="cctv4k">
+		<title lang="zh">4K节目垫播-美丽中国-新疆3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230811170200 +0800" stop="20230811173000 +0800" channel="cctv4k">
+	<programme start="20230811170400 +0800" stop="20230811170500 +0800" channel="cctv4k">
+		<title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230811170500 +0800" stop="20230811173300 +0800" channel="cctv4k">
 		<title lang="zh">记住乡愁2023-14(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230811173000 +0800" stop="20230811174500 +0800" channel="cctv4k">
-		<title lang="zh">2019动画大放映（引进版）-6(4K)</title>
+	<programme start="20230811173300 +0800" stop="20230811173800 +0800" channel="cctv4k">
+		<title lang="zh">魅力纪录2018-16-如果国宝会说话15（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230811174500 +0800" stop="20230811180000 +0800" channel="cctv4k">
-		<title lang="zh">2019动画大放映（引进版）-7(4K)</title>
+	<programme start="20230811173800 +0800" stop="20230811174400 +0800" channel="cctv4k">
+		<title lang="zh">米小圈（4K）-7</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230811174400 +0800" stop="20230811175200 +0800" channel="cctv4k">
+		<title lang="zh">米小圈（4K）-8</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230811175200 +0800" stop="20230811180000 +0800" channel="cctv4k">
+		<title lang="zh">米小圈（4K）-9</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811180000 +0800" stop="20230811180000 +0800" channel="cctv4k">
@@ -8996,7 +9008,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811180000 +0800" stop="20230811183000 +0800" channel="cctv4k">
-		<title lang="zh">味道-2023-10(4K)</title>
+		<title lang="zh">味道-2022-78(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811183000 +0800" stop="20230811185500 +0800" channel="cctv4k">
@@ -9008,7 +9020,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811185600 +0800" stop="20230811193800 +0800" channel="cctv4k">
-		<title lang="zh">远方的家2023-71(4K)</title>
+		<title lang="zh">远方的家2023-37(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811193800 +0800" stop="20230811194300 +0800" channel="cctv4k">
@@ -9028,7 +9040,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811205100 +0800" stop="20230811213700 +0800" channel="cctv4k">
-		<title lang="zh">青春之城-4K-32/33</title>
+		<title lang="zh">青春之城-（4K）-32/33</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230811213700 +0800" stop="20230811213700 +0800" channel="cctv4k">
@@ -9656,7 +9668,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230812145000 +0800" stop="20230812170500 +0800" channel="cctv5">
-		<title lang="zh">2023年女足世界杯-1/4决赛3</title>
+		<title lang="zh">2023年女足世界杯-1/4决赛 澳大利亚VS法国</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230812170500 +0800" stop="20230812180000 +0800" channel="cctv5">
@@ -9668,7 +9680,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230812182000 +0800" stop="20230812203500 +0800" channel="cctv5">
-		<title lang="zh">2023年女足世界杯-1/4决赛4</title>
+		<title lang="zh">2023年女足世界杯-1/4决赛 英格兰VS哥伦比亚</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230812203500 +0800" stop="20230812212500 +0800" channel="cctv5">
@@ -10243,8 +10255,12 @@
 		<title lang="zh">地理·中国-2023-223</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230812021400 +0800" stop="20230812060000 +0800" channel="cctv10">
+	<programme start="20230812021400 +0800" stop="20230812025400 +0800" channel="cctv10">
 		<title lang="zh">健康之路-2023-223</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230812025400 +0800" stop="20230812060000 +0800" channel="cctv10">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230812060000 +0800" stop="20230812061000 +0800" channel="cctv10">
@@ -10945,6 +10961,10 @@
 	</programme>
 	<programme start="20230812234900 +0800" stop="20230812235900 +0800" channel="cctv17">
 		<title lang="zh">超级农人秀-2023-13</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230812000000 +0800" stop="20230812060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230812060000 +0800" stop="20230812060100 +0800" channel="cctv4k">
