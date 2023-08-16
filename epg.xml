@@ -7008,15 +7008,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230817092600 +0800" stop="20230817101600 +0800" channel="cctv1">
-		<title lang="zh">平凡之路2/36</title>
+		<title lang="zh">平凡之路第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230817101600 +0800" stop="20230817110400 +0800" channel="cctv1">
-		<title lang="zh">平凡之路3/36</title>
+		<title lang="zh">平凡之路第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230817110400 +0800" stop="20230817115200 +0800" channel="cctv1">
-		<title lang="zh">平凡之路4/36</title>
+		<title lang="zh">平凡之路第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230817115200 +0800" stop="20230817115600 +0800" channel="cctv1">
@@ -7036,23 +7036,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230817131000 +0800" stop="20230817135800 +0800" channel="cctv1">
-		<title lang="zh">父亲的草原母亲的河17/36</title>
+		<title lang="zh">父亲的草原母亲的河第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230817135800 +0800" stop="20230817144800 +0800" channel="cctv1">
-		<title lang="zh">父亲的草原母亲的河18/36</title>
+		<title lang="zh">父亲的草原母亲的河第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230817144800 +0800" stop="20230817153700 +0800" channel="cctv1">
-		<title lang="zh">父亲的草原母亲的河19/36</title>
+		<title lang="zh">父亲的草原母亲的河第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230817153700 +0800" stop="20230817162400 +0800" channel="cctv1">
-		<title lang="zh">父亲的草原母亲的河20/36</title>
+		<title lang="zh">父亲的草原母亲的河第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230817162400 +0800" stop="20230817171400 +0800" channel="cctv1">
-		<title lang="zh">父亲的草原母亲的河21/36</title>
+		<title lang="zh">父亲的草原母亲的河第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230817171400 +0800" stop="20230817173400 +0800" channel="cctv1">
@@ -7087,15 +7087,15 @@
 		<title lang="zh">前情提要-《冰雪尖刀连》10/24</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230817200600 +0800" stop="20230817205900 +0800" channel="cctv1">
+	<programme start="20230817200600 +0800" stop="20230817205700 +0800" channel="cctv1">
 		<title lang="zh">冰雪尖刀连10/24</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230817205900 +0800" stop="20230817210200 +0800" channel="cctv1">
+	<programme start="20230817205700 +0800" stop="20230817210000 +0800" channel="cctv1">
 		<title lang="zh">前情提要-《冰雪尖刀连》11/24</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230817210200 +0800" stop="20230817220000 +0800" channel="cctv1">
+	<programme start="20230817210000 +0800" stop="20230817220000 +0800" channel="cctv1">
 		<title lang="zh">冰雪尖刀连11/24</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -10003,8 +10003,12 @@
 		<title lang="zh">加勒比营救（下）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230818001000 +0800" stop="20230818060300 +0800" channel="cctv7">
+	<programme start="20230818001000 +0800" stop="20230818004800 +0800" channel="cctv7">
 		<title lang="zh">兵器面面观-2023-148</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230818004800 +0800" stop="20230818060300 +0800" channel="cctv7">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230818060300 +0800" stop="20230818063400 +0800" channel="cctv7">
@@ -10439,8 +10443,12 @@
 		<title lang="zh">地理·中国-2023-229</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230818021400 +0800" stop="20230818060000 +0800" channel="cctv10">
+	<programme start="20230818021400 +0800" stop="20230818025400 +0800" channel="cctv10">
 		<title lang="zh">健康之路-2023-229</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230818025400 +0800" stop="20230818060000 +0800" channel="cctv10">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230818060000 +0800" stop="20230818061000 +0800" channel="cctv10">
@@ -10795,8 +10803,12 @@
 		<title lang="zh">风车剧场-2023-189</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230818012600 +0800" stop="20230818060000 +0800" channel="cctvchild">
+	<programme start="20230818012600 +0800" stop="20230818020000 +0800" channel="cctvchild">
 		<title lang="zh">风车剧场-2023-190</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230818020000 +0800" stop="20230818060000 +0800" channel="cctvchild">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230818060000 +0800" stop="20230818063000 +0800" channel="cctvchild">
@@ -11181,6 +11193,10 @@
 	</programme>
 	<programme start="20230818234400 +0800" stop="20230818235900 +0800" channel="cctv17">
 		<title lang="zh">超级农人秀-2023-17</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230818000000 +0800" stop="20230818060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230818060000 +0800" stop="20230818060100 +0800" channel="cctv4k">
