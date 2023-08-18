@@ -296,7 +296,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230818200600 +0800" stop="20230818205800 +0800">
-		<title lang="zh">冰雪尖刀连12/24</title>
+		<title lang="zh">冰雪尖刀连第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230818205800 +0800" stop="20230818210200 +0800">
@@ -304,7 +304,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230818210200 +0800" stop="20230818220000 +0800">
-		<title lang="zh">冰雪尖刀连13/24</title>
+		<title lang="zh">冰雪尖刀连第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230818220000 +0800" stop="20230818223400 +0800">
@@ -372,19 +372,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230819083600 +0800" stop="20230819092900 +0800">
-		<title lang="zh">平凡之路8/36</title>
+		<title lang="zh">平凡之路第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230819092900 +0800" stop="20230819101600 +0800">
-		<title lang="zh">平凡之路9/36</title>
+		<title lang="zh">平凡之路第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230819101600 +0800" stop="20230819110400 +0800">
-		<title lang="zh">平凡之路10/36</title>
+		<title lang="zh">平凡之路第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230819110400 +0800" stop="20230819115100 +0800">
-		<title lang="zh">平凡之路11/36</title>
+		<title lang="zh">平凡之路第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230819115100 +0800" stop="20230819115500 +0800">
@@ -404,23 +404,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230819130900 +0800" stop="20230819140200 +0800">
-		<title lang="zh">父亲的草原母亲的河27/36</title>
+		<title lang="zh">父亲的草原母亲的河第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230819140200 +0800" stop="20230819145100 +0800">
-		<title lang="zh">父亲的草原母亲的河28/36</title>
+		<title lang="zh">父亲的草原母亲的河第28集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230819145100 +0800" stop="20230819153800 +0800">
-		<title lang="zh">父亲的草原母亲的河29/36</title>
+		<title lang="zh">父亲的草原母亲的河第29集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230819153800 +0800" stop="20230819162500 +0800">
-		<title lang="zh">父亲的草原母亲的河30/36</title>
+		<title lang="zh">父亲的草原母亲的河第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230819162500 +0800" stop="20230819171200 +0800">
-		<title lang="zh">父亲的草原母亲的河31/36</title>
+		<title lang="zh">父亲的草原母亲的河第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230819171200 +0800" stop="20230819172700 +0800">
@@ -1677,11 +1677,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230819230100 +0800" stop="20230819234700 +0800">
-		<title lang="zh">运河边的人们12/30</title>
+		<title lang="zh">运河边的人们第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230819234700 +0800" stop="20230819235900 +0800">
-		<title lang="zh">运河边的人们13/30</title>
+		<title lang="zh">运河边的人们第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv5">
@@ -3276,15 +3276,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230819193000 +0800" stop="20230819202500 +0800">
-		<title lang="zh">一路朝阳10/36</title>
+		<title lang="zh">一路朝阳第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230819202500 +0800" stop="20230819203000 +0800">
-		<title lang="zh">本集提要-《一路朝阳》11/36</title>
+		<title lang="zh">本集提要- 《一路朝阳》第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230819203000 +0800" stop="20230819212300 +0800">
-		<title lang="zh">一路朝阳11/36</title>
+		<title lang="zh">一路朝阳第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230819212300 +0800" stop="20230819212800 +0800">
@@ -5209,19 +5209,19 @@
 		<title lang="zh">精彩音乐汇-2023-230</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20230819193000 +0800" stop="20230819211400 +0800">
+	<programme  channel="cctv15" start="20230819193000 +0800" stop="20230819204900 +0800">
 		<title lang="zh">全球中文音乐榜上榜-2023-32</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20230819211400 +0800" stop="20230819222900 +0800">
+	<programme  channel="cctv15" start="20230819204900 +0800" stop="20230819220400 +0800">
 		<title lang="zh">民歌·中国-2023-69美丽的歌声多清脆1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20230819222900 +0800" stop="20230819232600 +0800">
+	<programme  channel="cctv15" start="20230819220400 +0800" stop="20230819230100 +0800">
 		<title lang="zh">CCTV音乐厅-2023-163-名家名曲(150)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20230819232600 +0800" stop="20230819235900 +0800">
+	<programme  channel="cctv15" start="20230819230100 +0800" stop="20230819235900 +0800">
 		<title lang="zh">经典-2023-198</title>
 		<desc lang="zh"></desc>
 	</programme>
