@@ -5271,16 +5271,12 @@
 		<title lang="zh">实况录像-2023年世界女排联赛总决赛 半决赛  2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230819142000 +0800" stop="20230819145000 +0800" channel="cctv5">
+	<programme start="20230819142000 +0800" stop="20230819165000 +0800" channel="cctv5">
 		<title lang="zh">实况录像-2023年世界泳联锦标赛 高台跳水  男子27米跳台 决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230819145000 +0800" stop="20230819163000 +0800" channel="cctv5">
+	<programme start="20230819165000 +0800" stop="20230819180000 +0800" channel="cctv5">
 		<title lang="zh">2023年世界田径锦标赛-男子20公里竞走</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20230819163000 +0800" stop="20230819180000 +0800" channel="cctv5">
-		<title lang="zh">实况录像-2023年世界女排联赛  韩国站  韩国队—中国队</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230819180000 +0800" stop="20230819183500 +0800" channel="cctv5">
@@ -6204,7 +6200,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230819200500 +0800" stop="20230819204700 +0800" channel="cctv12">
-		<title lang="zh">心理访谈-2023-33</title>
+		<title lang="zh">小区大事-2023-31</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230819204700 +0800" stop="20230819210700 +0800" channel="cctv12">
@@ -6216,7 +6212,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230819220000 +0800" stop="20230819224500 +0800" channel="cctv12">
-		<title lang="zh">小区大事-2023-31</title>
+		<title lang="zh">心理访谈-2023-32</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230819224500 +0800" stop="20230819231500 +0800" channel="cctv12">
@@ -6228,7 +6224,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230819235800 +0800" stop="20230819235900 +0800" channel="cctv12">
-		<title lang="zh">心理访谈-2023-33</title>
+		<title lang="zh">心理访谈-2023-32</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230819001800 +0800" stop="20230819005200 +0800" channel="cctvchild">
@@ -8692,11 +8688,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230820101700 +0800" stop="20230820110800 +0800" channel="cctv17">
-		<title lang="zh">刘家媳妇4/39</title>
+		<title lang="zh">刘家媳妇第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230820110800 +0800" stop="20230820120000 +0800" channel="cctv17">
-		<title lang="zh">刘家媳妇5/39</title>
+		<title lang="zh">刘家媳妇第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230820120000 +0800" stop="20230820122700 +0800" channel="cctv17">
@@ -8720,19 +8716,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230820133500 +0800" stop="20230820142600 +0800" channel="cctv17">
-		<title lang="zh">大侠霍元甲20/45</title>
+		<title lang="zh">大侠霍元甲第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230820142600 +0800" stop="20230820151700 +0800" channel="cctv17">
-		<title lang="zh">大侠霍元甲21/45</title>
+		<title lang="zh">大侠霍元甲第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230820151700 +0800" stop="20230820160700 +0800" channel="cctv17">
-		<title lang="zh">大侠霍元甲22/45</title>
+		<title lang="zh">大侠霍元甲第22集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230820160700 +0800" stop="20230820170000 +0800" channel="cctv17">
-		<title lang="zh">大侠霍元甲23/45</title>
+		<title lang="zh">大侠霍元甲第23集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230820170000 +0800" stop="20230820173000 +0800" channel="cctv17">
@@ -8748,11 +8744,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230820183200 +0800" stop="20230820192600 +0800" channel="cctv17">
-		<title lang="zh">刘家媳妇6/39</title>
+		<title lang="zh">刘家媳妇第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230820192600 +0800" stop="20230820201500 +0800" channel="cctv17">
-		<title lang="zh">刘家媳妇7/39</title>
+		<title lang="zh">刘家媳妇第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230820201500 +0800" stop="20230820204700 +0800" channel="cctv17">
@@ -9807,8 +9803,12 @@
 		<title lang="zh">浓情巧克力（下）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230821000700 +0800" stop="20230821060300 +0800" channel="cctv7">
+	<programme start="20230821000700 +0800" stop="20230821004500 +0800" channel="cctv7">
 		<title lang="zh">军营的味道-2023-23</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821004500 +0800" stop="20230821060300 +0800" channel="cctv7">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230821060300 +0800" stop="20230821063400 +0800" channel="cctv7">
@@ -10679,8 +10679,12 @@
 		<title lang="zh">精彩音乐汇-2023-228</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230821011800 +0800" stop="20230821060000 +0800" channel="cctv15">
+	<programme start="20230821011800 +0800" stop="20230821015300 +0800" channel="cctv15">
 		<title lang="zh">风华国乐-2023-234</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821015300 +0800" stop="20230821060000 +0800" channel="cctv15">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230821060000 +0800" stop="20230821063300 +0800" channel="cctv15">
@@ -10857,6 +10861,10 @@
 	</programme>
 	<programme start="20230821225500 +0800" stop="20230821235900 +0800" channel="cctv16">
 		<title lang="zh">实况录像（奥林匹克）-2023年世界女排联赛 日本站 中国队-巴西队</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821002100 +0800" stop="20230821055500 +0800" channel="cctv17">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230821055500 +0800" stop="20230821060000 +0800" channel="cctv17">
@@ -35335,8 +35343,84 @@
 		<title lang="zh">海豚帮帮号（闽）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230821034000 +0800" stop="20230821235900 +0800" channel="xiamen">
+	<programme start="20230821034000 +0800" stop="20230821060000 +0800" channel="xiamen">
 		<title lang="zh">两岸秘密档案（闽）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821060000 +0800" stop="20230821070000 +0800" channel="xiamen">
+		<title lang="zh">斗阵来看戏（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821070000 +0800" stop="20230821070100 +0800" channel="xiamen">
+		<title lang="zh">国歌</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821070100 +0800" stop="20230821073500 +0800" channel="xiamen">
+		<title lang="zh">两岸新新闻（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821073500 +0800" stop="20230821080000 +0800" channel="xiamen">
+		<title lang="zh">闽南通（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821080000 +0800" stop="20230821084500 +0800" channel="xiamen">
+		<title lang="zh">玲听两岸（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821084500 +0800" stop="20230821092000 +0800" channel="xiamen">
+		<title lang="zh">印象中国之行走山水间（闽）79（重）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821092000 +0800" stop="20230821120000 +0800" channel="xiamen">
+		<title lang="zh">风语（闽）18-20</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821120000 +0800" stop="20230821125500 +0800" channel="xiamen">
+		<title lang="zh">斗阵来看戏（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821125500 +0800" stop="20230821132500 +0800" channel="xiamen">
+		<title lang="zh">斗阵来讲古（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821132500 +0800" stop="20230821150000 +0800" channel="xiamen">
+		<title lang="zh">婚前协议（闽）31-32</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821150000 +0800" stop="20230821173500 +0800" channel="xiamen">
+		<title lang="zh">山里红17-19</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821173500 +0800" stop="20230821180000 +0800" channel="xiamen">
+		<title lang="zh">《小海豚》日常版《上课啦》（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821180000 +0800" stop="20230821183000 +0800" channel="xiamen">
+		<title lang="zh">新闻斗阵讲（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821183000 +0800" stop="20230821190000 +0800" channel="xiamen">
+		<title lang="zh">厦视新闻</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821190000 +0800" stop="20230821204000 +0800" channel="xiamen">
+		<title lang="zh">蜀山战纪2踏火行歌10-11</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821204000 +0800" stop="20230821213000 +0800" channel="xiamen">
+		<title lang="zh">两岸秘密档案</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821213000 +0800" stop="20230821220000 +0800" channel="xiamen">
+		<title lang="zh">两岸新新闻（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821220000 +0800" stop="20230821223500 +0800" channel="xiamen">
+		<title lang="zh">两岸直航（首）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230821223500 +0800" stop="20230821235900 +0800" channel="xiamen">
+		<title lang="zh">大刀记20-21</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230821044600 +0800" stop="20230821052200 +0800" channel="yunnan">

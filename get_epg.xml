@@ -1799,16 +1799,12 @@
 		<title lang="zh">实况录像-2023年世界女排联赛总决赛 半决赛  2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230819142000 +0800" stop="20230819145000 +0800">
+	<programme  channel="cctv5" start="20230819142000 +0800" stop="20230819165000 +0800">
 		<title lang="zh">实况录像-2023年世界泳联锦标赛 高台跳水  男子27米跳台 决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230819145000 +0800" stop="20230819163000 +0800">
+	<programme  channel="cctv5" start="20230819165000 +0800" stop="20230819180000 +0800">
 		<title lang="zh">2023年世界田径锦标赛-男子20公里竞走</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme  channel="cctv5" start="20230819163000 +0800" stop="20230819180000 +0800">
-		<title lang="zh">实况录像-2023年世界女排联赛  韩国站  韩国队—中国队</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230819180000 +0800" stop="20230819183500 +0800">
@@ -4548,7 +4544,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv12" start="20230819200500 +0800" stop="20230819204700 +0800">
-		<title lang="zh">心理访谈-2023-33</title>
+		<title lang="zh">小区大事-2023-31</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv12" start="20230819204700 +0800" stop="20230819210700 +0800">
@@ -4560,7 +4556,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv12" start="20230819220000 +0800" stop="20230819224500 +0800">
-		<title lang="zh">小区大事-2023-31</title>
+		<title lang="zh">心理访谈-2023-32</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv12" start="20230819224500 +0800" stop="20230819231500 +0800">
@@ -4572,7 +4568,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv12" start="20230819235800 +0800" stop="20230819235900 +0800">
-		<title lang="zh">心理访谈-2023-33</title>
+		<title lang="zh">心理访谈-2023-32</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv12" start="20230820004100 +0800" stop="20230820013400 +0800">
@@ -5820,11 +5816,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230820101700 +0800" stop="20230820110800 +0800">
-		<title lang="zh">刘家媳妇4/39</title>
+		<title lang="zh">刘家媳妇第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230820110800 +0800" stop="20230820120000 +0800">
-		<title lang="zh">刘家媳妇5/39</title>
+		<title lang="zh">刘家媳妇第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230820120000 +0800" stop="20230820122700 +0800">
@@ -5848,19 +5844,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230820133500 +0800" stop="20230820142600 +0800">
-		<title lang="zh">大侠霍元甲20/45</title>
+		<title lang="zh">大侠霍元甲第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230820142600 +0800" stop="20230820151700 +0800">
-		<title lang="zh">大侠霍元甲21/45</title>
+		<title lang="zh">大侠霍元甲第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230820151700 +0800" stop="20230820160700 +0800">
-		<title lang="zh">大侠霍元甲22/45</title>
+		<title lang="zh">大侠霍元甲第22集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230820160700 +0800" stop="20230820170000 +0800">
-		<title lang="zh">大侠霍元甲23/45</title>
+		<title lang="zh">大侠霍元甲第23集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230820170000 +0800" stop="20230820173000 +0800">
@@ -5876,11 +5872,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230820183200 +0800" stop="20230820192600 +0800">
-		<title lang="zh">刘家媳妇6/39</title>
+		<title lang="zh">刘家媳妇第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230820192600 +0800" stop="20230820201500 +0800">
-		<title lang="zh">刘家媳妇7/39</title>
+		<title lang="zh">刘家媳妇第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230820201500 +0800" stop="20230820204700 +0800">
