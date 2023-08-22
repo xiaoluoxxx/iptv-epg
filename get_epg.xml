@@ -4325,11 +4325,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230823114400 +0800" stop="20230823123500 +0800">
-		<title lang="zh">扫黑风暴10/28</title>
+		<title lang="zh">扫黑风暴第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230823123500 +0800" stop="20230823132500 +0800">
-		<title lang="zh">扫黑风暴11/28</title>
+		<title lang="zh">扫黑风暴第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230823132500 +0800" stop="20230823144400 +0800">
@@ -4341,11 +4341,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230823171300 +0800" stop="20230823180300 +0800">
-		<title lang="zh">楼外楼16/36</title>
+		<title lang="zh">楼外楼第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230823180300 +0800" stop="20230823190000 +0800">
-		<title lang="zh">楼外楼17/36</title>
+		<title lang="zh">楼外楼第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230823190000 +0800" stop="20230823193000 +0800">
@@ -4365,15 +4365,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230823220100 +0800" stop="20230823225100 +0800">
-		<title lang="zh">正阳门下小女人32/48</title>
+		<title lang="zh">正阳门下小女人第32集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230823225100 +0800" stop="20230823234200 +0800">
-		<title lang="zh">正阳门下小女人33/48</title>
+		<title lang="zh">正阳门下小女人第33集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230823234200 +0800" stop="20230823235900 +0800">
-		<title lang="zh">正阳门下小女人34/48</title>
+		<title lang="zh">正阳门下小女人第34集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv12">
@@ -5984,11 +5984,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230823101700 +0800" stop="20230823110800 +0800">
-		<title lang="zh">刘家媳妇10/39</title>
+		<title lang="zh">刘家媳妇第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230823110800 +0800" stop="20230823120000 +0800">
-		<title lang="zh">刘家媳妇11/39</title>
+		<title lang="zh">刘家媳妇第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230823120000 +0800" stop="20230823122700 +0800">
@@ -6012,19 +6012,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230823133500 +0800" stop="20230823142600 +0800">
-		<title lang="zh">大侠霍元甲32/45</title>
+		<title lang="zh">大侠霍元甲第32集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230823142600 +0800" stop="20230823151700 +0800">
-		<title lang="zh">大侠霍元甲33/45</title>
+		<title lang="zh">大侠霍元甲第33集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230823151700 +0800" stop="20230823160700 +0800">
-		<title lang="zh">大侠霍元甲34/45</title>
+		<title lang="zh">大侠霍元甲第34集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230823160700 +0800" stop="20230823170000 +0800">
-		<title lang="zh">大侠霍元甲35/45</title>
+		<title lang="zh">大侠霍元甲第35集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230823170000 +0800" stop="20230823173000 +0800">
@@ -6040,11 +6040,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230823183200 +0800" stop="20230823192600 +0800">
-		<title lang="zh">刘家媳妇12/39</title>
+		<title lang="zh">刘家媳妇第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230823192600 +0800" stop="20230823201500 +0800">
-		<title lang="zh">刘家媳妇13/39</title>
+		<title lang="zh">刘家媳妇第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230823201500 +0800" stop="20230823204700 +0800">
