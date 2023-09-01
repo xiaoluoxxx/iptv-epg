@@ -6705,6 +6705,498 @@
 	<channel id="cetv1">
 		<display-name lang="cn">CETV-1</display-name>
 	</channel>
+	<programme  channel="cetv1" start="20230901001200 +0800" stop="20230901013400 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901013400 +0800" stop="20230901021400 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901021400 +0800" stop="20230901022100 +0800">
+		<title lang="zh">改变你我命运的那些瞬间</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901022100 +0800" stop="20230901025200 +0800">
+		<title lang="zh">发现中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901025200 +0800" stop="20230901031600 +0800">
+		<title lang="zh">法治天下</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901031600 +0800" stop="20230901041400 +0800">
+		<title lang="zh">纪录中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901041400 +0800" stop="20230901050200 +0800">
+		<title lang="zh">博物馆之夜</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901050200 +0800" stop="20230901051200 +0800">
+		<title lang="zh">专题</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901051200 +0800" stop="20230901052000 +0800">
+		<title lang="zh">纪录中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901052000 +0800" stop="20230901060000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901060000 +0800" stop="20230901070000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901070000 +0800" stop="20230901070200 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901070200 +0800" stop="20230901084300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901084300 +0800" stop="20230901093300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901093300 +0800" stop="20230901102300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901102300 +0800" stop="20230901111300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901111300 +0800" stop="20230901120500 +0800">
+		<title lang="zh">等着我</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901120500 +0800" stop="20230901121500 +0800">
+		<title lang="zh">教育新闻直播间</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901121500 +0800" stop="20230901121700 +0800">
+		<title lang="zh">城市天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901121700 +0800" stop="20230901130100 +0800">
+		<title lang="zh">法治天下</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901130100 +0800" stop="20230901133000 +0800">
+		<title lang="zh">长安书院</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901133000 +0800" stop="20230901142000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901142000 +0800" stop="20230901151000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901151000 +0800" stop="20230901152100 +0800">
+		<title lang="zh">教育新闻直播间</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901152100 +0800" stop="20230901161300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901161300 +0800" stop="20230901170500 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901170500 +0800" stop="20230901171500 +0800">
+		<title lang="zh">教育新闻直播间</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901171500 +0800" stop="20230901180500 +0800">
+		<title lang="zh">欢乐喜剧人</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901180500 +0800" stop="20230901183000 +0800">
+		<title lang="zh">动漫盒子</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901183000 +0800" stop="20230901185600 +0800">
+		<title lang="zh">全国教育新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901185600 +0800" stop="20230901190000 +0800">
+		<title lang="zh">城市天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901190000 +0800" stop="20230901194500 +0800">
+		<title lang="zh">新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901194500 +0800" stop="20230901200000 +0800">
+		<title lang="zh">专题</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901200000 +0800" stop="20230901204500 +0800">
+		<title lang="zh">e视界</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901204500 +0800" stop="20230901210100 +0800">
+		<title lang="zh">旗帜中国青年说</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901210100 +0800" stop="20230901211500 +0800">
+		<title lang="zh">唱响新时代全国高校接力唱</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901211500 +0800" stop="20230901212300 +0800">
+		<title lang="zh">福彩开奖</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901212300 +0800" stop="20230901220000 +0800">
+		<title lang="zh">专题</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901220000 +0800" stop="20230901223000 +0800">
+		<title lang="zh">发现中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901223000 +0800" stop="20230901233000 +0800">
+		<title lang="zh">等着我</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230901233000 +0800" stop="20230901235900 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902001200 +0800" stop="20230902013400 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902013400 +0800" stop="20230902021400 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902021400 +0800" stop="20230902022100 +0800">
+		<title lang="zh">改变你我命运的那些瞬间</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902022100 +0800" stop="20230902025200 +0800">
+		<title lang="zh">发现中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902025200 +0800" stop="20230902031600 +0800">
+		<title lang="zh">法治天下</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902031600 +0800" stop="20230902041400 +0800">
+		<title lang="zh">纪录中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902041400 +0800" stop="20230902050200 +0800">
+		<title lang="zh">博物馆之夜</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902050200 +0800" stop="20230902051200 +0800">
+		<title lang="zh">专题</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902051200 +0800" stop="20230902052000 +0800">
+		<title lang="zh">纪录中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902052000 +0800" stop="20230902060000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902060000 +0800" stop="20230902070000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902070000 +0800" stop="20230902070200 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902070200 +0800" stop="20230902084300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902084300 +0800" stop="20230902093300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902093300 +0800" stop="20230902102300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902102300 +0800" stop="20230902111300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902111300 +0800" stop="20230902120500 +0800">
+		<title lang="zh">等着我</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902120500 +0800" stop="20230902121500 +0800">
+		<title lang="zh">教育新闻直播间</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902121500 +0800" stop="20230902121700 +0800">
+		<title lang="zh">城市天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902121700 +0800" stop="20230902130100 +0800">
+		<title lang="zh">法治天下</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902130100 +0800" stop="20230902133000 +0800">
+		<title lang="zh">长安书院</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902133000 +0800" stop="20230902142000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902142000 +0800" stop="20230902151000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902151000 +0800" stop="20230902152100 +0800">
+		<title lang="zh">教育新闻直播间</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902152100 +0800" stop="20230902161300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902161300 +0800" stop="20230902170500 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902170500 +0800" stop="20230902171500 +0800">
+		<title lang="zh">教育新闻直播间</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902171500 +0800" stop="20230902180500 +0800">
+		<title lang="zh">欢乐喜剧人</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902180500 +0800" stop="20230902183000 +0800">
+		<title lang="zh">动漫盒子</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902183000 +0800" stop="20230902185600 +0800">
+		<title lang="zh">全国教育新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902185600 +0800" stop="20230902190000 +0800">
+		<title lang="zh">城市天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902190000 +0800" stop="20230902194500 +0800">
+		<title lang="zh">新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902194500 +0800" stop="20230902200000 +0800">
+		<title lang="zh">专题</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902200000 +0800" stop="20230902204500 +0800">
+		<title lang="zh">e视界</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902204500 +0800" stop="20230902210100 +0800">
+		<title lang="zh">旗帜中国青年说</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902210100 +0800" stop="20230902211500 +0800">
+		<title lang="zh">唱响新时代全国高校接力唱</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902211500 +0800" stop="20230902212300 +0800">
+		<title lang="zh">福彩开奖</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902212300 +0800" stop="20230902220000 +0800">
+		<title lang="zh">专题</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902220000 +0800" stop="20230902223000 +0800">
+		<title lang="zh">发现中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902223000 +0800" stop="20230902233000 +0800">
+		<title lang="zh">等着我</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230902233000 +0800" stop="20230902235900 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903001200 +0800" stop="20230903013400 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903013400 +0800" stop="20230903021400 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903021400 +0800" stop="20230903022100 +0800">
+		<title lang="zh">改变你我命运的那些瞬间</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903022100 +0800" stop="20230903025200 +0800">
+		<title lang="zh">发现中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903025200 +0800" stop="20230903031600 +0800">
+		<title lang="zh">法治天下</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903031600 +0800" stop="20230903041400 +0800">
+		<title lang="zh">纪录中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903041400 +0800" stop="20230903050200 +0800">
+		<title lang="zh">博物馆之夜</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903050200 +0800" stop="20230903051200 +0800">
+		<title lang="zh">专题</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903051200 +0800" stop="20230903052000 +0800">
+		<title lang="zh">纪录中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903052000 +0800" stop="20230903060000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903060000 +0800" stop="20230903070000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903070000 +0800" stop="20230903070200 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903070200 +0800" stop="20230903084300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903084300 +0800" stop="20230903093300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903093300 +0800" stop="20230903102300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903102300 +0800" stop="20230903111300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903111300 +0800" stop="20230903120500 +0800">
+		<title lang="zh">等着我</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903120500 +0800" stop="20230903121500 +0800">
+		<title lang="zh">教育新闻直播间</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903121500 +0800" stop="20230903121700 +0800">
+		<title lang="zh">城市天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903121700 +0800" stop="20230903130100 +0800">
+		<title lang="zh">法治天下</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903130100 +0800" stop="20230903133000 +0800">
+		<title lang="zh">长安书院</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903133000 +0800" stop="20230903142000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903142000 +0800" stop="20230903151000 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903151000 +0800" stop="20230903152100 +0800">
+		<title lang="zh">教育新闻直播间</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903152100 +0800" stop="20230903161300 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903161300 +0800" stop="20230903170500 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903170500 +0800" stop="20230903171500 +0800">
+		<title lang="zh">教育新闻直播间</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903171500 +0800" stop="20230903180500 +0800">
+		<title lang="zh">欢乐喜剧人</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903180500 +0800" stop="20230903183000 +0800">
+		<title lang="zh">动漫盒子</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903183000 +0800" stop="20230903185600 +0800">
+		<title lang="zh">全国教育新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903185600 +0800" stop="20230903190000 +0800">
+		<title lang="zh">城市天气预报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903190000 +0800" stop="20230903194500 +0800">
+		<title lang="zh">新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903194500 +0800" stop="20230903200000 +0800">
+		<title lang="zh">专题</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903200000 +0800" stop="20230903204500 +0800">
+		<title lang="zh">e视界</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903204500 +0800" stop="20230903210100 +0800">
+		<title lang="zh">旗帜中国青年说</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903210100 +0800" stop="20230903211500 +0800">
+		<title lang="zh">唱响新时代全国高校接力唱</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903211500 +0800" stop="20230903212300 +0800">
+		<title lang="zh">福彩开奖</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903212300 +0800" stop="20230903220000 +0800">
+		<title lang="zh">专题</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903220000 +0800" stop="20230903223000 +0800">
+		<title lang="zh">发现中国</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903223000 +0800" stop="20230903233000 +0800">
+		<title lang="zh">等着我</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cetv1" start="20230903233000 +0800" stop="20230903235900 +0800">
+		<title lang="zh">电视剧</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<channel id="cetv2">
 		<display-name lang="cn">CETV-2</display-name>
 	</channel>
