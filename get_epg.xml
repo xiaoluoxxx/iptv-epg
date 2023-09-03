@@ -423,15 +423,15 @@
 		<title lang="zh">前情提要- 《父辈的荣耀》第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230904200600 +0800" stop="20230904205700 +0800">
+	<programme  channel="cctv1" start="20230904200600 +0800" stop="20230904205800 +0800">
 		<title lang="zh">父辈的荣耀13/30</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230904205700 +0800" stop="20230904210100 +0800">
+	<programme  channel="cctv1" start="20230904205800 +0800" stop="20230904210300 +0800">
 		<title lang="zh">前情提要- 《父辈的荣耀》第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20230904210100 +0800" stop="20230904220000 +0800">
+	<programme  channel="cctv1" start="20230904210300 +0800" stop="20230904220000 +0800">
 		<title lang="zh">父辈的荣耀14/30</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -2629,7 +2629,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv7" start="20230904093400 +0800" stop="20230904100400 +0800">
-		<title lang="zh">军事科技-2023-35</title>
+		<title lang="zh">军事科技-2023-34</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv7" start="20230904100400 +0800" stop="20230904103300 +0800">
