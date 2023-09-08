@@ -296,15 +296,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230908200600 +0800" stop="20230908205800 +0800">
-		<title lang="zh">父辈的荣耀21/30</title>
+		<title lang="zh">父辈的荣耀第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230908205800 +0800" stop="20230908210300 +0800">
-		<title lang="zh">前情提要-《父辈的荣耀》22/30</title>
+		<title lang="zh">前情提要- 《父辈的荣耀》第22集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230908210300 +0800" stop="20230908220000 +0800">
-		<title lang="zh">父辈的荣耀22/30</title>
+		<title lang="zh">父辈的荣耀第22集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230908220000 +0800" stop="20230908223300 +0800">
@@ -1911,28 +1911,28 @@
 		<title lang="zh">实况录像-2023年世界举重锦标赛 女子59公斤级决赛（录播）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230909135500 +0800" stop="20230909170500 +0800">
+	<programme  channel="cctv5" start="20230909135500 +0800" stop="20230909170000 +0800">
 		<title lang="zh">2023年乒乓球亚洲锦标赛-混双决赛等</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230909170500 +0800" stop="20230909180000 +0800">
-		<title lang="zh">足球之夜</title>
+	<programme  channel="cctv5" start="20230909170000 +0800" stop="20230909180000 +0800">
+		<title lang="zh">实况录像-2023年世界举重锦标赛 女子49公斤级决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230909180000 +0800" stop="20230909183500 +0800">
 		<title lang="zh">体育新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230909183500 +0800" stop="20230909203500 +0800">
-		<title lang="zh">实况录像-2023年世界田联钻石联赛 布鲁塞尔站（录播）</title>
+	<programme  channel="cctv5" start="20230909183500 +0800" stop="20230909193000 +0800">
+		<title lang="zh">足球之夜</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230909203500 +0800" stop="20230909223500 +0800">
+	<programme  channel="cctv5" start="20230909193000 +0800" stop="20230909214500 +0800">
+		<title lang="zh">2023年国际足球邀请赛-中国队-马来西亚队</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230909214500 +0800" stop="20230909235900 +0800">
 		<title lang="zh">实况录像-2023年亚洲乒乓球锦标赛 决赛（录播）1</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme  channel="cctv5" start="20230909223500 +0800" stop="20230909235900 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2023年世界田径锦标赛4（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv5plus">
@@ -2404,6 +2404,430 @@
 	<channel id="cctv7">
 		<display-name lang="cn">CCTV-7 国防军事</display-name>
 	</channel>
+	<programme  channel="cctv7" start="20230907001000 +0800" stop="20230907004800 +0800">
+		<title lang="zh">兵器面面观-2023-162</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907004800 +0800" stop="20230907060300 +0800">
+		<title lang="zh">再见</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907060300 +0800" stop="20230907063400 +0800">
+		<title lang="zh">军事纪实-2023-178</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907063400 +0800" stop="20230907065900 +0800">
+		<title lang="zh">国防故事-2023-125</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907065900 +0800" stop="20230907070200 +0800">
+		<title lang="zh">国防微视频-军歌嘹亮-向前飞+1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907070200 +0800" stop="20230907073000 +0800">
+		<title lang="zh">世界战史-2023-109</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907073000 +0800" stop="20230907075800 +0800">
+		<title lang="zh">国防军事早报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907075800 +0800" stop="20230907090200 +0800">
+		<title lang="zh">讲武堂-2023-36</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907090200 +0800" stop="20230907093400 +0800">
+		<title lang="zh">防务新观察-2023-178</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907093400 +0800" stop="20230907100400 +0800">
+		<title lang="zh">军事纪实-2023-178</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907100400 +0800" stop="20230907103300 +0800">
+		<title lang="zh">兵器面面观-2023-162</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907103300 +0800" stop="20230907110000 +0800">
+		<title lang="zh">世界战史-2023-109</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907110000 +0800" stop="20230907112700 +0800">
+		<title lang="zh">国防故事-2023-125</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907112700 +0800" stop="20230907115200 +0800">
+		<title lang="zh">军事纪录-2023-29</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907115200 +0800" stop="20230907120000 +0800">
+		<title lang="zh">国防微视频-军歌嘹亮-强军有我+全军种</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907120000 +0800" stop="20230907123300 +0800">
+		<title lang="zh">正午国防军事</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907123300 +0800" stop="20230907130700 +0800">
+		<title lang="zh">防务新观察-2023-178</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907130700 +0800" stop="20230907133700 +0800">
+		<title lang="zh">军营的味道-2023-25</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907133700 +0800" stop="20230907140700 +0800">
+		<title lang="zh">兵器面面观-2023-162</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907140700 +0800" stop="20230907143700 +0800">
+		<title lang="zh">军事纪录-2023-29</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907143700 +0800" stop="20230907152700 +0800">
+		<title lang="zh">老虎队9/45</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907152700 +0800" stop="20230907161500 +0800">
+		<title lang="zh">老虎队10/45</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907161500 +0800" stop="20230907170300 +0800">
+		<title lang="zh">老虎队11/45</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907170300 +0800" stop="20230907173000 +0800">
+		<title lang="zh">世界战史-2023-110</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907173000 +0800" stop="20230907175500 +0800">
+		<title lang="zh">军事纪录-2023-30</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907175500 +0800" stop="20230907180200 +0800">
+		<title lang="zh">国防微视频-军歌嘹亮-强军有我+全军种</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907180200 +0800" stop="20230907182900 +0800">
+		<title lang="zh">兵器面面观-2023-163</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907182900 +0800" stop="20230907190000 +0800">
+		<title lang="zh">国防故事-2023-126</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907190000 +0800" stop="20230907193300 +0800">
+		<title lang="zh">新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907193300 +0800" stop="20230907200300 +0800">
+		<title lang="zh">军事报道</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907200300 +0800" stop="20230907200900 +0800">
+		<title lang="zh">国防微视频-军歌嘹亮-向前飞+1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907200900 +0800" stop="20230907204500 +0800">
+		<title lang="zh">防务新观察-2023-179</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907204500 +0800" stop="20230907211900 +0800">
+		<title lang="zh">军事纪实-2023-179</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907211900 +0800" stop="20230907215500 +0800">
+		<title lang="zh">砺剑-2023-36</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907215500 +0800" stop="20230907224500 +0800">
+		<title lang="zh">换了人间20/40</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907224500 +0800" stop="20230907233600 +0800">
+		<title lang="zh">换了人间21/40</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230907233600 +0800" stop="20230907235900 +0800">
+		<title lang="zh">军事纪实-2023-179</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908001000 +0800" stop="20230908004800 +0800">
+		<title lang="zh">兵器面面观-2023-163</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908004800 +0800" stop="20230908060300 +0800">
+		<title lang="zh">再见</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908060300 +0800" stop="20230908063400 +0800">
+		<title lang="zh">军事纪实-2023-179</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908063400 +0800" stop="20230908065900 +0800">
+		<title lang="zh">国防故事-2023-126</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908065900 +0800" stop="20230908070200 +0800">
+		<title lang="zh">国防微视频-军歌嘹亮-新一代革命军人最荣光-全军种1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908070200 +0800" stop="20230908073000 +0800">
+		<title lang="zh">世界战史-2023-110</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908073000 +0800" stop="20230908075800 +0800">
+		<title lang="zh">国防军事早报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908075800 +0800" stop="20230908090200 +0800">
+		<title lang="zh">谁是终极英雄-2023-36</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908090200 +0800" stop="20230908093400 +0800">
+		<title lang="zh">防务新观察-2023-179</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908093400 +0800" stop="20230908100400 +0800">
+		<title lang="zh">军事纪实-2023-179</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908100400 +0800" stop="20230908103300 +0800">
+		<title lang="zh">兵器面面观-2023-163</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908103300 +0800" stop="20230908110100 +0800">
+		<title lang="zh">世界战史-2023-110</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908110100 +0800" stop="20230908112800 +0800">
+		<title lang="zh">国防故事-2023-126</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908112800 +0800" stop="20230908115300 +0800">
+		<title lang="zh">军事纪录-2023-30</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908115300 +0800" stop="20230908120000 +0800">
+		<title lang="zh">国防微视频-军歌嘹亮-雪域点兵+西藏</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908120000 +0800" stop="20230908123300 +0800">
+		<title lang="zh">正午国防军事</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908123300 +0800" stop="20230908130700 +0800">
+		<title lang="zh">防务新观察-2023-179</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908130700 +0800" stop="20230908134200 +0800">
+		<title lang="zh">军迷行天下-2023-36</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908134200 +0800" stop="20230908140900 +0800">
+		<title lang="zh">兵器面面观-2023-163</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908140900 +0800" stop="20230908143700 +0800">
+		<title lang="zh">军事纪录-2023-30</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908143700 +0800" stop="20230908152700 +0800">
+		<title lang="zh">老虎队12/45</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908152700 +0800" stop="20230908161500 +0800">
+		<title lang="zh">老虎队13/45</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908161500 +0800" stop="20230908170300 +0800">
+		<title lang="zh">老虎队14/45</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908170300 +0800" stop="20230908173000 +0800">
+		<title lang="zh">世界战史-2023-111</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908173000 +0800" stop="20230908175500 +0800">
+		<title lang="zh">军事纪录-2023-31</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908175500 +0800" stop="20230908180200 +0800">
+		<title lang="zh">国防微视频-军歌嘹亮-雪域点兵+西藏</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908180200 +0800" stop="20230908182900 +0800">
+		<title lang="zh">兵器面面观-2023-164</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908182900 +0800" stop="20230908190000 +0800">
+		<title lang="zh">国防故事-2023-127</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908190000 +0800" stop="20230908193300 +0800">
+		<title lang="zh">新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908193300 +0800" stop="20230908200300 +0800">
+		<title lang="zh">军事报道</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908200300 +0800" stop="20230908200900 +0800">
+		<title lang="zh">国防微视频-军歌嘹亮-新一代革命军人最荣光-全军种1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908200900 +0800" stop="20230908204500 +0800">
+		<title lang="zh">防务新观察-2023-180</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908204500 +0800" stop="20230908211900 +0800">
+		<title lang="zh">军事纪实-2023-180</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908211900 +0800" stop="20230908215500 +0800">
+		<title lang="zh">第二战场-2022-4</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908215500 +0800" stop="20230908224500 +0800">
+		<title lang="zh">换了人间22/40</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908224500 +0800" stop="20230908233600 +0800">
+		<title lang="zh">换了人间23/40</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230908233600 +0800" stop="20230908235900 +0800">
+		<title lang="zh">军事纪实-2023-180</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909001000 +0800" stop="20230909004800 +0800">
+		<title lang="zh">兵器面面观-2023-164</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909004800 +0800" stop="20230909060300 +0800">
+		<title lang="zh">再见</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909060300 +0800" stop="20230909063400 +0800">
+		<title lang="zh">军事纪实-2023-180</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909063400 +0800" stop="20230909070400 +0800">
+		<title lang="zh">砺剑-2023-36</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909070400 +0800" stop="20230909073000 +0800">
+		<title lang="zh">国防故事-2023-127</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909073000 +0800" stop="20230909075800 +0800">
+		<title lang="zh">国防军事早报</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909075800 +0800" stop="20230909082700 +0800">
+		<title lang="zh">兵器面面观-2023-164</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909082700 +0800" stop="20230909085900 +0800">
+		<title lang="zh">防务新观察-2023-180</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909085900 +0800" stop="20230909093300 +0800">
+		<title lang="zh">军事纪实-2023-180</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909093300 +0800" stop="20230909100700 +0800">
+		<title lang="zh">军迷行天下-2023-36</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909100700 +0800" stop="20230909120000 +0800">
+		<title lang="zh">五星剧场-洪湖赤卫队（高清文件）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909120000 +0800" stop="20230909123300 +0800">
+		<title lang="zh">正午国防军事</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909123300 +0800" stop="20230909130800 +0800">
+		<title lang="zh">防务新观察-2023-180</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909130800 +0800" stop="20230909133800 +0800">
+		<title lang="zh">军武零距离-2023-36(4K)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909133800 +0800" stop="20230909134400 +0800">
+		<title lang="zh">国防微视频-军歌嘹亮-就为打胜仗+全军种1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909134400 +0800" stop="20230909141700 +0800">
+		<title lang="zh">军迷行天下-2023-36</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909141700 +0800" stop="20230909150600 +0800">
+		<title lang="zh">老虎队15/45</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909150600 +0800" stop="20230909155400 +0800">
+		<title lang="zh">老虎队16/45</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909155400 +0800" stop="20230909164300 +0800">
+		<title lang="zh">老虎队17/45</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909164300 +0800" stop="20230909171800 +0800">
+		<title lang="zh">军事科技-2023-36</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909171800 +0800" stop="20230909174800 +0800">
+		<title lang="zh">第二战场-2022-4</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909174800 +0800" stop="20230909175400 +0800">
+		<title lang="zh">国防微视频-军歌嘹亮-就为打胜仗+全军种1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909175400 +0800" stop="20230909182900 +0800">
+		<title lang="zh">砺剑-2023-36</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909182900 +0800" stop="20230909190000 +0800">
+		<title lang="zh">军营的味道-2023-26</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909190000 +0800" stop="20230909193300 +0800">
+		<title lang="zh">新闻联播</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909193300 +0800" stop="20230909200300 +0800">
+		<title lang="zh">军事报道</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909200300 +0800" stop="20230909200900 +0800">
+		<title lang="zh">国防微视频-军歌嘹亮-唱给大海（2023年）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909200900 +0800" stop="20230909204500 +0800">
+		<title lang="zh">军事制高点-2023-72</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909204500 +0800" stop="20230909215400 +0800">
+		<title lang="zh">老兵你好-2023-36</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909215400 +0800" stop="20230909224300 +0800">
+		<title lang="zh">换了人间24/40</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909224300 +0800" stop="20230909233300 +0800">
+		<title lang="zh">换了人间25/40</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv7" start="20230909233300 +0800" stop="20230909235900 +0800">
+		<title lang="zh">军事制高点-2023-72</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<channel id="cctv8">
 		<display-name lang="cn">CCTV-8 电视剧</display-name>
 	</channel>
@@ -2704,7 +3128,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230908192500 +0800" stop="20230908193000 +0800">
-		<title lang="zh">本集提要-《骄阳伴我》14/36</title>
+		<title lang="zh">本集提要- 《骄阳伴我》第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230908193000 +0800" stop="20230908202500 +0800">
@@ -2712,15 +3136,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230908202500 +0800" stop="20230908203000 +0800">
-		<title lang="zh">本集提要-《骄阳伴我》15/36</title>
+		<title lang="zh">本集提要- 《骄阳伴我》第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230908203000 +0800" stop="20230908212500 +0800">
-		<title lang="zh">骄阳伴我15/36</title>
+		<title lang="zh">骄阳伴我第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230908212500 +0800" stop="20230908213000 +0800">
-		<title lang="zh">本集提要-《蜂巢》23/42</title>
+		<title lang="zh">本集提要- 《蜂巢》第23集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230908213000 +0800" stop="20230908222000 +0800">
@@ -2728,7 +3152,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230908222000 +0800" stop="20230908222300 +0800">
-		<title lang="zh">本集提要-《蜂巢》24/42</title>
+		<title lang="zh">本集提要- 《蜂巢》第24集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230908222300 +0800" stop="20230908231100 +0800">
@@ -2876,7 +3300,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230909193000 +0800" stop="20230909202500 +0800">
-		<title lang="zh">骄阳伴我16/36</title>
+		<title lang="zh">骄阳伴我第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230909202500 +0800" stop="20230909203000 +0800">
@@ -2884,11 +3308,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230909203000 +0800" stop="20230909212500 +0800">
-		<title lang="zh">骄阳伴我17/36</title>
+		<title lang="zh">骄阳伴我第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230909212500 +0800" stop="20230909213000 +0800">
-		<title lang="zh">本集提要-《蜂巢》25/42</title>
+		<title lang="zh">本集提要- 《蜂巢》第25集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230909213000 +0800" stop="20230909222000 +0800">
@@ -2896,7 +3320,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230909222000 +0800" stop="20230909222300 +0800">
-		<title lang="zh">本集提要-《蜂巢》26/42</title>
+		<title lang="zh">本集提要- 《蜂巢》第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230909222300 +0800" stop="20230909231100 +0800">
@@ -5967,11 +6391,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230909085900 +0800" stop="20230909094600 +0800">
-		<title lang="zh">曾少年-(4K)-20/35</title>
+		<title lang="zh">曾少年-（4K）-20/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230909094600 +0800" stop="20230909103200 +0800">
-		<title lang="zh">曾少年-(4K)-21/35</title>
+		<title lang="zh">曾少年-（4K）-21/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230909103200 +0800" stop="20230909103200 +0800">
@@ -6111,11 +6535,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230909195900 +0800" stop="20230909204600 +0800">
-		<title lang="zh">曾少年-(4K)-22/35</title>
+		<title lang="zh">曾少年-（4K）-22/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230909204600 +0800" stop="20230909213200 +0800">
-		<title lang="zh">曾少年-(4K)-23/35</title>
+		<title lang="zh">曾少年-（4K）-23/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230909213200 +0800" stop="20230909213200 +0800">

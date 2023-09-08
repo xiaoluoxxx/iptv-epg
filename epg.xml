@@ -4700,15 +4700,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230908200600 +0800" stop="20230908205800 +0800" channel="cctv1">
-		<title lang="zh">父辈的荣耀21/30</title>
+		<title lang="zh">父辈的荣耀第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230908205800 +0800" stop="20230908210300 +0800" channel="cctv1">
-		<title lang="zh">前情提要-《父辈的荣耀》22/30</title>
+		<title lang="zh">前情提要- 《父辈的荣耀》第22集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230908210300 +0800" stop="20230908220000 +0800" channel="cctv1">
-		<title lang="zh">父辈的荣耀22/30</title>
+		<title lang="zh">父辈的荣耀第22集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230908220000 +0800" stop="20230908223300 +0800" channel="cctv1">
@@ -5660,7 +5660,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230908192500 +0800" stop="20230908193000 +0800" channel="cctv8">
-		<title lang="zh">本集提要-《骄阳伴我》14/36</title>
+		<title lang="zh">本集提要- 《骄阳伴我》第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230908193000 +0800" stop="20230908202500 +0800" channel="cctv8">
@@ -5668,15 +5668,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230908202500 +0800" stop="20230908203000 +0800" channel="cctv8">
-		<title lang="zh">本集提要-《骄阳伴我》15/36</title>
+		<title lang="zh">本集提要- 《骄阳伴我》第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230908203000 +0800" stop="20230908212500 +0800" channel="cctv8">
-		<title lang="zh">骄阳伴我15/36</title>
+		<title lang="zh">骄阳伴我第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230908212500 +0800" stop="20230908213000 +0800" channel="cctv8">
-		<title lang="zh">本集提要-《蜂巢》23/42</title>
+		<title lang="zh">本集提要- 《蜂巢》第23集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230908213000 +0800" stop="20230908222000 +0800" channel="cctv8">
@@ -5684,7 +5684,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230908222000 +0800" stop="20230908222300 +0800" channel="cctv8">
-		<title lang="zh">本集提要-《蜂巢》24/42</title>
+		<title lang="zh">本集提要- 《蜂巢》第24集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230908222300 +0800" stop="20230908231100 +0800" channel="cctv8">
@@ -7355,28 +7355,28 @@
 		<title lang="zh">实况录像-2023年世界举重锦标赛 女子59公斤级决赛（录播）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230909135500 +0800" stop="20230909170500 +0800" channel="cctv5">
+	<programme start="20230909135500 +0800" stop="20230909170000 +0800" channel="cctv5">
 		<title lang="zh">2023年乒乓球亚洲锦标赛-混双决赛等</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230909170500 +0800" stop="20230909180000 +0800" channel="cctv5">
-		<title lang="zh">足球之夜</title>
+	<programme start="20230909170000 +0800" stop="20230909180000 +0800" channel="cctv5">
+		<title lang="zh">实况录像-2023年世界举重锦标赛 女子49公斤级决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230909180000 +0800" stop="20230909183500 +0800" channel="cctv5">
 		<title lang="zh">体育新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230909183500 +0800" stop="20230909203500 +0800" channel="cctv5">
-		<title lang="zh">实况录像-2023年世界田联钻石联赛 布鲁塞尔站（录播）</title>
+	<programme start="20230909183500 +0800" stop="20230909193000 +0800" channel="cctv5">
+		<title lang="zh">足球之夜</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230909203500 +0800" stop="20230909223500 +0800" channel="cctv5">
+	<programme start="20230909193000 +0800" stop="20230909214500 +0800" channel="cctv5">
+		<title lang="zh">2023年国际足球邀请赛-中国队-马来西亚队</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230909214500 +0800" stop="20230909235900 +0800" channel="cctv5">
 		<title lang="zh">实况录像-2023年亚洲乒乓球锦标赛 决赛（录播）1</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme start="20230909223500 +0800" stop="20230909235900 +0800" channel="cctv5">
-		<title lang="zh">实况录像（奥林匹克）-2023年世界田径锦标赛4（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230909000500 +0800" stop="20230909010600 +0800" channel="cctv5plus">
@@ -7788,7 +7788,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230909193000 +0800" stop="20230909202500 +0800" channel="cctv8">
-		<title lang="zh">骄阳伴我16/36</title>
+		<title lang="zh">骄阳伴我第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230909202500 +0800" stop="20230909203000 +0800" channel="cctv8">
@@ -7796,11 +7796,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230909203000 +0800" stop="20230909212500 +0800" channel="cctv8">
-		<title lang="zh">骄阳伴我17/36</title>
+		<title lang="zh">骄阳伴我第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230909212500 +0800" stop="20230909213000 +0800" channel="cctv8">
-		<title lang="zh">本集提要-《蜂巢》25/42</title>
+		<title lang="zh">本集提要- 《蜂巢》第25集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230909213000 +0800" stop="20230909222000 +0800" channel="cctv8">
@@ -7808,7 +7808,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230909222000 +0800" stop="20230909222300 +0800" channel="cctv8">
-		<title lang="zh">本集提要-《蜂巢》26/42</title>
+		<title lang="zh">本集提要- 《蜂巢》第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230909222300 +0800" stop="20230909231100 +0800" channel="cctv8">
@@ -8704,11 +8704,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230909085900 +0800" stop="20230909094600 +0800" channel="cctv4k">
-		<title lang="zh">曾少年-(4K)-20/35</title>
+		<title lang="zh">曾少年-（4K）-20/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230909094600 +0800" stop="20230909103200 +0800" channel="cctv4k">
-		<title lang="zh">曾少年-(4K)-21/35</title>
+		<title lang="zh">曾少年-（4K）-21/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230909103200 +0800" stop="20230909103200 +0800" channel="cctv4k">
@@ -8848,11 +8848,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230909195900 +0800" stop="20230909204600 +0800" channel="cctv4k">
-		<title lang="zh">曾少年-(4K)-22/35</title>
+		<title lang="zh">曾少年-（4K）-22/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230909204600 +0800" stop="20230909213200 +0800" channel="cctv4k">
-		<title lang="zh">曾少年-(4K)-23/35</title>
+		<title lang="zh">曾少年-（4K）-23/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230909213200 +0800" stop="20230909213200 +0800" channel="cctv4k">
@@ -9004,7 +9004,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910200600 +0800" stop="20230910214800 +0800" channel="cctv1">
-		<title lang="zh">专题节目-1</title>
+		<title lang="zh">闪亮的名字2023-最美教师发布仪式</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910214800 +0800" stop="20230910220000 +0800" channel="cctv1">
@@ -9192,7 +9192,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910072500 +0800" stop="20230910082200 +0800" channel="cctv3">
-		<title lang="zh">我的艺术清单-2023-34</title>
+		<title lang="zh">我的艺术清单-2023-32</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910082200 +0800" stop="20230910094300 +0800" channel="cctv3">
@@ -9411,12 +9411,12 @@
 		<title lang="zh">今生有你14/30</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230910000500 +0800" stop="20230910010500 +0800" channel="cctv5">
-		<title lang="zh">实况录像-2023年蹦床世界杯 美国站 1</title>
+	<programme start="20230910000000 +0800" stop="20230910020500 +0800" channel="cctv5">
+		<title lang="zh">2023年世界举重锦标赛-男子73公斤级决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230910010500 +0800" stop="20230910023600 +0800" channel="cctv5">
-		<title lang="zh">2023年世界羽毛球锦标赛-4</title>
+	<programme start="20230910020500 +0800" stop="20230910023600 +0800" channel="cctv5">
+		<title lang="zh">赛事集锦(高清体育)-2023-77-2023年射箭世界杯 巴黎站1</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910023600 +0800" stop="20230910040000 +0800" channel="cctv5">
@@ -9631,8 +9631,12 @@
 		<title lang="zh">夺宝奇兵1 法柜奇兵（下）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230910000700 +0800" stop="20230910060300 +0800" channel="cctv7">
+	<programme start="20230910000700 +0800" stop="20230910005000 +0800" channel="cctv7">
 		<title lang="zh">第二战场-2022-4</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230910005000 +0800" stop="20230910060300 +0800" channel="cctv7">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910060300 +0800" stop="20230910063400 +0800" channel="cctv7">
@@ -10459,8 +10463,12 @@
 		<title lang="zh">江山如画-系列交响音乐会-北京场</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230910011600 +0800" stop="20230910060000 +0800" channel="cctv15">
+	<programme start="20230910011600 +0800" stop="20230910014800 +0800" channel="cctv15">
 		<title lang="zh">风华国乐-2023-255</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230910014800 +0800" stop="20230910060000 +0800" channel="cctv15">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910060000 +0800" stop="20230910063300 +0800" channel="cctv15">
@@ -10757,6 +10765,10 @@
 	</programme>
 	<programme start="20230910231500 +0800" stop="20230910235900 +0800" channel="cctv17">
 		<title lang="zh">乡村大舞台-2023-25</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230910000000 +0800" stop="20230910060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910060000 +0800" stop="20230910060100 +0800" channel="cctv4k">
