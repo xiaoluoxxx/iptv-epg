@@ -7228,11 +7228,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910230200 +0800" stop="20230910234800 +0800" channel="cctv4">
-		<title lang="zh">今生有你13/30</title>
+		<title lang="zh">今生有你第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910234800 +0800" stop="20230910235900 +0800" channel="cctv4">
-		<title lang="zh">今生有你14/30</title>
+		<title lang="zh">今生有你第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910000000 +0800" stop="20230910020500 +0800" channel="cctv5">
@@ -8640,11 +8640,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910085900 +0800" stop="20230910094500 +0800" channel="cctv4k">
-		<title lang="zh">曾少年-(4K)-22/35</title>
+		<title lang="zh">曾少年-（4K）-22/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910094500 +0800" stop="20230910103100 +0800" channel="cctv4k">
-		<title lang="zh">曾少年-(4K)-23/35</title>
+		<title lang="zh">曾少年-（4K）-23/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910103100 +0800" stop="20230910103200 +0800" channel="cctv4k">
@@ -8788,11 +8788,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910195800 +0800" stop="20230910204600 +0800" channel="cctv4k">
-		<title lang="zh">曾少年-(4K)-24/35</title>
+		<title lang="zh">曾少年-（4K）-24/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910204600 +0800" stop="20230910213200 +0800" channel="cctv4k">
-		<title lang="zh">曾少年-(4K)-25/35</title>
+		<title lang="zh">曾少年-（4K）-25/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230910213200 +0800" stop="20230910213200 +0800" channel="cctv4k">
@@ -9232,7 +9232,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230911003400 +0800" stop="20230911012200 +0800" channel="cctv4">
-		<title lang="zh">今生有你15/30</title>
+		<title lang="zh">今生有你第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230911012200 +0800" stop="20230911015000 +0800" channel="cctv4">
@@ -10813,6 +10813,10 @@
 	</programme>
 	<programme start="20230911235000 +0800" stop="20230911235900 +0800" channel="cctv17">
 		<title lang="zh">超级农人秀-2023-37</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230911000000 +0800" stop="20230911060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230911060000 +0800" stop="20230911060100 +0800" channel="cctv4k">

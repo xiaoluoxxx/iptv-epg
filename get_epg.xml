@@ -1633,11 +1633,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230910230200 +0800" stop="20230910234800 +0800">
-		<title lang="zh">今生有你13/30</title>
+		<title lang="zh">今生有你第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230910234800 +0800" stop="20230910235900 +0800">
-		<title lang="zh">今生有你14/30</title>
+		<title lang="zh">今生有你第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv5">
@@ -6315,11 +6315,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230910085900 +0800" stop="20230910094500 +0800">
-		<title lang="zh">曾少年-(4K)-22/35</title>
+		<title lang="zh">曾少年-（4K）-22/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230910094500 +0800" stop="20230910103100 +0800">
-		<title lang="zh">曾少年-(4K)-23/35</title>
+		<title lang="zh">曾少年-（4K）-23/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230910103100 +0800" stop="20230910103200 +0800">
@@ -6463,11 +6463,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230910195800 +0800" stop="20230910204600 +0800">
-		<title lang="zh">曾少年-(4K)-24/35</title>
+		<title lang="zh">曾少年-（4K）-24/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230910204600 +0800" stop="20230910213200 +0800">
-		<title lang="zh">曾少年-(4K)-25/35</title>
+		<title lang="zh">曾少年-（4K）-25/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230910213200 +0800" stop="20230910213200 +0800">
