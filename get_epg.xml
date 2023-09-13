@@ -440,7 +440,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230914200600 +0800" stop="20230914205700 +0800">
-		<title lang="zh">父辈的荣耀29/30</title>
+		<title lang="zh">父辈的荣耀第29集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230914205700 +0800" stop="20230914210100 +0800">
@@ -448,7 +448,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230914210100 +0800" stop="20230914220000 +0800">
-		<title lang="zh">父辈的荣耀30/30</title>
+		<title lang="zh">父辈的荣耀第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230914220000 +0800" stop="20230914223400 +0800">
@@ -919,7 +919,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv2" start="20230914231500 +0800" stop="20230914235000 +0800">
-		<title lang="zh">周末特供2023-1202</title>
+		<title lang="zh">品牌强国之路第二季-方特</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv2" start="20230914235000 +0800" stop="20230914235900 +0800">
@@ -1504,12 +1504,12 @@
 		<title lang="zh">激情的岁月-(四套)-26/36</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230913150000 +0800" stop="20230913160100 +0800">
+	<programme  channel="cctv4" start="20230913150000 +0800" stop="20230913161400 +0800">
 		<title lang="zh">2023年国新办发布会-41</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230913160100 +0800" stop="20230913163100 +0800">
-		<title lang="zh">国家记忆-2023-122</title>
+	<programme  channel="cctv4" start="20230913161400 +0800" stop="20230913163100 +0800">
+		<title lang="zh">中国新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230913163100 +0800" stop="20230913171500 +0800">
@@ -1636,27 +1636,23 @@
 		<title lang="zh">今日环球</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230914090000 +0800" stop="20230914093000 +0800">
+	<programme  channel="cctv4" start="20230914090000 +0800" stop="20230914092800 +0800">
 		<title lang="zh">今日亚洲</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230914093000 +0800" stop="20230914100000 +0800">
+	<programme  channel="cctv4" start="20230914092800 +0800" stop="20230914100000 +0800">
 		<title lang="zh">中国文艺-2023-183</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230914100000 +0800" stop="20230914101200 +0800">
-		<title lang="zh">中国新闻</title>
+	<programme  channel="cctv4" start="20230914100000 +0800" stop="20230914110000 +0800">
+		<title lang="zh">2023年国新办发布会-42</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230914101200 +0800" stop="20230914105700 +0800">
-		<title lang="zh">远方的家2023-92(4K)</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme  channel="cctv4" start="20230914105700 +0800" stop="20230914112800 +0800">
+	<programme  channel="cctv4" start="20230914110000 +0800" stop="20230914113000 +0800">
 		<title lang="zh">国家记忆-2023-123</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20230914112800 +0800" stop="20230914120000 +0800">
+	<programme  channel="cctv4" start="20230914113000 +0800" stop="20230914120000 +0800">
 		<title lang="zh">海峡两岸-2023-256</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -1669,23 +1665,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230914133400 +0800" stop="20230914141800 +0800">
-		<title lang="zh">激情的岁月-(四套)-30/36</title>
+		<title lang="zh">激情的岁月-(四套)-28/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230914141800 +0800" stop="20230914150200 +0800">
-		<title lang="zh">激情的岁月-(四套)-31/36</title>
+		<title lang="zh">激情的岁月-(四套)-29/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230914150200 +0800" stop="20230914154600 +0800">
-		<title lang="zh">激情的岁月-(四套)-32/36</title>
+		<title lang="zh">激情的岁月-(四套)-30/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230914154600 +0800" stop="20230914162900 +0800">
-		<title lang="zh">激情的岁月-(四套)-33/36</title>
+		<title lang="zh">激情的岁月-(四套)-31/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230914162900 +0800" stop="20230914171500 +0800">
-		<title lang="zh">激情的岁月-(四套)-34/36</title>
+		<title lang="zh">激情的岁月-(四套)-32/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230914171500 +0800" stop="20230914180000 +0800">
@@ -3208,19 +3204,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230913192500 +0800" stop="20230913193000 +0800">
-		<title lang="zh">本集提要-《骄阳伴我》24/36</title>
+		<title lang="zh">本集提要- 《骄阳伴我》第24集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230913193000 +0800" stop="20230913202500 +0800">
-		<title lang="zh">骄阳伴我24/36</title>
+		<title lang="zh">骄阳伴我第24集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230913202500 +0800" stop="20230913203000 +0800">
-		<title lang="zh">本集提要-《骄阳伴我》25/36</title>
+		<title lang="zh">本集提要- 《骄阳伴我》第25集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230913203000 +0800" stop="20230913212500 +0800">
-		<title lang="zh">骄阳伴我25/36</title>
+		<title lang="zh">骄阳伴我第25集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230913212500 +0800" stop="20230913213000 +0800">
@@ -3404,7 +3400,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230914213000 +0800" stop="20230914222000 +0800">
-		<title lang="zh">蜂巢34/42</title>
+		<title lang="zh">蜂巢第34集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230914222000 +0800" stop="20230914222200 +0800">
@@ -3412,7 +3408,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230914222200 +0800" stop="20230914231100 +0800">
-		<title lang="zh">蜂巢35/42</title>
+		<title lang="zh">蜂巢第35集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230914231100 +0800" stop="20230914235700 +0800">
@@ -6779,7 +6775,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230914204600 +0800" stop="20230914213200 +0800">
-		<title lang="zh">曾少年-(4K)-33/35</title>
+		<title lang="zh">曾少年-（4K）-33/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230914213200 +0800" stop="20230914213300 +0800">
