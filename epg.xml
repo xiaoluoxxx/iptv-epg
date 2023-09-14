@@ -10743,8 +10743,12 @@
 		<title lang="zh">风车剧场-2023-284</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20230916012600 +0800" stop="20230916060000 +0800" channel="cctvchild">
+	<programme start="20230916012600 +0800" stop="20230916020000 +0800" channel="cctvchild">
 		<title lang="zh">风车剧场-2023-285</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230916020000 +0800" stop="20230916060000 +0800" channel="cctvchild">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230916060000 +0800" stop="20230916070000 +0800" channel="cctvchild">
