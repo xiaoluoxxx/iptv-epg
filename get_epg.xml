@@ -4253,11 +4253,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230917111100 +0800" stop="20230917120100 +0800">
-		<title lang="zh">理想之城32/40</title>
+		<title lang="zh">理想之城第32集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230917120100 +0800" stop="20230917125200 +0800">
-		<title lang="zh">理想之城33/40</title>
+		<title lang="zh">理想之城第33集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230917125200 +0800" stop="20230917141100 +0800">
@@ -4269,11 +4269,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230917171300 +0800" stop="20230917180300 +0800">
-		<title lang="zh">天龙八部30/50</title>
+		<title lang="zh">天龙八部第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230917180300 +0800" stop="20230917190000 +0800">
-		<title lang="zh">天龙八部31/50</title>
+		<title lang="zh">天龙八部第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230917190000 +0800" stop="20230917193000 +0800">
@@ -4293,11 +4293,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230917225300 +0800" stop="20230917234300 +0800">
-		<title lang="zh">温州三家人17/36</title>
+		<title lang="zh">温州三家人第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20230917234300 +0800" stop="20230917235900 +0800">
-		<title lang="zh">温州三家人18/36</title>
+		<title lang="zh">温州三家人第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv12">
