@@ -300,7 +300,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230920200600 +0800" stop="20230920205700 +0800">
-		<title lang="zh">大道薪火7/33</title>
+		<title lang="zh">大道薪火第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230920205700 +0800" stop="20230920210200 +0800">
@@ -308,7 +308,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230920210200 +0800" stop="20230920220000 +0800">
-		<title lang="zh">大道薪火8/33</title>
+		<title lang="zh">大道薪火第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230920220000 +0800" stop="20230920223500 +0800">
@@ -456,7 +456,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230921200100 +0800" stop="20230921200600 +0800">
-		<title lang="zh">前情提要-《大道薪火》9/33</title>
+		<title lang="zh">前情提要- 《大道薪火》第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230921200600 +0800" stop="20230921205600 +0800">
@@ -464,7 +464,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230921205600 +0800" stop="20230921210000 +0800">
-		<title lang="zh">前情提要-《大道薪火》10/33</title>
+		<title lang="zh">前情提要- 《大道薪火》第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20230921210000 +0800" stop="20230921220000 +0800">
@@ -3268,19 +3268,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230920193000 +0800" stop="20230920202500 +0800">
-		<title lang="zh">好事成双2/36</title>
+		<title lang="zh">好事成双第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230920202500 +0800" stop="20230920203000 +0800">
-		<title lang="zh">本集提要-《好事成双》3/36</title>
+		<title lang="zh">本集提要- 《好事成双》第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230920203000 +0800" stop="20230920212700 +0800">
-		<title lang="zh">好事成双3/36</title>
+		<title lang="zh">好事成双第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230920212700 +0800" stop="20230920213100 +0800">
-		<title lang="zh">本集提要-《爱在青山绿水间》3/33</title>
+		<title lang="zh">本集提要- 《爱在青山绿水间》第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230920213100 +0800" stop="20230920222200 +0800">
@@ -3288,7 +3288,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230920222200 +0800" stop="20230920222400 +0800">
-		<title lang="zh">本集提要-《爱在青山绿水间》4/33</title>
+		<title lang="zh">本集提要- 《爱在青山绿水间》第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230920222400 +0800" stop="20230920231300 +0800">
@@ -3440,11 +3440,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230921192500 +0800" stop="20230921193000 +0800">
-		<title lang="zh">本集提要-《好事成双》4/36</title>
+		<title lang="zh">本集提要- 《好事成双》第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230921193000 +0800" stop="20230921202500 +0800">
-		<title lang="zh">好事成双4/36</title>
+		<title lang="zh">好事成双第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230921202500 +0800" stop="20230921203000 +0800">
@@ -3452,11 +3452,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230921203000 +0800" stop="20230921212700 +0800">
-		<title lang="zh">好事成双5/36</title>
+		<title lang="zh">好事成双第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230921212700 +0800" stop="20230921213100 +0800">
-		<title lang="zh">本集提要-《爱在青山绿水间》5/33</title>
+		<title lang="zh">本集提要- 《爱在青山绿水间》第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230921213100 +0800" stop="20230921222200 +0800">
@@ -3464,7 +3464,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230921222200 +0800" stop="20230921222400 +0800">
-		<title lang="zh">本集提要-《爱在青山绿水间》6/33</title>
+		<title lang="zh">本集提要- 《爱在青山绿水间》第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230921222400 +0800" stop="20230921231300 +0800">
@@ -6080,11 +6080,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230921101700 +0800" stop="20230921110800 +0800">
-		<title lang="zh">兰桐花开33/42</title>
+		<title lang="zh">兰桐花开第33集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230921110800 +0800" stop="20230921120000 +0800">
-		<title lang="zh">兰桐花开34/42</title>
+		<title lang="zh">兰桐花开第34集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230921120000 +0800" stop="20230921122700 +0800">
@@ -6108,19 +6108,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230921133800 +0800" stop="20230921142900 +0800">
-		<title lang="zh">初婚30/35</title>
+		<title lang="zh">初婚第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230921142900 +0800" stop="20230921152000 +0800">
-		<title lang="zh">初婚31/35</title>
+		<title lang="zh">初婚第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230921152000 +0800" stop="20230921161000 +0800">
-		<title lang="zh">初婚32/35</title>
+		<title lang="zh">初婚第32集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230921161000 +0800" stop="20230921170000 +0800">
-		<title lang="zh">初婚33/35</title>
+		<title lang="zh">初婚第33集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230921170000 +0800" stop="20230921173000 +0800">
@@ -6136,11 +6136,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230921183200 +0800" stop="20230921192600 +0800">
-		<title lang="zh">兰桐花开35/42</title>
+		<title lang="zh">兰桐花开第35集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230921192600 +0800" stop="20230921201500 +0800">
-		<title lang="zh">兰桐花开36/42</title>
+		<title lang="zh">兰桐花开第36集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20230921201500 +0800" stop="20230921204700 +0800">
@@ -6719,11 +6719,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230921140200 +0800" stop="20230921144800 +0800">
-		<title lang="zh">平凡之路-(4K)-11/36</title>
+		<title lang="zh">平凡之路-（4K）-11/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230921144800 +0800" stop="20230921153400 +0800">
-		<title lang="zh">平凡之路-(4K)-12/36</title>
+		<title lang="zh">平凡之路-（4K）-12/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230921153400 +0800" stop="20230921153500 +0800">
