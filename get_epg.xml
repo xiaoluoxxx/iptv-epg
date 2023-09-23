@@ -1685,23 +1685,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230924134000 +0800" stop="20230924142800 +0800">
-		<title lang="zh">夺金6/38</title>
+		<title lang="zh">夺金第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230924142800 +0800" stop="20230924151700 +0800">
-		<title lang="zh">夺金7/38</title>
+		<title lang="zh">夺金第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230924151700 +0800" stop="20230924160600 +0800">
-		<title lang="zh">夺金8/38</title>
+		<title lang="zh">夺金第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230924160600 +0800" stop="20230924165400 +0800">
-		<title lang="zh">夺金9/38</title>
+		<title lang="zh">夺金第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230924165400 +0800" stop="20230924174500 +0800">
-		<title lang="zh">夺金10/38</title>
+		<title lang="zh">夺金第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230924174500 +0800" stop="20230924180000 +0800">
@@ -1741,11 +1741,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230924230100 +0800" stop="20230924234700 +0800">
-		<title lang="zh">幸福二重奏25/31</title>
+		<title lang="zh">幸福二重奏第25集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20230924234700 +0800" stop="20230924235900 +0800">
-		<title lang="zh">幸福二重奏26/31</title>
+		<title lang="zh">幸福二重奏第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv5">
@@ -1880,7 +1880,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230923140000 +0800" stop="20230923150500 +0800">
-		<title lang="zh">实况录像-杭州亚运会（录播）1</title>
+		<title lang="zh">实况录像-亚运会男排 中国队-印度尼西亚队</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230923150500 +0800" stop="20230923163100 +0800">
@@ -1935,32 +1935,44 @@
 		<title lang="zh">实况录像-2023年世界田联钻石联赛  尤金站25分钟版 2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230924085500 +0800" stop="20230924123000 +0800">
-		<title lang="zh">杭州亚运会-赛事直播 1-1</title>
+	<programme  channel="cctv5" start="20230924085500 +0800" stop="20230924114500 +0800">
+		<title lang="zh">直播：杭州亚运会-射击女子10米气步枪资格赛；女子赛艇决赛等</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230924114500 +0800" stop="20230924123000 +0800">
+		<title lang="zh">直播：杭州亚运会-射击女子10米气步枪决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230924123000 +0800" stop="20230924130000 +0800">
 		<title lang="zh">体坛快讯</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230924130000 +0800" stop="20230924180000 +0800">
-		<title lang="zh">杭州亚运会-赛事直播 1-2</title>
+	<programme  channel="cctv5" start="20230924130000 +0800" stop="20230924160000 +0800">
+		<title lang="zh">直播：杭州亚运会-沙滩排球复赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230924160000 +0800" stop="20230924180000 +0800">
+		<title lang="zh">直播：杭州亚运会-柔道女子-48、-52、男子-60、-66公斤级决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20230924180000 +0800" stop="20230924183000 +0800">
 		<title lang="zh">体育新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230924183000 +0800" stop="20230924213000 +0800">
-		<title lang="zh">杭州亚运会-赛事直播 1-3</title>
+	<programme  channel="cctv5" start="20230924183000 +0800" stop="20230924193000 +0800">
+		<title lang="zh">录像：杭州亚运会-武术男子长拳决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230924213000 +0800" stop="20230924223500 +0800">
+	<programme  channel="cctv5" start="20230924193000 +0800" stop="20230924213000 +0800">
+		<title lang="zh">直播：杭州亚运会-游泳（女子200米蝶泳决赛、男子200米个人混合泳决赛、女子1500米自由泳决赛、男子100米自由泳决赛、女子50米蛙泳决赛、男子100米仰泳决赛、女子4*100米自由泳接力决赛）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20230924213000 +0800" stop="20230924223000 +0800">
 		<title lang="zh">体育世界-全景亚运会</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20230924223500 +0800" stop="20230924235900 +0800">
-		<title lang="zh">实况录像-杭州亚运会（录播）2</title>
+	<programme  channel="cctv5" start="20230924223000 +0800" stop="20230924235900 +0800">
+		<title lang="zh">录像：杭州亚运会-男足 中国-孟加拉</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv5plus">
@@ -2130,8 +2142,32 @@
 		<title lang="zh">实况录像-2023年世界职业拳王争霸赛 12</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5plus" start="20230924085500 +0800" stop="20230924193000 +0800">
-		<title lang="zh">杭州亚运会-赛事直播1</title>
+	<programme  channel="cctv5plus" start="20230924085500 +0800" stop="20230924100000 +0800">
+		<title lang="zh">直播：杭州亚运会-武术男子长拳决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5plus" start="20230924100000 +0800" stop="20230924125500 +0800">
+		<title lang="zh">直播：杭州亚运会-七人制橄榄球小组赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5plus" start="20230924125500 +0800" stop="20230924135500 +0800">
+		<title lang="zh">录像：杭州亚运会-射击女子10米气步枪决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5plus" start="20230924135500 +0800" stop="20230924143000 +0800">
+		<title lang="zh">录像：杭州亚运会-射击女子10米气步枪决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5plus" start="20230924143000 +0800" stop="20230924160000 +0800">
+		<title lang="zh">直播：杭州亚运会-武术女子太极剑决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5plus" start="20230924160000 +0800" stop="20230924183000 +0800">
+		<title lang="zh">直播：杭州亚运会-七人制橄榄球小组赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5plus" start="20230924183000 +0800" stop="20230924193000 +0800">
+		<title lang="zh">录像：杭州亚运会-24日赛艇决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20230924193000 +0800" stop="20230924213500 +0800">
@@ -3204,19 +3240,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924041900 +0800" stop="20230924050500 +0800">
-		<title lang="zh">刘家媳妇10/39</title>
+		<title lang="zh">刘家媳妇第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924050500 +0800" stop="20230924055100 +0800">
-		<title lang="zh">刘家媳妇11/39</title>
+		<title lang="zh">刘家媳妇第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924055100 +0800" stop="20230924064100 +0800">
-		<title lang="zh">刘家媳妇12/39</title>
+		<title lang="zh">刘家媳妇第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924064100 +0800" stop="20230924072700 +0800">
-		<title lang="zh">刘家媳妇13/39</title>
+		<title lang="zh">刘家媳妇第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924072700 +0800" stop="20230924073600 +0800">
@@ -3224,11 +3260,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924073600 +0800" stop="20230924083200 +0800">
-		<title lang="zh">特赦195914/39</title>
+		<title lang="zh">特赦1959第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924083200 +0800" stop="20230924092200 +0800">
-		<title lang="zh">特赦195915/39</title>
+		<title lang="zh">特赦1959第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924092200 +0800" stop="20230924093300 +0800">
@@ -3236,7 +3272,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924093300 +0800" stop="20230924102300 +0800">
-		<title lang="zh">特赦195916/39</title>
+		<title lang="zh">特赦1959第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924102300 +0800" stop="20230924103300 +0800">
@@ -3244,7 +3280,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924103300 +0800" stop="20230924112800 +0800">
-		<title lang="zh">特赦195917/39</title>
+		<title lang="zh">特赦1959第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924112800 +0800" stop="20230924113300 +0800">
@@ -3252,7 +3288,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924113300 +0800" stop="20230924121900 +0800">
-		<title lang="zh">特赦195918/39</title>
+		<title lang="zh">特赦1959第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924121900 +0800" stop="20230924123200 +0800">
@@ -3264,19 +3300,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924123700 +0800" stop="20230924133400 +0800">
-		<title lang="zh">一代匠师25/32</title>
+		<title lang="zh">一代匠师第25集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924133400 +0800" stop="20230924142900 +0800">
-		<title lang="zh">一代匠师26/32</title>
+		<title lang="zh">一代匠师第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924142900 +0800" stop="20230924152600 +0800">
-		<title lang="zh">一代匠师27/32</title>
+		<title lang="zh">一代匠师第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924152600 +0800" stop="20230924161200 +0800">
-		<title lang="zh">一代匠师28/32</title>
+		<title lang="zh">一代匠师第28集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924161200 +0800" stop="20230924162200 +0800">
@@ -3288,11 +3324,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924162600 +0800" stop="20230924172900 +0800">
-		<title lang="zh">亲爱的孩子们30/40</title>
+		<title lang="zh">亲爱的孩子们第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924172900 +0800" stop="20230924182300 +0800">
-		<title lang="zh">亲爱的孩子们31/40</title>
+		<title lang="zh">亲爱的孩子们第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924182300 +0800" stop="20230924182900 +0800">
@@ -3300,7 +3336,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924182900 +0800" stop="20230924191700 +0800">
-		<title lang="zh">亲爱的孩子们32/40</title>
+		<title lang="zh">亲爱的孩子们第32集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924191700 +0800" stop="20230924192500 +0800">
@@ -3308,27 +3344,27 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924192500 +0800" stop="20230924193000 +0800">
-		<title lang="zh">本集提要-《好事成双》10/36</title>
+		<title lang="zh">本集提要- 《好事成双》第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924193000 +0800" stop="20230924202500 +0800">
-		<title lang="zh">好事成双10/36</title>
+		<title lang="zh">好事成双第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924202500 +0800" stop="20230924203000 +0800">
-		<title lang="zh">本集提要-《好事成双》11/36</title>
+		<title lang="zh">本集提要- 《好事成双》第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924203000 +0800" stop="20230924212700 +0800">
-		<title lang="zh">好事成双11/36</title>
+		<title lang="zh">好事成双第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924212700 +0800" stop="20230924213100 +0800">
-		<title lang="zh">本集提要-《爱在青山绿水间》11/33</title>
+		<title lang="zh">本集提要- 《爱在青山绿水间》第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924213100 +0800" stop="20230924222400 +0800">
-		<title lang="zh">爱在青山绿水间11/33</title>
+		<title lang="zh">爱在青山绿水间第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20230924222400 +0800" stop="20230924231200 +0800">
@@ -5456,8 +5492,20 @@
 		<title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 跳水 女子十米台 决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv16" start="20230924095500 +0800" stop="20230924210500 +0800">
-		<title lang="zh">杭州亚运会-赛事报道 1</title>
+	<programme  channel="cctv16" start="20230924095500 +0800" stop="20230924140000 +0800">
+		<title lang="zh">直播：杭州亚运会-乒乓球团体1/8决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230924140000 +0800" stop="20230924160000 +0800">
+		<title lang="zh">直播：杭州亚运会-拳击预赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230924160000 +0800" stop="20230924190000 +0800">
+		<title lang="zh">直播：杭州亚运会-乒乓球团体1/4决赛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv16" start="20230924190000 +0800" stop="20230924210500 +0800">
+		<title lang="zh">直播：杭州亚运会-体操男子资格赛3</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv16" start="20230924210500 +0800" stop="20230924212500 +0800">
@@ -6391,7 +6439,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230924210000 +0800" stop="20230924223200 +0800">
-		<title lang="zh">2023太湖美音乐会-2</title>
+		<title lang="zh">2023太湖美音乐会-1(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20230924223200 +0800" stop="20230924223300 +0800">
