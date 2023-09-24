@@ -8220,11 +8220,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230925101700 +0800" stop="20230925110800 +0800" channel="cctv17">
-		<title lang="zh">兰桐花开40/42</title>
+		<title lang="zh">兰桐花开第40集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230925110800 +0800" stop="20230925120000 +0800" channel="cctv17">
-		<title lang="zh">兰桐花开41/42</title>
+		<title lang="zh">兰桐花开第41集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230925120000 +0800" stop="20230925122700 +0800" channel="cctv17">
@@ -8248,19 +8248,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230925133800 +0800" stop="20230925142900 +0800" channel="cctv17">
-		<title lang="zh">回家的路有多远11/45</title>
+		<title lang="zh">回家的路有多远第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230925142900 +0800" stop="20230925152000 +0800" channel="cctv17">
-		<title lang="zh">回家的路有多远12/45</title>
+		<title lang="zh">回家的路有多远第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230925152000 +0800" stop="20230925161000 +0800" channel="cctv17">
-		<title lang="zh">回家的路有多远13/45</title>
+		<title lang="zh">回家的路有多远第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230925161000 +0800" stop="20230925170000 +0800" channel="cctv17">
-		<title lang="zh">回家的路有多远14/45</title>
+		<title lang="zh">回家的路有多远第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230925170000 +0800" stop="20230925173000 +0800" channel="cctv17">
@@ -8276,11 +8276,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230925183200 +0800" stop="20230925192600 +0800" channel="cctv17">
-		<title lang="zh">兰桐花开42/42</title>
+		<title lang="zh">兰桐花开第42集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230925192600 +0800" stop="20230925201500 +0800" channel="cctv17">
-		<title lang="zh">我最爱的家人1/39</title>
+		<title lang="zh">我最爱的家人第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230925201500 +0800" stop="20230925204700 +0800" channel="cctv17">
@@ -10079,6 +10079,10 @@
 		<title lang="zh">实况录像（奥林匹克）-2023年世界田联钻石联赛 巴黎站</title>
 		<desc lang="zh"></desc>
 	</programme>
+	<programme start="20230926002700 +0800" stop="20230926055500 +0800" channel="cctv17">
+		<title lang="zh">再见</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<programme start="20230926055500 +0800" stop="20230926060000 +0800" channel="cctv17">
 		<title lang="zh">农业气象</title>
 		<desc lang="zh"></desc>
@@ -10229,6 +10233,10 @@
 	</programme>
 	<programme start="20230926235000 +0800" stop="20230926235900 +0800" channel="cctv17">
 		<title lang="zh">超级农人秀-2023-48</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20230926000000 +0800" stop="20230926060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230926060000 +0800" stop="20230926060100 +0800" channel="cctv4k">
