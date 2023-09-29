@@ -5928,7 +5928,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230929192000 +0800" stop="20230929200000 +0800" channel="cctv15">
-		<title lang="zh">乐游天下-2023-37  宅兹中国-三星伴月蜀中秋2</title>
+		<title lang="zh">乐游天下-2023-37 宅兹中国-三星伴月蜀中秋2</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20230929200000 +0800" stop="20230929220000 +0800" channel="cctv15">
@@ -9491,8 +9491,12 @@
 		<title lang="zh">法律讲堂-2023-266</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231001020400 +0800" stop="20231001060300 +0800" channel="cctv12">
+	<programme start="20231001020400 +0800" stop="20231001022500 +0800" channel="cctv12">
 		<title lang="zh">生命线-2023-268</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231001022500 +0800" stop="20231001060300 +0800" channel="cctv12">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231001060300 +0800" stop="20231001063400 +0800" channel="cctv12">
