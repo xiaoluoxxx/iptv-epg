@@ -4635,15 +4635,15 @@
 		<title lang="zh">录像：杭州亚运会-1日跳水女子双人3米板决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231002095500 +0800" stop="20231002113000 +0800" channel="cctv5">
+	<programme start="20231002095500 +0800" stop="20231002120000 +0800" channel="cctv5">
 		<title lang="zh">直播：杭州亚运会-皮划艇静水男子单人皮艇1000米、男子单人划艇1000米、女子双人划艇500米、男子双人皮艇500米、男子双人划艇500米</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231002113000 +0800" stop="20231002120000 +0800" channel="cctv5">
+	<programme start="20231002120000 +0800" stop="20231002123000 +0800" channel="cctv5">
 		<title lang="zh">体坛快讯</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231002120000 +0800" stop="20231002133000 +0800" channel="cctv5">
+	<programme start="20231002123000 +0800" stop="20231002133000 +0800" channel="cctv5">
 		<title lang="zh">录像：杭州亚运会-1日女子水球 中国-日本、飞碟多向决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -4715,11 +4715,15 @@
 		<title lang="zh">录像：杭州亚运会-乒乓球男双、女单决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231002123000 +0800" stop="20231002163000 +0800" channel="cctv5plus">
+	<programme start="20231002123000 +0800" stop="20231002160000 +0800" channel="cctv5plus">
 		<title lang="zh">2023年中国网球公开赛-9</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231002163000 +0800" stop="20231002190000 +0800" channel="cctv5plus">
+	<programme start="20231002160000 +0800" stop="20231002180500 +0800" channel="cctv5plus">
+		<title lang="zh">直播：杭州亚运会-女篮1/4决赛（中国VS中国台北）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231002180500 +0800" stop="20231002190000 +0800" channel="cctv5plus">
 		<title lang="zh">录像：杭州亚运会-皮划艇决赛、乒乓球男单半决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -7732,7 +7736,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003151300 +0800" stop="20231003155000 +0800" channel="cctv15">
-		<title lang="zh">乐游天下-2023-37  宅兹中国-三星伴月蜀中秋2</title>
+		<title lang="zh">乐游天下-2023-37 宅兹中国-三星伴月蜀中秋2</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003155000 +0800" stop="20231003162800 +0800" channel="cctv15">
@@ -7864,11 +7868,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003101700 +0800" stop="20231003110800 +0800" channel="cctv17">
-		<title lang="zh">我最爱的家人14/39</title>
+		<title lang="zh">我最爱的家人第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003110800 +0800" stop="20231003120000 +0800" channel="cctv17">
-		<title lang="zh">我最爱的家人15/39</title>
+		<title lang="zh">我最爱的家人第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003120000 +0800" stop="20231003122700 +0800" channel="cctv17">
@@ -7892,19 +7896,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003133800 +0800" stop="20231003142900 +0800" channel="cctv17">
-		<title lang="zh">回家的路有多远43/45</title>
+		<title lang="zh">回家的路有多远第43集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003142900 +0800" stop="20231003152000 +0800" channel="cctv17">
-		<title lang="zh">回家的路有多远44/45</title>
+		<title lang="zh">回家的路有多远第44集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003152000 +0800" stop="20231003161000 +0800" channel="cctv17">
-		<title lang="zh">回家的路有多远45/45</title>
+		<title lang="zh">回家的路有多远第45集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003161000 +0800" stop="20231003170000 +0800" channel="cctv17">
-		<title lang="zh">最美的乡村1/30</title>
+		<title lang="zh">最美的乡村第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003170000 +0800" stop="20231003173000 +0800" channel="cctv17">
@@ -7920,11 +7924,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003183200 +0800" stop="20231003192600 +0800" channel="cctv17">
-		<title lang="zh">我最爱的家人16/39</title>
+		<title lang="zh">我最爱的家人第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003192600 +0800" stop="20231003201500 +0800" channel="cctv17">
-		<title lang="zh">我最爱的家人17/39</title>
+		<title lang="zh">我最爱的家人第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003201500 +0800" stop="20231003204700 +0800" channel="cctv17">
@@ -7963,8 +7967,16 @@
 		<title lang="zh">味道-2022-74(4K)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231003063100 +0800" stop="20231003063500 +0800" channel="cctv4k">
+	<programme start="20231003063100 +0800" stop="20231003063300 +0800" channel="cctv4k">
 		<title lang="zh">4K节目垫播-美丽中国-云南（4K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231003063300 +0800" stop="20231003063400 +0800" channel="cctv4k">
+		<title lang="zh">杭州亚运会精彩集锦-9（4K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231003063400 +0800" stop="20231003063500 +0800" channel="cctv4k">
+		<title lang="zh">杭州亚运会夺金时刻-36（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003063500 +0800" stop="20231003072000 +0800" channel="cctv4k">
@@ -7984,15 +7996,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003085800 +0800" stop="20231003085800 +0800" channel="cctv4k">
-		<title lang="zh">杭州亚运会精彩集锦-1（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-33（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003085800 +0800" stop="20231003085900 +0800" channel="cctv4k">
-		<title lang="zh">杭州亚运会精彩集锦-2（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-31（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003085900 +0800" stop="20231003085900 +0800" channel="cctv4k">
-		<title lang="zh">杭州亚运会精彩集锦-3（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-32（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003085900 +0800" stop="20231003090000 +0800" channel="cctv4k">
@@ -8020,15 +8032,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003225700 +0800" stop="20231003225800 +0800" channel="cctv4k">
-		<title lang="zh">杭州亚运会精彩集锦-1（4K）</title>
+		<title lang="zh">杭州亚运会精彩集锦-12（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003225800 +0800" stop="20231003225800 +0800" channel="cctv4k">
-		<title lang="zh">杭州亚运会精彩集锦-2（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-34（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003225800 +0800" stop="20231003225900 +0800" channel="cctv4k">
-		<title lang="zh">杭州亚运会精彩集锦-3（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-35（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231003225900 +0800" stop="20231003232500 +0800" channel="cctv4k">
@@ -9623,8 +9635,12 @@
 		<title lang="zh">经典-2023-237</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231004020600 +0800" stop="20231004060000 +0800" channel="cctv15">
+	<programme start="20231004020600 +0800" stop="20231004023800 +0800" channel="cctv15">
 		<title lang="zh">风华国乐-2023-290</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231004023800 +0800" stop="20231004060000 +0800" channel="cctv15">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231004060000 +0800" stop="20231004063200 +0800" channel="cctv15">
@@ -9655,31 +9671,31 @@
 		<title lang="zh">精彩音乐汇-2023-267</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231004120000 +0800" stop="20231004131600 +0800" channel="cctv15">
+	<programme start="20231004120000 +0800" stop="20231004132600 +0800" channel="cctv15">
 		<title lang="zh">2023江山如画系列交响音乐会-2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231004131600 +0800" stop="20231004143000 +0800" channel="cctv15">
+	<programme start="20231004132600 +0800" stop="20231004143800 +0800" channel="cctv15">
 		<title lang="zh">合唱先锋2023-47</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231004143000 +0800" stop="20231004150400 +0800" channel="cctv15">
+	<programme start="20231004143800 +0800" stop="20231004151200 +0800" channel="cctv15">
 		<title lang="zh">乐游天下-2023-38 宅兹中国-文字之都豫华章1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231004150400 +0800" stop="20231004154300 +0800" channel="cctv15">
+	<programme start="20231004151200 +0800" stop="20231004154900 +0800" channel="cctv15">
 		<title lang="zh">乐游天下-2023-39 宅兹中国-文字之都豫华章2</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231004154300 +0800" stop="20231004162100 +0800" channel="cctv15">
+	<programme start="20231004154900 +0800" stop="20231004162500 +0800" channel="cctv15">
 		<title lang="zh">音乐人生-2023-59为人民而歌（刘秉义）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231004162100 +0800" stop="20231004165900 +0800" channel="cctv15">
+	<programme start="20231004162500 +0800" stop="20231004170100 +0800" channel="cctv15">
 		<title lang="zh">风华国乐-2023-291</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231004165900 +0800" stop="20231004181500 +0800" channel="cctv15">
+	<programme start="20231004170100 +0800" stop="20231004181500 +0800" channel="cctv15">
 		<title lang="zh">民歌·中国-2023-141明月千里寄相思</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -9691,15 +9707,19 @@
 		<title lang="zh">2023江山如画系列交响音乐会-3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231004204600 +0800" stop="20231004220000 +0800" channel="cctv15">
+	<programme start="20231004204600 +0800" stop="20231004215400 +0800" channel="cctv15">
 		<title lang="zh">音乐公开课-2023-43山高路长 弦歌不辍-走进吉林大学</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231004220000 +0800" stop="20231004225700 +0800" channel="cctv15">
+	<programme start="20231004215400 +0800" stop="20231004220500 +0800" channel="cctv15">
+		<title lang="zh">2023江山如画系列交响音乐会-江山如画</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231004220500 +0800" stop="20231004230200 +0800" channel="cctv15">
 		<title lang="zh">CCTV音乐厅-2023-172-名家名曲(159)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231004225700 +0800" stop="20231004235900 +0800" channel="cctv15">
+	<programme start="20231004230200 +0800" stop="20231004235900 +0800" channel="cctv15">
 		<title lang="zh">四季交响“春之声”系列经典音乐会（纯享版）-4</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -9749,6 +9769,10 @@
 	</programme>
 	<programme start="20231004230500 +0800" stop="20231004235900 +0800" channel="cctv16">
 		<title lang="zh">实况录像（奥林匹克）-2023年世界羽毛球锦标赛1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231004005100 +0800" stop="20231004055500 +0800" channel="cctv17">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231004055500 +0800" stop="20231004060000 +0800" channel="cctv17">
