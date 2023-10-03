@@ -1683,8 +1683,12 @@
 		<title lang="zh">延播：杭州亚运会-皮划艇静水 女子单人划艇200米、女子单人皮艇500米</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv5" start="20231003105000 +0800" stop="20231003114500 +0800">
+	<programme  channel="cctv5" start="20231003105000 +0800" stop="20231003111000 +0800">
 		<title lang="zh">延播：杭州亚运会-皮划艇静水 男子双人划艇1000米、男子四人皮艇500米</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv5" start="20231003111000 +0800" stop="20231003114500 +0800">
+		<title lang="zh">体坛快讯</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20231003114500 +0800" stop="20231003120000 +0800">
@@ -5970,8 +5974,20 @@
 		<title lang="zh">如果国宝会说话（第三季）-9（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4k" start="20231004063100 +0800" stop="20231004063500 +0800">
+	<programme  channel="cctv4k" start="20231004063100 +0800" stop="20231004063300 +0800">
 		<title lang="zh">4K节目垫播-美丽中国:海南岛</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv4k" start="20231004063300 +0800" stop="20231004063300 +0800">
+		<title lang="zh">杭州亚运会夺金时刻-37（4K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv4k" start="20231004063300 +0800" stop="20231004063400 +0800">
+		<title lang="zh">杭州亚运会夺金时刻-38（4K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv4k" start="20231004063400 +0800" stop="20231004063500 +0800">
+		<title lang="zh">杭州亚运会夺金时刻-39（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231004063500 +0800" stop="20231004072000 +0800">
@@ -5991,15 +6007,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231004085800 +0800" stop="20231004085800 +0800">
-		<title lang="zh">杭州亚运会精彩集锦-1（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-40（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231004085800 +0800" stop="20231004085900 +0800">
-		<title lang="zh">杭州亚运会精彩集锦-2（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-41（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231004085900 +0800" stop="20231004085900 +0800">
-		<title lang="zh">杭州亚运会精彩集锦-3（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-42（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231004085900 +0800" stop="20231004090000 +0800">
@@ -6027,15 +6043,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231004225700 +0800" stop="20231004225800 +0800">
-		<title lang="zh">杭州亚运会精彩集锦-1（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-43（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231004225800 +0800" stop="20231004225800 +0800">
-		<title lang="zh">杭州亚运会精彩集锦-2（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-44（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231004225800 +0800" stop="20231004225900 +0800">
-		<title lang="zh">杭州亚运会精彩集锦-3（4K）</title>
+		<title lang="zh">杭州亚运会精彩集锦-13（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231004225900 +0800" stop="20231004232500 +0800">
