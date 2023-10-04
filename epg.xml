@@ -9355,8 +9355,12 @@
 		<title lang="zh">地理·中国-2023-278</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231006022100 +0800" stop="20231006060000 +0800" channel="cctv10">
+	<programme start="20231006022100 +0800" stop="20231006030100 +0800" channel="cctv10">
 		<title lang="zh">健康之路-2023-278</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231006030100 +0800" stop="20231006060000 +0800" channel="cctv10">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231006060000 +0800" stop="20231006061000 +0800" channel="cctv10">
@@ -9579,8 +9583,12 @@
 		<title lang="zh">法律讲堂-2023-271</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231006014400 +0800" stop="20231006060300 +0800" channel="cctv12">
+	<programme start="20231006014400 +0800" stop="20231006020500 +0800" channel="cctv12">
 		<title lang="zh">生命线-2023-273</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231006020500 +0800" stop="20231006060300 +0800" channel="cctv12">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231006060300 +0800" stop="20231006063400 +0800" channel="cctv12">
@@ -9719,8 +9727,12 @@
 		<title lang="zh">风车剧场-2023-134</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231006012600 +0800" stop="20231006060000 +0800" channel="cctvchild">
+	<programme start="20231006012600 +0800" stop="20231006020000 +0800" channel="cctvchild">
 		<title lang="zh">风车剧场-2023-135</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231006020000 +0800" stop="20231006060000 +0800" channel="cctvchild">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231006060000 +0800" stop="20231006063000 +0800" channel="cctvchild">
@@ -10049,6 +10061,10 @@
 	</programme>
 	<programme start="20231006234400 +0800" stop="20231006235900 +0800" channel="cctv17">
 		<title lang="zh">超级农人秀-2023-51</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231006000000 +0800" stop="20231006060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231006060000 +0800" stop="20231006060100 +0800" channel="cctv4k">
