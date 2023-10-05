@@ -304,7 +304,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231006090600 +0800" stop="20231006095300 +0800">
-		<title lang="zh">人生之路11/37</title>
+		<title lang="zh">人生之路第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231006095300 +0800" stop="20231006100000 +0800">
@@ -316,7 +316,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231006110300 +0800" stop="20231006115100 +0800">
-		<title lang="zh">人生之路12/37</title>
+		<title lang="zh">人生之路第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231006115100 +0800" stop="20231006115500 +0800">
@@ -336,7 +336,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231006131000 +0800" stop="20231006140000 +0800">
-		<title lang="zh">潜行者18/37</title>
+		<title lang="zh">潜行者第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231006140000 +0800" stop="20231006180000 +0800">
@@ -4153,11 +4153,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231006114000 +0800" stop="20231006123100 +0800">
-		<title lang="zh">光阴里的故事30/36</title>
+		<title lang="zh">光阴里的故事第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231006123100 +0800" stop="20231006132100 +0800">
-		<title lang="zh">光阴里的故事31/36</title>
+		<title lang="zh">光阴里的故事第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231006132100 +0800" stop="20231006144000 +0800">
@@ -4169,11 +4169,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231006171300 +0800" stop="20231006180300 +0800">
-		<title lang="zh">青年霍元甲之威震津门18/39</title>
+		<title lang="zh">青年霍元甲之威震津门第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231006180300 +0800" stop="20231006190000 +0800">
-		<title lang="zh">青年霍元甲之威震津门19/39</title>
+		<title lang="zh">青年霍元甲之威震津门第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231006190000 +0800" stop="20231006193000 +0800">
@@ -4189,15 +4189,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231006215600 +0800" stop="20231006224600 +0800">
-		<title lang="zh">小敏家38/40</title>
+		<title lang="zh">小敏家第38集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231006224600 +0800" stop="20231006233700 +0800">
-		<title lang="zh">小敏家39/40</title>
+		<title lang="zh">小敏家第39集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231006233700 +0800" stop="20231006235900 +0800">
-		<title lang="zh">小敏家40/40</title>
+		<title lang="zh">小敏家第40集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv12">
@@ -5009,35 +5009,55 @@
 		<title lang="zh">精彩音乐汇-2023-270</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231005193000 +0800" stop="20231005205200 +0800">
+	<programme  channel="cctv15" start="20231005193000 +0800" stop="20231005204600 +0800">
 		<title lang="zh">2023江山如画系列交响音乐会-4</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231005205200 +0800" stop="20231005220600 +0800">
+	<programme  channel="cctv15" start="20231005204600 +0800" stop="20231005204800 +0800">
+		<title lang="zh">杭州亚运会主题歌曲《爱达未来》-1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv15" start="20231005204800 +0800" stop="20231005205600 +0800">
+		<title lang="zh">杭州亚运会主题歌曲《东方色彩》-2</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv15" start="20231005205600 +0800" stop="20231005221000 +0800">
 		<title lang="zh">民歌·中国-2023-146和和美美庆丰收</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231005220600 +0800" stop="20231005221700 +0800">
-		<title lang="zh">2023江山如画系列交响音乐会-江山如画</title>
+	<programme  channel="cctv15" start="20231005221000 +0800" stop="20231005221300 +0800">
+		<title lang="zh">杭州亚运会主题歌曲《亚洲心跳》-3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231005221700 +0800" stop="20231005231400 +0800">
+	<programme  channel="cctv15" start="20231005221300 +0800" stop="20231005222300 +0800">
+		<title lang="zh">杭州亚运会主题歌曲《美丽亚细亚 好大一个家》-4</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv15" start="20231005222300 +0800" stop="20231005231500 +0800">
 		<title lang="zh">CCTV音乐厅-2023-173-名家名曲(160)</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231005231400 +0800" stop="20231005235900 +0800">
+	<programme  channel="cctv15" start="20231005231500 +0800" stop="20231005231700 +0800">
+		<title lang="zh">杭州亚运会主题歌曲《亚洲之光》-5</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv15" start="20231005231700 +0800" stop="20231005232500 +0800">
+		<title lang="zh">杭州亚运会主题歌曲《TO WIN》-6</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv15" start="20231005232500 +0800" stop="20231005235900 +0800">
 		<title lang="zh">四季交响“春之声”系列经典音乐会（纯享版）-5</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006004600 +0800" stop="20231006014800 +0800">
+	<programme  channel="cctv15" start="20231006005700 +0800" stop="20231006015900 +0800">
 		<title lang="zh">经典-2023-239</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006014800 +0800" stop="20231006022000 +0800">
+	<programme  channel="cctv15" start="20231006015900 +0800" stop="20231006023100 +0800">
 		<title lang="zh">风华国乐-2023-292</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006022000 +0800" stop="20231006060000 +0800">
+	<programme  channel="cctv15" start="20231006023100 +0800" stop="20231006060000 +0800">
 		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -5061,59 +5081,83 @@
 		<title lang="zh">民歌·中国-2023-142吉祥欢歌1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006104700 +0800" stop="20231006120000 +0800">
+	<programme  channel="cctv15" start="20231006104700 +0800" stop="20231006115800 +0800">
 		<title lang="zh">精彩音乐汇-2023-269</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv15" start="20231006115800 +0800" stop="20231006120000 +0800">
+		<title lang="zh">杭州亚运会主题歌曲《东方色彩》-2</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv15" start="20231006120000 +0800" stop="20231006132000 +0800">
 		<title lang="zh">2023江山如画系列交响音乐会-4</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006132000 +0800" stop="20231006143300 +0800">
+	<programme  channel="cctv15" start="20231006132000 +0800" stop="20231006142900 +0800">
 		<title lang="zh">全球中文音乐榜上榜-2023-精编4</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006143300 +0800" stop="20231006154500 +0800">
+	<programme  channel="cctv15" start="20231006142900 +0800" stop="20231006143500 +0800">
+		<title lang="zh">杭州亚运会主题歌曲《爱达未来》-1</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv15" start="20231006143500 +0800" stop="20231006154700 +0800">
 		<title lang="zh">音乐公开课-2023-43山高路长 弦歌不辍-走进吉林大学</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006154500 +0800" stop="20231006162400 +0800">
+	<programme  channel="cctv15" start="20231006154700 +0800" stop="20231006162600 +0800">
 		<title lang="zh">音乐人生-2023-54为人民而歌（郑小瑛）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006162400 +0800" stop="20231006170200 +0800">
+	<programme  channel="cctv15" start="20231006162600 +0800" stop="20231006170200 +0800">
 		<title lang="zh">风华国乐-2023-293</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006170200 +0800" stop="20231006181600 +0800">
+	<programme  channel="cctv15" start="20231006170200 +0800" stop="20231006181000 +0800">
 		<title lang="zh">民歌·中国-2023-143盛世中国幸福来</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006181600 +0800" stop="20231006193000 +0800">
+	<programme  channel="cctv15" start="20231006181000 +0800" stop="20231006181800 +0800">
+		<title lang="zh">杭州亚运会主题歌曲《同爱同在》-7</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv15" start="20231006181800 +0800" stop="20231006193000 +0800">
 		<title lang="zh">精彩音乐汇-2023-271</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006193000 +0800" stop="20231006204600 +0800">
+	<programme  channel="cctv15" start="20231006193000 +0800" stop="20231006204000 +0800">
 		<title lang="zh">2023江山如画系列交响音乐会-5</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006204600 +0800" stop="20231006212000 +0800">
+	<programme  channel="cctv15" start="20231006204000 +0800" stop="20231006204200 +0800">
+		<title lang="zh">杭州亚运会主题歌曲《亚洲心跳》-3</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv15" start="20231006204200 +0800" stop="20231006205200 +0800">
+		<title lang="zh">杭州亚运会主题歌曲《美丽亚细亚 好大一个家》-4</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv15" start="20231006205200 +0800" stop="20231006212600 +0800">
 		<title lang="zh">音乐人生-2023-39唱给祖国的歌（上）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006212000 +0800" stop="20231006215400 +0800">
+	<programme  channel="cctv15" start="20231006212600 +0800" stop="20231006220000 +0800">
 		<title lang="zh">音乐人生-2023-41唱给祖国的歌（下）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006215400 +0800" stop="20231006220500 +0800">
-		<title lang="zh">2023江山如画系列交响音乐会-江山如画</title>
+	<programme  channel="cctv15" start="20231006220000 +0800" stop="20231006220200 +0800">
+		<title lang="zh">杭州亚运会主题歌曲《亚洲之光》-5</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006220500 +0800" stop="20231006230200 +0800">
+	<programme  channel="cctv15" start="20231006220200 +0800" stop="20231006221200 +0800">
+		<title lang="zh">杭州亚运会主题歌曲《TO WIN》-6</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv15" start="20231006221200 +0800" stop="20231006230900 +0800">
 		<title lang="zh">CCTV音乐厅-2023-223-“童年逐梦”主题音乐会（上）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv15" start="20231006230200 +0800" stop="20231006235900 +0800">
+	<programme  channel="cctv15" start="20231006230900 +0800" stop="20231006235900 +0800">
 		<title lang="zh">四季交响“春之声”系列经典音乐会（纯享版）-6</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -5676,11 +5720,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231006101700 +0800" stop="20231006110800 +0800">
-		<title lang="zh">我最爱的家人20/39</title>
+		<title lang="zh">我最爱的家人第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231006110800 +0800" stop="20231006120000 +0800">
-		<title lang="zh">我最爱的家人21/39</title>
+		<title lang="zh">我最爱的家人第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231006120000 +0800" stop="20231006122700 +0800">
@@ -5704,19 +5748,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231006133800 +0800" stop="20231006142900 +0800">
-		<title lang="zh">最美的乡村10/30</title>
+		<title lang="zh">最美的乡村第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231006142900 +0800" stop="20231006152000 +0800">
-		<title lang="zh">最美的乡村11/30</title>
+		<title lang="zh">最美的乡村第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231006152000 +0800" stop="20231006161000 +0800">
-		<title lang="zh">最美的乡村12/30</title>
+		<title lang="zh">最美的乡村第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231006161000 +0800" stop="20231006170000 +0800">
-		<title lang="zh">最美的乡村13/30</title>
+		<title lang="zh">最美的乡村第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231006170000 +0800" stop="20231006173000 +0800">
@@ -5732,15 +5776,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231006183200 +0800" stop="20231006192600 +0800">
-		<title lang="zh">我最爱的家人22/39</title>
+		<title lang="zh">我最爱的家人第22集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231006192600 +0800" stop="20231006201800 +0800">
-		<title lang="zh">我最爱的家人23/39</title>
+		<title lang="zh">我最爱的家人第23集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231006201800 +0800" stop="20231006210700 +0800">
-		<title lang="zh">我最爱的家人24/39</title>
+		<title lang="zh">我最爱的家人第24集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231006210700 +0800" stop="20231006213600 +0800">
@@ -6010,8 +6054,20 @@
 		<title lang="zh">如果国宝会说话（第三季）-11（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4k" start="20231006063100 +0800" stop="20231006063500 +0800">
+	<programme  channel="cctv4k" start="20231006063100 +0800" stop="20231006063300 +0800">
 		<title lang="zh">4K节目垫播-美丽中国-新疆</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv4k" start="20231006063300 +0800" stop="20231006063300 +0800">
+		<title lang="zh">杭州亚运会夺金时刻-57（4K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv4k" start="20231006063300 +0800" stop="20231006063400 +0800">
+		<title lang="zh">杭州亚运会精彩集锦-16（4K）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme  channel="cctv4k" start="20231006063400 +0800" stop="20231006063500 +0800">
+		<title lang="zh">杭州亚运会精彩集锦-17（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231006063500 +0800" stop="20231006072000 +0800">
@@ -6035,15 +6091,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231006085300 +0800" stop="20231006085300 +0800">
-		<title lang="zh">杭州亚运会精彩集锦-1（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-51（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231006085300 +0800" stop="20231006085400 +0800">
-		<title lang="zh">杭州亚运会精彩集锦-2（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-52（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231006085400 +0800" stop="20231006085400 +0800">
-		<title lang="zh">杭州亚运会精彩集锦-3（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-53（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231006085400 +0800" stop="20231006085500 +0800">
@@ -6071,15 +6127,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231006225700 +0800" stop="20231006225800 +0800">
-		<title lang="zh">杭州亚运会精彩集锦-1（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-54（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231006225800 +0800" stop="20231006225800 +0800">
-		<title lang="zh">杭州亚运会精彩集锦-2（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-55（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231006225800 +0800" stop="20231006225900 +0800">
-		<title lang="zh">杭州亚运会精彩集锦-3（4K）</title>
+		<title lang="zh">杭州亚运会夺金时刻-56（4K）</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231006225900 +0800" stop="20231006232500 +0800">
