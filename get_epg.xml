@@ -1640,7 +1640,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20231007103000 +0800" stop="20231007120000 +0800">
-		<title lang="zh">杭州亚运会-射箭 反曲弓 女子个人、男子个人 决赛及铜牌赛</title>
+		<title lang="zh">直播：杭州亚运会-射箭 反曲弓 女子个人、男子个人 决赛及铜牌赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20231007120000 +0800" stop="20231007123000 +0800">
@@ -1652,7 +1652,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20231007140000 +0800" stop="20231007190000 +0800">
-		<title lang="zh">杭州亚运会-羽毛球 单项决赛</title>
+		<title lang="zh">直播：杭州亚运会-羽毛球 单项决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20231007190000 +0800" stop="20231007193000 +0800">
@@ -1660,7 +1660,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20231007193000 +0800" stop="20231007213000 +0800">
-		<title lang="zh">杭州亚运会-排球 女子决赛：中国VS日本</title>
+		<title lang="zh">直播：杭州亚运会-排球 女子决赛：中国VS日本</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5" start="20231007213000 +0800" stop="20231007223000 +0800">
@@ -1827,7 +1827,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20231007082500 +0800" stop="20231007120000 +0800">
-		<title lang="zh">杭州亚运会-马拉松游泳 男子 10公里</title>
+		<title lang="zh">直播：杭州亚运会-马拉松游泳 男子 10公里</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20231007120000 +0800" stop="20231007130000 +0800">
@@ -1843,7 +1843,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20231007183000 +0800" stop="20231007200000 +0800">
-		<title lang="zh">杭州亚运会-曲棍球 女子决赛：中国VS韩国</title>
+		<title lang="zh">直播：杭州亚运会-曲棍球 女子决赛：中国VS韩国</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv5plus" start="20231007200000 +0800" stop="20231007235900 +0800">
@@ -5181,7 +5181,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv16" start="20231007135500 +0800" stop="20231007150000 +0800">
-		<title lang="zh">杭州亚运会-花样游泳双人自由自选</title>
+		<title lang="zh">直播：杭州亚运会-花样游泳双人自由自选</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv16" start="20231007150000 +0800" stop="20231007160000 +0800">
@@ -5197,7 +5197,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv16" start="20231007185000 +0800" stop="20231007213000 +0800">
-		<title lang="zh">杭州亚运会-艺术体操个人全能决赛</title>
+		<title lang="zh">直播：杭州亚运会-艺术体操个人全能决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv16" start="20231007213000 +0800" stop="20231007220500 +0800">
