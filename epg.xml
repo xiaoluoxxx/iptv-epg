@@ -10167,8 +10167,12 @@
 		<title lang="zh">跟着书本去旅行-2023-202</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231011020600 +0800" stop="20231011060000 +0800" channel="cctv10">
+	<programme start="20231011020600 +0800" stop="20231011024600 +0800" channel="cctv10">
 		<title lang="zh">健康之路-2023-283</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231011024600 +0800" stop="20231011060000 +0800" channel="cctv10">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231011060000 +0800" stop="20231011061000 +0800" channel="cctv10">
