@@ -4421,11 +4421,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231012112100 +0800" stop="20231012121100 +0800">
-		<title lang="zh">芝麻胡同6/51</title>
+		<title lang="zh">芝麻胡同第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231012121100 +0800" stop="20231012130200 +0800">
-		<title lang="zh">芝麻胡同7/51</title>
+		<title lang="zh">芝麻胡同第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231012130200 +0800" stop="20231012142100 +0800">
@@ -4437,11 +4437,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231012171300 +0800" stop="20231012180300 +0800">
-		<title lang="zh">青年霍元甲之威震津门30/39</title>
+		<title lang="zh">青年霍元甲之威震津门第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231012180300 +0800" stop="20231012190000 +0800">
-		<title lang="zh">青年霍元甲之威震津门31/39</title>
+		<title lang="zh">青年霍元甲之威震津门第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231012190000 +0800" stop="20231012193000 +0800">
@@ -4453,15 +4453,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231012221700 +0800" stop="20231012230700 +0800">
-		<title lang="zh">对手16/37</title>
+		<title lang="zh">对手第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231012230700 +0800" stop="20231012235800 +0800">
-		<title lang="zh">对手17/37</title>
+		<title lang="zh">对手第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv11" start="20231012235800 +0800" stop="20231012235900 +0800">
-		<title lang="zh">对手18/37</title>
+		<title lang="zh">对手第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv12">
@@ -6084,11 +6084,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231012101700 +0800" stop="20231012110800 +0800">
-		<title lang="zh">我最爱的家人33/39</title>
+		<title lang="zh">我最爱的家人第33集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231012110800 +0800" stop="20231012120000 +0800">
-		<title lang="zh">我最爱的家人34/39</title>
+		<title lang="zh">我最爱的家人第34集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231012120000 +0800" stop="20231012122700 +0800">
@@ -6116,19 +6116,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231012133800 +0800" stop="20231012142900 +0800">
-		<title lang="zh">岁岁年年柿柿红4/39</title>
+		<title lang="zh">岁岁年年柿柿红第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231012142900 +0800" stop="20231012152000 +0800">
-		<title lang="zh">岁岁年年柿柿红5/39</title>
+		<title lang="zh">岁岁年年柿柿红第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231012152000 +0800" stop="20231012161000 +0800">
-		<title lang="zh">岁岁年年柿柿红6/39</title>
+		<title lang="zh">岁岁年年柿柿红第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231012161000 +0800" stop="20231012170000 +0800">
-		<title lang="zh">岁岁年年柿柿红7/39</title>
+		<title lang="zh">岁岁年年柿柿红第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231012170000 +0800" stop="20231012173000 +0800">
@@ -6144,11 +6144,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231012183200 +0800" stop="20231012192600 +0800">
-		<title lang="zh">我最爱的家人35/39</title>
+		<title lang="zh">我最爱的家人第35集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231012192600 +0800" stop="20231012201500 +0800">
-		<title lang="zh">我最爱的家人36/39</title>
+		<title lang="zh">我最爱的家人第36集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv17" start="20231012201500 +0800" stop="20231012204700 +0800">
@@ -6723,11 +6723,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231012140300 +0800" stop="20231012145000 +0800">
-		<title lang="zh">平凡之路-(4K)-25/36</title>
+		<title lang="zh">平凡之路-（4K）-25/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231012145000 +0800" stop="20231012153600 +0800">
-		<title lang="zh">平凡之路-(4K)-26/36</title>
+		<title lang="zh">平凡之路-（4K）-26/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4k" start="20231012153600 +0800" stop="20231012153600 +0800">
