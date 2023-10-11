@@ -352,15 +352,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231012092700 +0800" stop="20231012101500 +0800">
-		<title lang="zh">人生之路30/37</title>
+		<title lang="zh">人生之路第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231012101500 +0800" stop="20231012110300 +0800">
-		<title lang="zh">人生之路31/37</title>
+		<title lang="zh">人生之路第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231012110300 +0800" stop="20231012115100 +0800">
-		<title lang="zh">人生之路32/37</title>
+		<title lang="zh">人生之路第32集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231012115100 +0800" stop="20231012115500 +0800">
@@ -380,23 +380,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231012130900 +0800" stop="20231012135700 +0800">
-		<title lang="zh">潜行者36/37</title>
+		<title lang="zh">潜行者第36集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231012135700 +0800" stop="20231012144700 +0800">
-		<title lang="zh">潜行者37/37</title>
+		<title lang="zh">潜行者第37集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231012144700 +0800" stop="20231012153400 +0800">
-		<title lang="zh">爱在青山绿水间1/33</title>
+		<title lang="zh">爱在青山绿水间第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231012153400 +0800" stop="20231012162100 +0800">
-		<title lang="zh">叛逆者2/43</title>
+		<title lang="zh">爱在青山绿水间第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231012162100 +0800" stop="20231012171100 +0800">
-		<title lang="zh">叛逆者3/43</title>
+		<title lang="zh">爱在青山绿水间第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231012171100 +0800" stop="20231012183100 +0800">
@@ -423,16 +423,16 @@
 		<title lang="zh">焦点访谈</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20231012200600 +0800" stop="20231012205900 +0800">
-		<title lang="zh">专题节目-1</title>
+	<programme  channel="cctv1" start="20231012200600 +0800" stop="20231012210400 +0800">
+		<title lang="zh">通向繁荣之路-第2集 跨越山海</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20231012205900 +0800" stop="20231012210200 +0800">
-		<title lang="zh">前情提要-《大道薪火》31/33</title>
+	<programme  channel="cctv1" start="20231012210400 +0800" stop="20231012210700 +0800">
+		<title lang="zh">前情提要- 《大道薪火》第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv1" start="20231012210200 +0800" stop="20231012220000 +0800">
-		<title lang="zh">大道薪火31/33</title>
+	<programme  channel="cctv1" start="20231012210700 +0800" stop="20231012220000 +0800">
+		<title lang="zh">大道薪火第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv1" start="20231012220000 +0800" stop="20231012223400 +0800">
@@ -1452,16 +1452,12 @@
 		<title lang="zh">中国文艺-2023-202</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20231011100000 +0800" stop="20231011103200 +0800">
+	<programme  channel="cctv4" start="20231011100000 +0800" stop="20231011104200 +0800">
 		<title lang="zh">2023年国台办发布会-11</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme  channel="cctv4" start="20231011103200 +0800" stop="20231011111800 +0800">
+	<programme  channel="cctv4" start="20231011104200 +0800" stop="20231011112800 +0800">
 		<title lang="zh">远方的家2023-105</title>
-		<desc lang="zh"></desc>
-	</programme>
-	<programme  channel="cctv4" start="20231011111800 +0800" stop="20231011112800 +0800">
-		<title lang="zh">记住乡愁2018片段展播-40</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20231011112800 +0800" stop="20231011120000 +0800">
@@ -1653,23 +1649,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20231012131200 +0800" stop="20231012140000 +0800">
-		<title lang="zh">幸福院20/42</title>
+		<title lang="zh">幸福院第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20231012140000 +0800" stop="20231012144900 +0800">
-		<title lang="zh">幸福院21/42</title>
+		<title lang="zh">幸福院第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20231012144900 +0800" stop="20231012153500 +0800">
-		<title lang="zh">幸福院22/42</title>
+		<title lang="zh">幸福院第22集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20231012153500 +0800" stop="20231012162300 +0800">
-		<title lang="zh">幸福院23/42</title>
+		<title lang="zh">幸福院第23集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20231012162300 +0800" stop="20231012171500 +0800">
-		<title lang="zh">幸福院24/42</title>
+		<title lang="zh">幸福院第24集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20231012171500 +0800" stop="20231012180000 +0800">
@@ -1721,7 +1717,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv4" start="20231012232800 +0800" stop="20231012235900 +0800">
-		<title lang="zh">大山的女儿5/30</title>
+		<title lang="zh">大山的女儿第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<channel id="cctv5">
@@ -3164,7 +3160,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231011202500 +0800" stop="20231011203000 +0800">
-		<title lang="zh">本集提要-《问心》9/38</title>
+		<title lang="zh">本集提要- 《问心》第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231011203000 +0800" stop="20231011212400 +0800">
@@ -3232,19 +3228,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012042000 +0800" stop="20231012050600 +0800">
-		<title lang="zh">远方的山楂树10/48</title>
+		<title lang="zh">远方的山楂树第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012050600 +0800" stop="20231012055200 +0800">
-		<title lang="zh">远方的山楂树11/48</title>
+		<title lang="zh">远方的山楂树第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012055200 +0800" stop="20231012064200 +0800">
-		<title lang="zh">远方的山楂树12/48</title>
+		<title lang="zh">远方的山楂树第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012064200 +0800" stop="20231012072800 +0800">
-		<title lang="zh">远方的山楂树13/48</title>
+		<title lang="zh">远方的山楂树第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012072800 +0800" stop="20231012073700 +0800">
@@ -3252,11 +3248,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012073700 +0800" stop="20231012083300 +0800">
-		<title lang="zh">风雨送春归16/40</title>
+		<title lang="zh">风雨送春归第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012083300 +0800" stop="20231012092300 +0800">
-		<title lang="zh">风雨送春归17/40</title>
+		<title lang="zh">风雨送春归第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012092300 +0800" stop="20231012093400 +0800">
@@ -3264,7 +3260,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012093400 +0800" stop="20231012102400 +0800">
-		<title lang="zh">风雨送春归18/40</title>
+		<title lang="zh">风雨送春归第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012102400 +0800" stop="20231012103300 +0800">
@@ -3272,7 +3268,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012103300 +0800" stop="20231012112700 +0800">
-		<title lang="zh">风雨送春归19/40</title>
+		<title lang="zh">风雨送春归第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012112700 +0800" stop="20231012113200 +0800">
@@ -3280,7 +3276,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012113200 +0800" stop="20231012121800 +0800">
-		<title lang="zh">风雨送春归20/40</title>
+		<title lang="zh">风雨送春归第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012121800 +0800" stop="20231012123000 +0800">
@@ -3292,19 +3288,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012123500 +0800" stop="20231012133100 +0800">
-		<title lang="zh">好事成双27/36</title>
+		<title lang="zh">好事成双第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012133100 +0800" stop="20231012142700 +0800">
-		<title lang="zh">好事成双28/36</title>
+		<title lang="zh">好事成双第28集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012142700 +0800" stop="20231012152300 +0800">
-		<title lang="zh">好事成双29/36</title>
+		<title lang="zh">好事成双第29集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012152300 +0800" stop="20231012160900 +0800">
-		<title lang="zh">好事成双30/36</title>
+		<title lang="zh">好事成双第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012160900 +0800" stop="20231012162300 +0800">
@@ -3316,11 +3312,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012162700 +0800" stop="20231012173000 +0800">
-		<title lang="zh">人世间6/58</title>
+		<title lang="zh">人世间第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012173000 +0800" stop="20231012182400 +0800">
-		<title lang="zh">人世间7/58</title>
+		<title lang="zh">人世间第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012182400 +0800" stop="20231012183000 +0800">
@@ -3328,7 +3324,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012183000 +0800" stop="20231012191900 +0800">
-		<title lang="zh">人世间8/58</title>
+		<title lang="zh">人世间第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012191900 +0800" stop="20231012192500 +0800">
@@ -3336,11 +3332,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012192500 +0800" stop="20231012193000 +0800">
-		<title lang="zh">本集提要-《问心》10/38</title>
+		<title lang="zh">本集提要- 《问心》第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012193000 +0800" stop="20231012202500 +0800">
-		<title lang="zh">问心10/38</title>
+		<title lang="zh">问心第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012202500 +0800" stop="20231012203000 +0800">
@@ -3348,27 +3344,27 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012203000 +0800" stop="20231012212400 +0800">
-		<title lang="zh">问心11/38</title>
+		<title lang="zh">问心第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012212400 +0800" stop="20231012212900 +0800">
-		<title lang="zh">本集提要-《父辈的荣耀》12/30</title>
+		<title lang="zh">本集提要- 《父辈的荣耀》第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012212900 +0800" stop="20231012221900 +0800">
-		<title lang="zh">父辈的荣耀12/30</title>
+		<title lang="zh">父辈的荣耀第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012221900 +0800" stop="20231012222100 +0800">
-		<title lang="zh">本集提要-《父辈的荣耀》13/30</title>
+		<title lang="zh">本集提要- 《父辈的荣耀》第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012222100 +0800" stop="20231012230900 +0800">
-		<title lang="zh">父辈的荣耀13/30</title>
+		<title lang="zh">父辈的荣耀第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012230900 +0800" stop="20231012235500 +0800">
-		<title lang="zh">亲爱的自己25/45</title>
+		<title lang="zh">亲爱的自己第25集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme  channel="cctv8" start="20231012235500 +0800" stop="20231012235900 +0800">
