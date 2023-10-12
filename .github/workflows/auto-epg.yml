@@ -42,6 +42,7 @@ jobs:
           pwd
           python get-epg.py
           python epg.py
+          python tv.py
       - name: Commit changes
         run: |
           git config --local user.email "github-actions-bot@users.noreply.github.com"
