@@ -4,11 +4,12 @@ import re
 import requests
 
 # url = input('请输入URL：')
-url = 'https://7877c04i73.yicp.fun/api.php/timming/index.html?enforce=1&name=992ae5cbb1c5c2b16e7d2858d94a9384collect02'
+# url = 'https://7877c04i73.yicp.fun/api.php/timming/index.html?enforce=1&name=992ae5cbb1c5c2b16e7d2858d94a9384collect02'
+url = 'https://7877c04i73.yicp.fun/api.php/timming/index.html?enforce=1&name=hongniuzyzanzhu01'
+
 
 headers = {
         "Cookie":     "PHPSESSID=glo3p0nfsmntoar9gj4a9q6kvn; mx_style=white; showBtn=true; tips=ok; closeclick=closeclick",
-        "Referer":    "http: //127.0.0.7/admin.php/admin/type/index.html",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60",
 
 }
