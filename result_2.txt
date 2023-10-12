@@ -1,0 +1,14 @@
+https://api.1080zyku.com/inc/api_mac10.php?ac=videolist&pg=&h=24
+https://api.1080zyku.com/inc/api_mac10.php?ac=videolist&pg=2&h=24
+https://api.1080zyku.com/inc/api_mac10.php?ac=videolist&pg=3&h=24
+https://api.1080zyku.com/inc/api_mac10.php?ac=videolist&pg=4&h=24
+https://api.1080zyku.com/inc/api_mac10.php?ac=videolist&pg=5&h=24
+https://api.1080zyku.com/inc/api_mac10.php?ac=videolist&pg=6&h=24
+https://api.1080zyku.com/inc/api_mac10.php?ac=videolist&pg=7&h=24
+https://api.1080zyku.com/inc/api_mac10.php?ac=videolist&pg=8&h=24
+https://api.1080zyku.com/inc/api_mac10.php?ac=videolist&pg=9&h=24
+https://api.1080zyku.com/inc/api_mac10.php?ac=videolist&pg=10&h=24
+https://api.1080zyku.com/inc/api_mac10.php?ac=videolist&pg=11&h=24
+https://api.1080zyku.com/inc/api_mac10.php?ac=videolist&pg=12&h=24
+https://api.1080zyku.com/inc/api_mac10.php?ac=videolist&pg=13&h=24
+https://api.1080zyku.com/inc/api_mac10.php?ac=videolist&pg=14&h=24
