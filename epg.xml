@@ -8376,11 +8376,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231109112000 +0800" stop="20231109121100 +0800" channel="cctv11">
-		<title lang="zh">谯国夫人11/35</title>
+		<title lang="zh">谯国夫人第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231109121100 +0800" stop="20231109130100 +0800" channel="cctv11">
-		<title lang="zh">谯国夫人12/35</title>
+		<title lang="zh">谯国夫人第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231109130100 +0800" stop="20231109142000 +0800" channel="cctv11">
@@ -8392,11 +8392,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231109171300 +0800" stop="20231109180300 +0800" channel="cctv11">
-		<title lang="zh">山河月明11/45</title>
+		<title lang="zh">山河月明第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231109180300 +0800" stop="20231109190000 +0800" channel="cctv11">
-		<title lang="zh">山河月明12/45</title>
+		<title lang="zh">山河月明第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231109190000 +0800" stop="20231109193000 +0800" channel="cctv11">
@@ -8408,15 +8408,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231109214800 +0800" stop="20231109223800 +0800" channel="cctv11">
-		<title lang="zh">理想之城23/40</title>
+		<title lang="zh">理想之城第23集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231109223800 +0800" stop="20231109232900 +0800" channel="cctv11">
-		<title lang="zh">理想之城24/40</title>
+		<title lang="zh">理想之城第24集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231109232900 +0800" stop="20231109235900 +0800" channel="cctv11">
-		<title lang="zh">理想之城25/40</title>
+		<title lang="zh">理想之城第25集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231109002100 +0800" stop="20231109011400 +0800" channel="cctv12">
@@ -10595,8 +10595,12 @@
 		<title lang="zh">地理·中国-2023-314</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231110001900 +0800" stop="20231110060800 +0800" channel="cctv11">
+	<programme start="20231110001900 +0800" stop="20231110005000 +0800" channel="cctv11">
 		<title lang="zh">典藏-2023-137</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231110005000 +0800" stop="20231110060800 +0800" channel="cctv11">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231110060800 +0800" stop="20231110072200 +0800" channel="cctv11">
