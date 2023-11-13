@@ -4627,15 +4627,15 @@
 		<title lang="zh">前情提要-《此心安处是吾乡》1/32</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231113200600 +0800" stop="20231113205600 +0800" channel="cctv1">
+	<programme start="20231113200600 +0800" stop="20231113205700 +0800" channel="cctv1">
 		<title lang="zh">此心安处是吾乡1/32</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231113205600 +0800" stop="20231113205900 +0800" channel="cctv1">
+	<programme start="20231113205700 +0800" stop="20231113210100 +0800" channel="cctv1">
 		<title lang="zh">前情提要-《此心安处是吾乡》2/32</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231113205900 +0800" stop="20231113220000 +0800" channel="cctv1">
+	<programme start="20231113210100 +0800" stop="20231113220000 +0800" channel="cctv1">
 		<title lang="zh">此心安处是吾乡2/32</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -5440,7 +5440,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231113000200 +0800" stop="20231113004800 +0800" channel="cctv8">
-		<title lang="zh">吉他兄弟6/43</title>
+		<title lang="zh">吉他兄弟第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231113004800 +0800" stop="20231113005300 +0800" channel="cctv8">
@@ -5448,15 +5448,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231113005300 +0800" stop="20231113013900 +0800" channel="cctv8">
-		<title lang="zh">吉他兄弟7/43</title>
+		<title lang="zh">吉他兄弟第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231113013900 +0800" stop="20231113022500 +0800" channel="cctv8">
-		<title lang="zh">吉他兄弟8/43</title>
+		<title lang="zh">吉他兄弟第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231113022500 +0800" stop="20231113031100 +0800" channel="cctv8">
-		<title lang="zh">吉他兄弟9/43</title>
+		<title lang="zh">吉他兄弟第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231113031100 +0800" stop="20231113031400 +0800" channel="cctv8">
@@ -5464,7 +5464,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231113031400 +0800" stop="20231113040000 +0800" channel="cctv8">
-		<title lang="zh">吉他兄弟10/43</title>
+		<title lang="zh">吉他兄弟第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231113040000 +0800" stop="20231113041500 +0800" channel="cctv8">
@@ -8860,11 +8860,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231114140300 +0800" stop="20231114144900 +0800" channel="cctv4k">
-		<title lang="zh">冰雪尖刀连-4K-19/24</title>
+		<title lang="zh">冰雪尖刀连-（4K）-19/24</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231114144900 +0800" stop="20231114153500 +0800" channel="cctv4k">
-		<title lang="zh">冰雪尖刀连-4K-20/24</title>
+		<title lang="zh">冰雪尖刀连-（4K）-20/24</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231114153500 +0800" stop="20231114153600 +0800" channel="cctv4k">
@@ -10235,8 +10235,12 @@
 		<title lang="zh">跟着书本去旅行-2023-227</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231115020600 +0800" stop="20231115060000 +0800" channel="cctv10">
+	<programme start="20231115020600 +0800" stop="20231115024600 +0800" channel="cctv10">
 		<title lang="zh">健康之路-2023-318</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231115024600 +0800" stop="20231115060000 +0800" channel="cctv10">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231115060000 +0800" stop="20231115061000 +0800" channel="cctv10">
@@ -11005,6 +11009,10 @@
 	</programme>
 	<programme start="20231115234800 +0800" stop="20231115235900 +0800" channel="cctv17">
 		<title lang="zh">超级农人秀-2023-83</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231115000000 +0800" stop="20231115060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231115060000 +0800" stop="20231115060100 +0800" channel="cctv4k">
