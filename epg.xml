@@ -7159,23 +7159,23 @@
 		<title lang="zh">综艺喜乐汇-2023-1223</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231119193000 +0800" stop="20231119205800 +0800" channel="cctv3">
+	<programme start="20231119193000 +0800" stop="20231119210100 +0800" channel="cctv3">
 		<title lang="zh">乐在旅途-3</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231119205800 +0800" stop="20231119215600 +0800" channel="cctv3">
+	<programme start="20231119210100 +0800" stop="20231119215900 +0800" channel="cctv3">
 		<title lang="zh">艺览天下-2023-47</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231119215600 +0800" stop="20231119225700 +0800" channel="cctv3">
+	<programme start="20231119215900 +0800" stop="20231119230000 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2023-1550</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231119225700 +0800" stop="20231119234400 +0800" channel="cctv3">
+	<programme start="20231119230000 +0800" stop="20231119234700 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2023-1553 什刹海 1/37</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231119234400 +0800" stop="20231119235900 +0800" channel="cctv3">
+	<programme start="20231119234700 +0800" stop="20231119235900 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2023-1554 什刹海 2/37</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -9167,19 +9167,19 @@
 		<title lang="zh">加快形成新质生产力-1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231120003100 +0800" stop="20231120011800 +0800" channel="cctv3">
+	<programme start="20231120003400 +0800" stop="20231120012100 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2023-1555 什刹海 3/37</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231120011800 +0800" stop="20231120022000 +0800" channel="cctv3">
+	<programme start="20231120012100 +0800" stop="20231120022300 +0800" channel="cctv3">
 		<title lang="zh">黄金100秒-2023-33</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231120022000 +0800" stop="20231120031100 +0800" channel="cctv3">
+	<programme start="20231120022300 +0800" stop="20231120031400 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2023-971</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231120031100 +0800" stop="20231120044900 +0800" channel="cctv3">
+	<programme start="20231120031400 +0800" stop="20231120044900 +0800" channel="cctv3">
 		<title lang="zh">经典咏流传-正青春-17</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -10853,6 +10853,10 @@
 	</programme>
 	<programme start="20231120233600 +0800" stop="20231120235900 +0800" channel="cctv17">
 		<title lang="zh">共富经-2023-144</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231120000000 +0800" stop="20231120060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231120060000 +0800" stop="20231120060100 +0800" channel="cctv4k">
