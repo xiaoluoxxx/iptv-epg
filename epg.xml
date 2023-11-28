@@ -8788,11 +8788,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231129101700 +0800" stop="20231129110800 +0800" channel="cctv17">
-		<title lang="zh">妈妈在等你1/47</title>
+		<title lang="zh">妈妈在等你第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231129110800 +0800" stop="20231129120000 +0800" channel="cctv17">
-		<title lang="zh">妈妈在等你2/47</title>
+		<title lang="zh">妈妈在等你第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231129120000 +0800" stop="20231129122700 +0800" channel="cctv17">
@@ -8816,19 +8816,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231129133500 +0800" stop="20231129142600 +0800" channel="cctv17">
-		<title lang="zh">那座城这家人18/40</title>
+		<title lang="zh">那座城这家人第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231129142600 +0800" stop="20231129151700 +0800" channel="cctv17">
-		<title lang="zh">那座城这家人19/40</title>
+		<title lang="zh">那座城这家人第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231129151700 +0800" stop="20231129160700 +0800" channel="cctv17">
-		<title lang="zh">那座城这家人20/40</title>
+		<title lang="zh">那座城这家人第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231129160700 +0800" stop="20231129165700 +0800" channel="cctv17">
-		<title lang="zh">那座城这家人21/40</title>
+		<title lang="zh">那座城这家人第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231129165700 +0800" stop="20231129173000 +0800" channel="cctv17">
@@ -8844,11 +8844,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231129183200 +0800" stop="20231129192600 +0800" channel="cctv17">
-		<title lang="zh">妈妈在等你3/47</title>
+		<title lang="zh">妈妈在等你第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231129192600 +0800" stop="20231129201500 +0800" channel="cctv17">
-		<title lang="zh">妈妈在等你4/47</title>
+		<title lang="zh">妈妈在等你第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231129201500 +0800" stop="20231129204700 +0800" channel="cctv17">
@@ -10983,8 +10983,12 @@
 		<title lang="zh">实况录像（奥林匹克）-2023年世界体操锦标赛 女子团体决赛</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231130000400 +0800" stop="20231130055500 +0800" channel="cctv17">
+	<programme start="20231130000400 +0800" stop="20231130004000 +0800" channel="cctv17">
 		<title lang="zh">超级农人秀-2023-93</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231130004000 +0800" stop="20231130055500 +0800" channel="cctv17">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231130055500 +0800" stop="20231130060000 +0800" channel="cctv17">
