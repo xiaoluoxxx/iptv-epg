@@ -7648,23 +7648,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231222130900 +0800" stop="20231222135700 +0800" channel="cctv4">
-		<title lang="zh">幸福敲了两次门5/39</title>
+		<title lang="zh">幸福敲了两次门第5集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231222135700 +0800" stop="20231222144600 +0800" channel="cctv4">
-		<title lang="zh">幸福敲了两次门6/39</title>
+		<title lang="zh">幸福敲了两次门第6集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231222144600 +0800" stop="20231222153500 +0800" channel="cctv4">
-		<title lang="zh">幸福敲了两次门7/39</title>
+		<title lang="zh">幸福敲了两次门第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231222153500 +0800" stop="20231222162300 +0800" channel="cctv4">
-		<title lang="zh">幸福敲了两次门8/39</title>
+		<title lang="zh">幸福敲了两次门第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231222162300 +0800" stop="20231222171500 +0800" channel="cctv4">
-		<title lang="zh">幸福敲了两次门9/39</title>
+		<title lang="zh">幸福敲了两次门第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231222171500 +0800" stop="20231222180000 +0800" channel="cctv4">
@@ -7716,7 +7716,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231222233000 +0800" stop="20231222235900 +0800" channel="cctv4">
-		<title lang="zh">装台2/33</title>
+		<title lang="zh">装台第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231222010500 +0800" stop="20231222023600 +0800" channel="cctv5">
@@ -9828,11 +9828,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231223001700 +0800" stop="20231223010300 +0800" channel="cctv4">
-		<title lang="zh">装台3/33</title>
+		<title lang="zh">装台第3集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231223010300 +0800" stop="20231223015100 +0800" channel="cctv4">
-		<title lang="zh">装台4/33</title>
+		<title lang="zh">装台第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231223015100 +0800" stop="20231223015300 +0800" channel="cctv4">
@@ -10239,8 +10239,12 @@
 		<title lang="zh">巨星嫁到（下）</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20231223000600 +0800" stop="20231223060300 +0800" channel="cctv7">
+	<programme start="20231223000600 +0800" stop="20231223004400 +0800" channel="cctv7">
 		<title lang="zh">兵器面面观-2023-239</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20231223004400 +0800" stop="20231223060300 +0800" channel="cctv7">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20231223060300 +0800" stop="20231223063400 +0800" channel="cctv7">
