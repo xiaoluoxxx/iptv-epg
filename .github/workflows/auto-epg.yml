@@ -41,7 +41,8 @@ jobs:
       - name: Update tv-guide
         run: |
           pwd
-          python get-epg.py
+          python 爱腾优.py
+          # python get-epg.py
       - name: Commit changes
         run: |
           git config --local user.email "github-actions-bot@users.noreply.github.com"
