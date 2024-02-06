@@ -7283,15 +7283,15 @@
 		<title lang="zh">我爱满堂彩-2024-6满堂喝彩</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240207221300 +0800" stop="20240207230800 +0800" channel="cctv3">
-		<title lang="zh">我的艺术清单-2024-9</title>
+	<programme start="20240207221300 +0800" stop="20240207223900 +0800" channel="cctv3">
+		<title lang="zh">我的艺术清单-2024-9 冬令营4</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240207230800 +0800" stop="20240207235700 +0800" channel="cctv3">
+	<programme start="20240207223900 +0800" stop="20240207232800 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2024-142 心想事成29/36</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240207235700 +0800" stop="20240207235900 +0800" channel="cctv3">
+	<programme start="20240207232800 +0800" stop="20240207235900 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2024-143 心想事成30/36</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -7400,19 +7400,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207140600 +0800" stop="20240207145300 +0800" channel="cctv4">
-		<title lang="zh">暖暖的幸福20/35</title>
+		<title lang="zh">暖暖的幸福第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207145300 +0800" stop="20240207153900 +0800" channel="cctv4">
-		<title lang="zh">暖暖的幸福21/35</title>
+		<title lang="zh">暖暖的幸福第21集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207153900 +0800" stop="20240207162500 +0800" channel="cctv4">
-		<title lang="zh">暖暖的幸福22/35</title>
+		<title lang="zh">暖暖的幸福第22集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207162500 +0800" stop="20240207171500 +0800" channel="cctv4">
-		<title lang="zh">暖暖的幸福23/35</title>
+		<title lang="zh">暖暖的幸福第23集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207171500 +0800" stop="20240207180000 +0800" channel="cctv4">
@@ -8852,11 +8852,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207101700 +0800" stop="20240207110800 +0800" channel="cctv17">
-		<title lang="zh">有你才有家9/50</title>
+		<title lang="zh">有你才有家第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207110800 +0800" stop="20240207120000 +0800" channel="cctv17">
-		<title lang="zh">有你才有家10/50</title>
+		<title lang="zh">有你才有家第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207120000 +0800" stop="20240207123000 +0800" channel="cctv17">
@@ -8876,19 +8876,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207133800 +0800" stop="20240207142800 +0800" channel="cctv17">
-		<title lang="zh">大侠霍元甲44/45</title>
+		<title lang="zh">大侠霍元甲第44集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207142800 +0800" stop="20240207152000 +0800" channel="cctv17">
-		<title lang="zh">大侠霍元甲45/45</title>
+		<title lang="zh">大侠霍元甲第45集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207152000 +0800" stop="20240207161100 +0800" channel="cctv17">
-		<title lang="zh">远方的山楂树1/48</title>
+		<title lang="zh">远方的山楂树第1集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207161100 +0800" stop="20240207170000 +0800" channel="cctv17">
-		<title lang="zh">远方的山楂树2/48</title>
+		<title lang="zh">远方的山楂树第2集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207170000 +0800" stop="20240207173000 +0800" channel="cctv17">
@@ -8904,11 +8904,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207183500 +0800" stop="20240207192900 +0800" channel="cctv17">
-		<title lang="zh">有你才有家11/50</title>
+		<title lang="zh">有你才有家第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207192900 +0800" stop="20240207201800 +0800" channel="cctv17">
-		<title lang="zh">有你才有家12/50</title>
+		<title lang="zh">有你才有家第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207201800 +0800" stop="20240207202300 +0800" channel="cctv17">
@@ -8984,11 +8984,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207090000 +0800" stop="20240207094600 +0800" channel="cctv4k">
-		<title lang="zh">曾少年-(4K)-17/35</title>
+		<title lang="zh">曾少年-（4K）-17/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207094600 +0800" stop="20240207103200 +0800" channel="cctv4k">
-		<title lang="zh">曾少年-(4K)-18/35</title>
+		<title lang="zh">曾少年-（4K）-18/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207103200 +0800" stop="20240207103200 +0800" channel="cctv4k">
@@ -9132,11 +9132,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207195900 +0800" stop="20240207204700 +0800" channel="cctv4k">
-		<title lang="zh">曾少年-(4K)-19/35</title>
+		<title lang="zh">曾少年-（4K）-19/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207204700 +0800" stop="20240207213300 +0800" channel="cctv4k">
-		<title lang="zh">曾少年-(4K)-20/35</title>
+		<title lang="zh">曾少年-（4K）-20/35</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240207213300 +0800" stop="20240207213400 +0800" channel="cctv4k">
@@ -9431,23 +9431,23 @@
 		<title lang="zh">第四届中国汽车风云盛典-1</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240208004400 +0800" stop="20240208013200 +0800" channel="cctv3">
+	<programme start="20240208001500 +0800" stop="20240208010300 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2024-144 心想事成31/36</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240208013200 +0800" stop="20240208021900 +0800" channel="cctv3">
+	<programme start="20240208010300 +0800" stop="20240208015000 +0800" channel="cctv3">
 		<title lang="zh">综艺喜乐汇-2024-145 心想事成32/36</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240208021900 +0800" stop="20240208031400 +0800" channel="cctv3">
+	<programme start="20240208015000 +0800" stop="20240208024500 +0800" channel="cctv3">
 		<title lang="zh">我的艺术清单-2024-8</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240208031400 +0800" stop="20240208031500 +0800" channel="cctv3">
-		<title lang="zh">我的艺术清单-2024-9冬令营4</title>
+	<programme start="20240208024500 +0800" stop="20240208030600 +0800" channel="cctv3">
+		<title lang="zh">我的艺术清单-2024-9 冬令营4</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240208031500 +0800" stop="20240208044600 +0800" channel="cctv3">
+	<programme start="20240208030600 +0800" stop="20240208044600 +0800" channel="cctv3">
 		<title lang="zh">中央广播电视总台首届青年京剧演员大会-第三阶段精华版5</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -10783,8 +10783,12 @@
 		<title lang="zh">猎手-1/40</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240208000100 +0800" stop="20240208060000 +0800" channel="cctv15">
+	<programme start="20240208000100 +0800" stop="20240208004800 +0800" channel="cctv15">
 		<title lang="zh">CCTV音乐厅-2024-20-“名家名曲”专场音乐会（3）纯享版</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240208004800 +0800" stop="20240208060000 +0800" channel="cctv15">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240208060000 +0800" stop="20240208070700 +0800" channel="cctv15">
@@ -10963,6 +10967,10 @@
 		<title lang="zh">实况录像（奥林匹克）-2023/2024赛季四大洲花样滑冰锦标赛 冰舞自由舞</title>
 		<desc lang="zh"></desc>
 	</programme>
+	<programme start="20240208002800 +0800" stop="20240208055500 +0800" channel="cctv17">
+		<title lang="zh">再见</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<programme start="20240208055500 +0800" stop="20240208060000 +0800" channel="cctv17">
 		<title lang="zh">乡土中国-新年画画新年-5</title>
 		<desc lang="zh"></desc>
@@ -11093,6 +11101,10 @@
 	</programme>
 	<programme start="20240208232700 +0800" stop="20240208235900 +0800" channel="cctv17">
 		<title lang="zh">乐游新乡村-2024-6</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240208000000 +0800" stop="20240208060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240208060000 +0800" stop="20240208060100 +0800" channel="cctv4k">
