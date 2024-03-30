@@ -7251,24 +7251,32 @@
 		<title lang="zh">中国新闻</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240331130300 +0800" stop="20240331133600 +0800" channel="cctv4">
+	<programme start="20240331130300 +0800" stop="20240331133400 +0800" channel="cctv4">
 		<title lang="zh">深度国际-2024年3月-5</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240331133600 +0800" stop="20240331142300 +0800" channel="cctv4">
-		<title lang="zh">激情的岁月1/36</title>
+	<programme start="20240331133400 +0800" stop="20240331141600 +0800" channel="cctv4">
+		<title lang="zh">大决战-（四套）-1/49</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240331142300 +0800" stop="20240331150900 +0800" channel="cctv4">
-		<title lang="zh">激情的岁月2/36</title>
+	<programme start="20240331141600 +0800" stop="20240331145800 +0800" channel="cctv4">
+		<title lang="zh">大决战-（四套）-2/49</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240331150900 +0800" stop="20240331155600 +0800" channel="cctv4">
-		<title lang="zh">激情的岁月3/36</title>
+	<programme start="20240331145800 +0800" stop="20240331154000 +0800" channel="cctv4">
+		<title lang="zh">大决战-（四套）-3/49</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240331155600 +0800" stop="20240331164500 +0800" channel="cctv4">
-		<title lang="zh">激情的岁月4/36</title>
+	<programme start="20240331154000 +0800" stop="20240331162200 +0800" channel="cctv4">
+		<title lang="zh">大决战-（四套）-4/49</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240331162200 +0800" stop="20240331163200 +0800" channel="cctv4">
+		<title lang="zh">记住乡愁2018片段展播-111</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240331163200 +0800" stop="20240331164500 +0800" channel="cctv4">
+		<title lang="zh">记住乡愁2018片段展播-112</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331164500 +0800" stop="20240331170000 +0800" channel="cctv4">
@@ -7316,7 +7324,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331233100 +0800" stop="20240331235900 +0800" channel="cctv4">
-		<title lang="zh">温州三家人18/36</title>
+		<title lang="zh">温州三家人第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331011000 +0800" stop="20240331012500 +0800" channel="cctv5">
@@ -8560,11 +8568,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331101700 +0800" stop="20240331110800 +0800" channel="cctv17">
-		<title lang="zh">初婚12/35</title>
+		<title lang="zh">初婚第12集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331110800 +0800" stop="20240331120000 +0800" channel="cctv17">
-		<title lang="zh">初婚13/35</title>
+		<title lang="zh">初婚第13集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331120000 +0800" stop="20240331123000 +0800" channel="cctv17">
@@ -8584,19 +8592,19 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331133800 +0800" stop="20240331142800 +0800" channel="cctv17">
-		<title lang="zh">我和我的三个姐姐30/38</title>
+		<title lang="zh">我和我的三个姐姐第30集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331142800 +0800" stop="20240331152000 +0800" channel="cctv17">
-		<title lang="zh">我和我的三个姐姐31/38</title>
+		<title lang="zh">我和我的三个姐姐第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331152000 +0800" stop="20240331161100 +0800" channel="cctv17">
-		<title lang="zh">我和我的三个姐姐32/38</title>
+		<title lang="zh">我和我的三个姐姐第32集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331161100 +0800" stop="20240331170000 +0800" channel="cctv17">
-		<title lang="zh">我和我的三个姐姐33/38</title>
+		<title lang="zh">我和我的三个姐姐第33集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331170000 +0800" stop="20240331173000 +0800" channel="cctv17">
@@ -8612,11 +8620,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331183500 +0800" stop="20240331192900 +0800" channel="cctv17">
-		<title lang="zh">初婚14/35</title>
+		<title lang="zh">初婚第14集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331192900 +0800" stop="20240331201800 +0800" channel="cctv17">
-		<title lang="zh">初婚15/35</title>
+		<title lang="zh">初婚第15集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331201800 +0800" stop="20240331205000 +0800" channel="cctv17">
@@ -8744,11 +8752,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331140300 +0800" stop="20240331145000 +0800" channel="cctv4k">
-		<title lang="zh">平凡之路-(4K)-22/36</title>
+		<title lang="zh">平凡之路-（4K）-22/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331145000 +0800" stop="20240331153600 +0800" channel="cctv4k">
-		<title lang="zh">平凡之路-(4K)-23/36</title>
+		<title lang="zh">平凡之路-（4K）-23/36</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240331153600 +0800" stop="20240331153600 +0800" channel="cctv4k">
@@ -9300,7 +9308,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240401001700 +0800" stop="20240401010500 +0800" channel="cctv4">
-		<title lang="zh">温州三家人19/36</title>
+		<title lang="zh">温州三家人第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240401010500 +0800" stop="20240401013300 +0800" channel="cctv4">
@@ -9679,8 +9687,12 @@
 		<title lang="zh">中国体育彩票阳光开奖2024-04-01</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240401000300 +0800" stop="20240401060300 +0800" channel="cctv7">
+	<programme start="20240401000300 +0800" stop="20240401004100 +0800" channel="cctv7">
 		<title lang="zh">军营的味道-2024-13</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240401004100 +0800" stop="20240401060300 +0800" channel="cctv7">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240401060300 +0800" stop="20240401063400 +0800" channel="cctv7">
@@ -10351,8 +10363,12 @@
 		<title lang="zh">见证-2024-13</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240401020400 +0800" stop="20240401060300 +0800" channel="cctv12">
+	<programme start="20240401020400 +0800" stop="20240401023500 +0800" channel="cctv12">
 		<title lang="zh">法律讲堂-2024-91</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240401023500 +0800" stop="20240401060300 +0800" channel="cctv12">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240401060300 +0800" stop="20240401063500 +0800" channel="cctv12">
@@ -10719,6 +10735,10 @@
 		<title lang="zh">实况录像（奥林匹克）-2024年世界室内田径锦标赛 1</title>
 		<desc lang="zh"></desc>
 	</programme>
+	<programme start="20240401002100 +0800" stop="20240401055500 +0800" channel="cctv17">
+		<title lang="zh">再见</title>
+		<desc lang="zh"></desc>
+	</programme>
 	<programme start="20240401055500 +0800" stop="20240401060000 +0800" channel="cctv17">
 		<title lang="zh">村里来了钢铁侠-10</title>
 		<desc lang="zh"></desc>
@@ -10853,6 +10873,10 @@
 	</programme>
 	<programme start="20240401234900 +0800" stop="20240401235900 +0800" channel="cctv17">
 		<title lang="zh">超级农人秀-2024-63</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240401000000 +0800" stop="20240401060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240401060000 +0800" stop="20240401060100 +0800" channel="cctv4k">
