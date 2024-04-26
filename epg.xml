@@ -7304,23 +7304,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240427133100 +0800" stop="20240427141900 +0800" channel="cctv4">
-		<title lang="zh">风雨送春归7/40</title>
+		<title lang="zh">风雨送春归第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240427141900 +0800" stop="20240427150500 +0800" channel="cctv4">
-		<title lang="zh">风雨送春归8/40</title>
+		<title lang="zh">风雨送春归第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240427150500 +0800" stop="20240427155200 +0800" channel="cctv4">
-		<title lang="zh">风雨送春归9/40</title>
+		<title lang="zh">风雨送春归第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240427155200 +0800" stop="20240427163800 +0800" channel="cctv4">
-		<title lang="zh">风雨送春归10/40</title>
+		<title lang="zh">风雨送春归第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240427163800 +0800" stop="20240427172500 +0800" channel="cctv4">
-		<title lang="zh">风雨送春归11/40</title>
+		<title lang="zh">风雨送春归第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240427172500 +0800" stop="20240427173500 +0800" channel="cctv4">
@@ -7376,7 +7376,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240427235900 +0800" stop="20240427235900 +0800" channel="cctv4">
-		<title lang="zh">我最爱的家人26/39</title>
+		<title lang="zh">我最爱的家人第26集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240427000500 +0800" stop="20240427003800 +0800" channel="cctv5">
@@ -8732,11 +8732,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240427090000 +0800" stop="20240427094700 +0800" channel="cctv4k">
-		<title lang="zh">问心-4K-14/38</title>
+		<title lang="zh">问心-（4K）-14/38</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240427094700 +0800" stop="20240427103300 +0800" channel="cctv4k">
-		<title lang="zh">问心-4K-15/38</title>
+		<title lang="zh">问心-（4K）-15/38</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240427103300 +0800" stop="20240427103300 +0800" channel="cctv4k">
@@ -8888,11 +8888,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240427200000 +0800" stop="20240427204700 +0800" channel="cctv4k">
-		<title lang="zh">问心-4K-16/38</title>
+		<title lang="zh">问心-（4K）-16/38</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240427204700 +0800" stop="20240427213300 +0800" channel="cctv4k">
-		<title lang="zh">问心-4K-17/38</title>
+		<title lang="zh">问心-（4K）-17/38</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240427213300 +0800" stop="20240427213400 +0800" channel="cctv4k">
@@ -9292,7 +9292,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240428004500 +0800" stop="20240428013300 +0800" channel="cctv4">
-		<title lang="zh">我最爱的家人27/39</title>
+		<title lang="zh">我最爱的家人第27集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240428013300 +0800" stop="20240428020000 +0800" channel="cctv4">
@@ -10271,8 +10271,12 @@
 		<title lang="zh">法律讲堂-2024-118</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240428020400 +0800" stop="20240428060300 +0800" channel="cctv12">
+	<programme start="20240428020400 +0800" stop="20240428022500 +0800" channel="cctv12">
 		<title lang="zh">生命线-2024-118</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240428022500 +0800" stop="20240428060300 +0800" channel="cctv12">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240428060300 +0800" stop="20240428063600 +0800" channel="cctv12">
@@ -10443,8 +10447,12 @@
 		<title lang="zh">人世间-17/58</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240428003100 +0800" stop="20240428060000 +0800" channel="cctv15">
+	<programme start="20240428003100 +0800" stop="20240428011800 +0800" channel="cctv15">
 		<title lang="zh">CCTV音乐厅-2024-82-名家名曲（22）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240428011800 +0800" stop="20240428060000 +0800" channel="cctv15">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240428060000 +0800" stop="20240428070400 +0800" channel="cctv15">
@@ -10721,6 +10729,10 @@
 	</programme>
 	<programme start="20240428233800 +0800" stop="20240428235900 +0800" channel="cctv17">
 		<title lang="zh">乡理乡亲-2024-47</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240428000000 +0800" stop="20240428060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240428060000 +0800" stop="20240428060100 +0800" channel="cctv4k">
