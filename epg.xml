@@ -6696,15 +6696,15 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240429092300 +0800" stop="20240429101500 +0800" channel="cctv1">
-		<title lang="zh">承欢记34/37</title>
+		<title lang="zh">承欢记第34集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240429101500 +0800" stop="20240429110300 +0800" channel="cctv1">
-		<title lang="zh">承欢记35/37</title>
+		<title lang="zh">承欢记第35集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240429110300 +0800" stop="20240429115200 +0800" channel="cctv1">
-		<title lang="zh">承欢记36/37</title>
+		<title lang="zh">承欢记第36集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240429115200 +0800" stop="20240429115600 +0800" channel="cctv1">
@@ -6724,23 +6724,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240429131000 +0800" stop="20240429135600 +0800" channel="cctv1">
-		<title lang="zh">外交风云7/48</title>
+		<title lang="zh">外交风云第7集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240429135600 +0800" stop="20240429144800 +0800" channel="cctv1">
-		<title lang="zh">外交风云8/48</title>
+		<title lang="zh">外交风云第8集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240429144800 +0800" stop="20240429153400 +0800" channel="cctv1">
-		<title lang="zh">外交风云9/48</title>
+		<title lang="zh">外交风云第9集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240429153400 +0800" stop="20240429162100 +0800" channel="cctv1">
-		<title lang="zh">外交风云10/48</title>
+		<title lang="zh">外交风云第10集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240429162100 +0800" stop="20240429170900 +0800" channel="cctv1">
-		<title lang="zh">外交风云11/48</title>
+		<title lang="zh">外交风云第11集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240429170900 +0800" stop="20240429173900 +0800" channel="cctv1">
@@ -6768,22 +6768,22 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240429200000 +0800" stop="20240429200600 +0800" channel="cctv1">
-		<title lang="zh">前情提要-《城中之城》31/40</title>
+		<title lang="zh">前情提要- 《城中之城》第31集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240429200600 +0800" stop="20240429205600 +0800" channel="cctv1">
+	<programme start="20240429200600 +0800" stop="20240429205400 +0800" channel="cctv1">
 		<title lang="zh">城中之城-（一套版）-31/40</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240429205600 +0800" stop="20240429205700 +0800" channel="cctv1">
-		<title lang="zh">前情提要-《城中之城》32/40</title>
+	<programme start="20240429205400 +0800" stop="20240429205500 +0800" channel="cctv1">
+		<title lang="zh">前情提要- 《城中之城》第32集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240429205700 +0800" stop="20240429215200 +0800" channel="cctv1">
+	<programme start="20240429205500 +0800" stop="20240429214900 +0800" channel="cctv1">
 		<title lang="zh">城中之城-（一套版）-32/40</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240429215200 +0800" stop="20240429220000 +0800" channel="cctv1">
+	<programme start="20240429214900 +0800" stop="20240429220000 +0800" channel="cctv1">
 		<title lang="zh">精彩一刻-2024-186国宝铜壶</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -27063,8 +27063,188 @@
 		<title lang="zh">动画片</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240429030000 +0800" stop="20240429235900 +0800" channel="btvchild">
+	<programme start="20240429030000 +0800" stop="20240429040500 +0800" channel="btvchild">
 		<title lang="zh">动画片</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429040500 +0800" stop="20240429043300 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄6(7)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429043300 +0800" stop="20240429060000 +0800" channel="btvchild">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者(7)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429060000 +0800" stop="20240429062000 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄8(1)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429062000 +0800" stop="20240429064000 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄8(2)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429064000 +0800" stop="20240429070900 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄8(3)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429070900 +0800" stop="20240429073200 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄8(4)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429073200 +0800" stop="20240429075500 +0800" channel="btvchild">
+		<title lang="zh">卡酷起床号:时光的画笔(11)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429075500 +0800" stop="20240429081800 +0800" channel="btvchild">
+		<title lang="zh">熊熊帮帮团2(1)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429081800 +0800" stop="20240429083900 +0800" channel="btvchild">
+		<title lang="zh">熊熊帮帮团2(2)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429083900 +0800" stop="20240429090000 +0800" channel="btvchild">
+		<title lang="zh">熊熊帮帮团2(3)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429090000 +0800" stop="20240429092100 +0800" channel="btvchild">
+		<title lang="zh">熊熊帮帮团2(4)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429092100 +0800" stop="20240429092700 +0800" channel="btvchild">
+		<title lang="zh">卡酷幼儿园</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429092700 +0800" stop="20240429094800 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(11)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429094800 +0800" stop="20240429100900 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(12)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429100900 +0800" stop="20240429103000 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(13)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429103000 +0800" stop="20240429105200 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(14)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429105200 +0800" stop="20240429111400 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(15)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429111400 +0800" stop="20240429113600 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(16)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429113600 +0800" stop="20240429115800 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(17)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429115800 +0800" stop="20240429122000 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(18)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429122000 +0800" stop="20240429124200 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(19)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429124200 +0800" stop="20240429130500 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(20)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429130500 +0800" stop="20240429132700 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(21)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429132700 +0800" stop="20240429134900 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(22)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429134900 +0800" stop="20240429140900 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(23)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429140900 +0800" stop="20240429153500 +0800" channel="btvchild">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者(7)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429153500 +0800" stop="20240429155600 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(24)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429155600 +0800" stop="20240429161700 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(25)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429161700 +0800" stop="20240429163900 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(26)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429163900 +0800" stop="20240429170000 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(1)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429170000 +0800" stop="20240429172600 +0800" channel="btvchild">
+		<title lang="zh">卡酷动物园</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429172600 +0800" stop="20240429173200 +0800" channel="btvchild">
+		<title lang="zh">大玩家周间版(上)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429173200 +0800" stop="20240429175500 +0800" channel="btvchild">
+		<title lang="zh">魔幻陀螺(6)精编版(11)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429175500 +0800" stop="20240429181600 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(24)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429181600 +0800" stop="20240429183800 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(25)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429183800 +0800" stop="20240429190000 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(26)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429190000 +0800" stop="20240429194900 +0800" channel="btvchild">
+		<title lang="zh">卡卡牛剧场(上)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429194900 +0800" stop="20240429195700 +0800" channel="btvchild">
+		<title lang="zh">大玩家周间版(下)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429195700 +0800" stop="20240429203900 +0800" channel="btvchild">
+		<title lang="zh">卡卡牛剧场(下)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429203900 +0800" stop="20240429210000 +0800" channel="btvchild">
+		<title lang="zh">熊出没之怪兽计划2(1)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429210000 +0800" stop="20240429212100 +0800" channel="btvchild">
+		<title lang="zh">熊出没之怪兽计划2(2)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429212100 +0800" stop="20240429214700 +0800" channel="btvchild">
+		<title lang="zh">熊出没之怪兽计划2(3)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429214700 +0800" stop="20240429220800 +0800" channel="btvchild">
+		<title lang="zh">熊出没之怪兽计划2(4)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429220800 +0800" stop="20240429222800 +0800" channel="btvchild">
+		<title lang="zh">熊出没之怪兽计划2(5)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240429222800 +0800" stop="20240429235900 +0800" channel="btvchild">
+		<title lang="zh">永不消逝的电波</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240429000000 +0800" stop="20240429005200 +0800" channel="sdetv">
@@ -27201,6 +27381,238 @@
 	</programme>
 	<programme start="20240430230500 +0800" stop="20240430235900 +0800" channel="xiamen">
 		<title lang="zh">密使17-18</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430000000 +0800" stop="20240430001200 +0800" channel="btvchild">
+		<title lang="zh">永不消逝的电波</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430001200 +0800" stop="20240430003200 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄5(7)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430003200 +0800" stop="20240430005200 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄5(8)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430005200 +0800" stop="20240430011200 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄5(9)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430011200 +0800" stop="20240430013200 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄5(10)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430013200 +0800" stop="20240430015200 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄5(11)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430015200 +0800" stop="20240430021200 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄5(12)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430021200 +0800" stop="20240430023200 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄5(13)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430023200 +0800" stop="20240430025200 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄6(8)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430025200 +0800" stop="20240430031200 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄6(9)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430031200 +0800" stop="20240430033200 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄6(10)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430033200 +0800" stop="20240430035200 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄6(11)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430035200 +0800" stop="20240430041200 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄6(12)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430041200 +0800" stop="20240430043200 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄6(13)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430043200 +0800" stop="20240430060000 +0800" channel="btvchild">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者(7)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430060000 +0800" stop="20240430062000 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄8(5)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430062000 +0800" stop="20240430064000 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄8(6)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430064000 +0800" stop="20240430070900 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄8(7)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430070900 +0800" stop="20240430073200 +0800" channel="btvchild">
+		<title lang="zh">猪猪侠之竞速小英雄8(8)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430073200 +0800" stop="20240430075500 +0800" channel="btvchild">
+		<title lang="zh">卡酷起床号:时光的画笔(12)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430075500 +0800" stop="20240430081800 +0800" channel="btvchild">
+		<title lang="zh">熊熊帮帮团2(5)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430081800 +0800" stop="20240430083900 +0800" channel="btvchild">
+		<title lang="zh">熊熊帮帮团2(6)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430083900 +0800" stop="20240430090000 +0800" channel="btvchild">
+		<title lang="zh">熊熊帮帮团2(7)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430090000 +0800" stop="20240430092100 +0800" channel="btvchild">
+		<title lang="zh">熊熊帮帮团2(8)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430092100 +0800" stop="20240430092700 +0800" channel="btvchild">
+		<title lang="zh">卡酷幼儿园</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430092700 +0800" stop="20240430094800 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(23)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430094800 +0800" stop="20240430100900 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(24)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430100900 +0800" stop="20240430103000 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(25)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430103000 +0800" stop="20240430105200 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(26)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430105200 +0800" stop="20240430111400 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(1)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430111400 +0800" stop="20240430113600 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(2)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430113600 +0800" stop="20240430115800 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(3)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430115800 +0800" stop="20240430122000 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(4)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430122000 +0800" stop="20240430124200 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(5)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430124200 +0800" stop="20240430130500 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(6)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430130500 +0800" stop="20240430132700 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(7)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430132700 +0800" stop="20240430134900 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(8)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430134900 +0800" stop="20240430140900 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(9)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430140900 +0800" stop="20240430153500 +0800" channel="btvchild">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者(7)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430153500 +0800" stop="20240430155600 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(10)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430155600 +0800" stop="20240430161700 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(11)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430161700 +0800" stop="20240430163900 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(12)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430163900 +0800" stop="20240430170000 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(13)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430170000 +0800" stop="20240430172600 +0800" channel="btvchild">
+		<title lang="zh">卡酷偶剧院</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430172600 +0800" stop="20240430173200 +0800" channel="btvchild">
+		<title lang="zh">大玩家周间版(上)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430173200 +0800" stop="20240430175500 +0800" channel="btvchild">
+		<title lang="zh">魔幻陀螺(6)精编版(12)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430175500 +0800" stop="20240430181600 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(2)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430181600 +0800" stop="20240430183800 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(3)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430183800 +0800" stop="20240430190000 +0800" channel="btvchild">
+		<title lang="zh">熊出没之小小世界(4)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430190000 +0800" stop="20240430194900 +0800" channel="btvchild">
+		<title lang="zh">卡卡牛剧场(上)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430194900 +0800" stop="20240430195700 +0800" channel="btvchild">
+		<title lang="zh">大玩家周间版(下)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430195700 +0800" stop="20240430203900 +0800" channel="btvchild">
+		<title lang="zh">卡卡牛剧场(下)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430203900 +0800" stop="20240430210000 +0800" channel="btvchild">
+		<title lang="zh">熊出没之怪兽计划2(6)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430210000 +0800" stop="20240430212100 +0800" channel="btvchild">
+		<title lang="zh">熊出没之怪兽计划2(7)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430212100 +0800" stop="20240430214700 +0800" channel="btvchild">
+		<title lang="zh">熊出没之怪兽计划2(8)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430214700 +0800" stop="20240430220800 +0800" channel="btvchild">
+		<title lang="zh">熊出没之怪兽计划2(9)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430220800 +0800" stop="20240430222800 +0800" channel="btvchild">
+		<title lang="zh">熊出没之怪兽计划2(10)</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240430222800 +0800" stop="20240430235900 +0800" channel="btvchild">
+		<title lang="zh">51号兵站</title>
 		<desc lang="zh"></desc>
 	</programme>
 </tv>
