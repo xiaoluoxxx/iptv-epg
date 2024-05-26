@@ -7188,23 +7188,23 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240527130700 +0800" stop="20240527135300 +0800" channel="cctv4">
-		<title lang="zh">我怕来不及16/52</title>
+		<title lang="zh">我怕来不及第16集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240527135300 +0800" stop="20240527144000 +0800" channel="cctv4">
-		<title lang="zh">我怕来不及17/52</title>
+		<title lang="zh">我怕来不及第17集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240527144000 +0800" stop="20240527152600 +0800" channel="cctv4">
-		<title lang="zh">我怕来不及18/52</title>
+		<title lang="zh">我怕来不及第18集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240527152600 +0800" stop="20240527161200 +0800" channel="cctv4">
-		<title lang="zh">我怕来不及19/52</title>
+		<title lang="zh">我怕来不及第19集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240527161200 +0800" stop="20240527165900 +0800" channel="cctv4">
-		<title lang="zh">我怕来不及20/52</title>
+		<title lang="zh">我怕来不及第20集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240527165900 +0800" stop="20240527170700 +0800" channel="cctv4">
@@ -7260,11 +7260,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240527230400 +0800" stop="20240527235000 +0800" channel="cctv4">
-		<title lang="zh">老闺蜜36/48</title>
+		<title lang="zh">老闺蜜第36集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240527235000 +0800" stop="20240527235900 +0800" channel="cctv4">
-		<title lang="zh">老闺蜜37/48</title>
+		<title lang="zh">老闺蜜第37集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240527010500 +0800" stop="20240527013500 +0800" channel="cctv5">
@@ -9356,7 +9356,7 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240528003600 +0800" stop="20240528012300 +0800" channel="cctv4">
-		<title lang="zh">老闺蜜38/48</title>
+		<title lang="zh">老闺蜜第38集</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240528012300 +0800" stop="20240528015300 +0800" channel="cctv4">
@@ -10579,8 +10579,12 @@
 		<title lang="zh">大决战-19/49</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240528003200 +0800" stop="20240528060000 +0800" channel="cctv15">
+	<programme start="20240528003200 +0800" stop="20240528011900 +0800" channel="cctv15">
 		<title lang="zh">CCTV音乐厅-2024-107-名家名曲（37）</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240528011900 +0800" stop="20240528060000 +0800" channel="cctv15">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240528060000 +0800" stop="20240528070400 +0800" channel="cctv15">
@@ -10889,6 +10893,10 @@
 	</programme>
 	<programme start="20240528233800 +0800" stop="20240528235900 +0800" channel="cctv17">
 		<title lang="zh">超级农人秀-2024-104</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240528000000 +0800" stop="20240528060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240528060000 +0800" stop="20240528060100 +0800" channel="cctv4k">
