@@ -5439,47 +5439,47 @@
 		<title lang="zh">第八个嫌疑人</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240613064100 +0800" stop="20240613065200 +0800" channel="cctv6">
-		<title lang="zh">核心价值观主题微电影：全面小康一起走</title>
+	<programme start="20240613064100 +0800" stop="20240613071200 +0800" channel="cctv6">
+		<title lang="zh">我和我的祖国：前夜</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240613065200 +0800" stop="20240613083500 +0800" channel="cctv6">
+	<programme start="20240613071200 +0800" stop="20240613085500 +0800" channel="cctv6">
 		<title lang="zh">奶酪店</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240613083500 +0800" stop="20240613102800 +0800" channel="cctv6">
+	<programme start="20240613085500 +0800" stop="20240613104800 +0800" channel="cctv6">
 		<title lang="zh">热血合唱团</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240613102800 +0800" stop="20240613121000 +0800" channel="cctv6">
+	<programme start="20240613104800 +0800" stop="20240613123000 +0800" channel="cctv6">
 		<title lang="zh">宛城之战</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240613121000 +0800" stop="20240613122000 +0800" channel="cctv6">
+	<programme start="20240613123000 +0800" stop="20240613124000 +0800" channel="cctv6">
 		<title lang="zh">音乐电影欣赏</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240613122000 +0800" stop="20240613134900 +0800" channel="cctv6">
+	<programme start="20240613124000 +0800" stop="20240613140900 +0800" channel="cctv6">
 		<title lang="zh">东陵大盗：第4集</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240613134900 +0800" stop="20240613152700 +0800" channel="cctv6">
+	<programme start="20240613140900 +0800" stop="20240613154700 +0800" channel="cctv6">
 		<title lang="zh">出笼马骝</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240613152700 +0800" stop="20240613180700 +0800" channel="cctv6">
+	<programme start="20240613154700 +0800" stop="20240613182700 +0800" channel="cctv6">
 		<title lang="zh">三大队</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240613180700 +0800" stop="20240613194900 +0800" channel="cctv6">
+	<programme start="20240613182700 +0800" stop="20240613200900 +0800" channel="cctv6">
 		<title lang="zh">临时家族</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240613194900 +0800" stop="20240613200000 +0800" channel="cctv6">
+	<programme start="20240613200900 +0800" stop="20240613202000 +0800" channel="cctv6">
 		<title lang="zh">今日影评2024-165</title>
 		<desc lang="zh"></desc>
 	</programme>
-	<programme start="20240613200000 +0800" stop="20240613220000 +0800" channel="cctv6">
+	<programme start="20240613202000 +0800" stop="20240613220000 +0800" channel="cctv6">
 		<title lang="zh">首届中国（沈阳）喜剧电影周闭幕式暨喜剧电影盛典</title>
 		<desc lang="zh"></desc>
 	</programme>
@@ -8992,11 +8992,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240614090000 +0800" stop="20240614094700 +0800" channel="cctv4k">
-		<title lang="zh">老闺蜜-(4K)-3/48</title>
+		<title lang="zh">老闺蜜-（4K）-3/48</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240614094700 +0800" stop="20240614103300 +0800" channel="cctv4k">
-		<title lang="zh">老闺蜜-(4K)-4/48</title>
+		<title lang="zh">老闺蜜-（4K）-4/48</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240614103300 +0800" stop="20240614103300 +0800" channel="cctv4k">
@@ -9144,11 +9144,11 @@
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240614200000 +0800" stop="20240614204800 +0800" channel="cctv4k">
-		<title lang="zh">老闺蜜-(4K)-5/48</title>
+		<title lang="zh">老闺蜜-（4K）-5/48</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240614204800 +0800" stop="20240614213400 +0800" channel="cctv4k">
-		<title lang="zh">老闺蜜-(4K)-6/48</title>
+		<title lang="zh">老闺蜜-（4K）-6/48</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240614213400 +0800" stop="20240614213400 +0800" channel="cctv4k">
@@ -11049,6 +11049,10 @@
 	</programme>
 	<programme start="20240615233700 +0800" stop="20240615235900 +0800" channel="cctv17">
 		<title lang="zh">乐游新乡村-2024-25</title>
+		<desc lang="zh"></desc>
+	</programme>
+	<programme start="20240615000000 +0800" stop="20240615060000 +0800" channel="cctv4k">
+		<title lang="zh">再见</title>
 		<desc lang="zh"></desc>
 	</programme>
 	<programme start="20240615060000 +0800" stop="20240615060100 +0800" channel="cctv4k">
