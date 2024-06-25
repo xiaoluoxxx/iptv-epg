@@ -9,7 +9,7 @@ on:
   # auto update at 1,7,12,18 o'clock Beijing time
   # check at https://crontab.guru/
   # - cron: "0 0,10,16,22 * * *" 
-  - cron: "0 0,22 * * *" 
+  - cron: "0 0 * * *" 
 
 jobs:
   build:
@@ -41,13 +41,13 @@ jobs:
       - name: Update tv-guide
         run: |
           pwd
-          python get-epg.py
+          python epg.py
       - name: Commit changes
         run: |
           git config --local user.email "github-actions-bot@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "🚀 update(更新) tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
+          git diff-index --quiet HEAD || git commit -m "🚀 update(更新) $(date '+%Y-%m-%d %H:%M:%S')"
       - name: Pull changes
         run: git pull -r
       - name: Push changes
