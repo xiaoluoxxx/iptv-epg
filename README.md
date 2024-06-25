@@ -25,7 +25,7 @@ PTV直播源码，适用于电视直播。
 
 - **Github**
 
-  `https://ghproxy.net/https://raw.githubusercontent.com/xiaoluoxxx/iptv-one/main/get_epg.xml`
+  `https://ghproxy.net/https://raw.githubusercontent.com/xiaoluoxxx/iptv-one/main/epg.xml`
   
 - **某大神**
   
