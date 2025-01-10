@@ -4,6 +4,7 @@ import pytz
 import requests
 from lxml import html
 from datetime import datetime, timezone, timedelta
+from xml.sax.saxutils import escape
 
 tz = pytz.timezone('Asia/Shanghai')
 
